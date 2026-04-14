@@ -82,3 +82,20 @@ u20 - Ramos Fuentes Rivera, Adriana Nicole<br>
 - [Anexos](#anexos)
 
 ---
+
+# Student Outcome
+
+El curso contribuye al cumplimiento del Student Outcome ABET:
+
+**ABET – EAC - Student Outcome 5**
+
+**Criterio:** *Capacidad de comunicarse efectivamente con un rango de audiencias.*
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
+
+| Criterio específico | Acciones realizadas | Conclusiones |
+|---------------------|---------------------|--------------|
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | Asmat Alminco, Martin Alejandro <br>**AV1** <br> <br> Contreras Torres, Arturo Valentino <br>**AV1** <br> <br> Güere Calero, Fernando Julio <br>**AV1** <br> <br> Huaman Oscco, Aldo Jesus <br>**AV1** <br> <br> Ramos Fuentes Rivera, Adriana Nicole <br>**AV1** <br> | |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | Asmat Alminco, Martin Alejandro <br>**AV1** <br> <br> Contreras Torres, Arturo Valentino <br>**AV1** <br> <br> Güere Calero, Fernando Julio <br>**AV1** <br> <br> Huaman Oscco, Aldo Jesus <br>**AV1** <br> <br> Ramos Fuentes Rivera, Adriana Nicole <br>**AV1** <br> | |
+
+---
