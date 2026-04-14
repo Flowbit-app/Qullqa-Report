@@ -167,6 +167,12 @@ Qullqa se presenta como una solución escalable, con distintos planes que se ada
 
 ## 1.3. Segmentos objetivo
 
+- **Bodegueros independientes** <br>
+Propietarios de bodegas o minimarkets que gestionan su negocio de forma manual o con herramientas básicas. Presentan problemas como descontrol del stock, pérdidas por productos vencidos y falta de claridad sobre sus ganancias mes a mes. Buscan una solución simple y accesible para organizar mejor su negocio
+
+- **Farmacias independientes** <br>
+Pequeñas farmacias que requieran un control más riguroso del inventario, especialmente en fechas de vencimiento y disponibilidad de medicamentos. Necesitan herramientas más confiables que les permitan reducir riesgos, evitar pérdidas y asegurar un mejor control operativo.
+
 # Conclusiones
 ## Conclusiones y recomendaciones
 
