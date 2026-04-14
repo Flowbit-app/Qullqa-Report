@@ -29,9 +29,9 @@
 <p align="center">
 u202416272 - Asmat Alminco, Martin Alejandro<br>
 u202414802 - Contreras Torres, Arturo Valentino<br>
-u20 - Güere Calero, Fernando Julio<br>
-u20 - Huaman Oscco, Aldo Jesus<br>
-u20 - Ramos Fuentes Rivera, Adriana Nicole<br>
+u2024113169 - Güere Calero, Fernando Julio<br>
+u20231h067 - Huaman Oscco, Aldo Jesus<br>
+u202018427 - Ramos Fuentes Rivera, Adriana Nicole<br>
 
 </p>
 
