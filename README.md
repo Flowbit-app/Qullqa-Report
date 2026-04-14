@@ -99,3 +99,35 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | Asmat Alminco, Martin Alejandro <br>**AV1** <br> <br> Contreras Torres, Arturo Valentino <br>**AV1** <br> <br> Güere Calero, Fernando Julio <br>**AV1** <br> <br> Huaman Oscco, Aldo Jesus <br>**AV1** <br> <br> Ramos Fuentes Rivera, Adriana Nicole <br>**AV1** <br> | |
 
 ---
+
+# Capítulo I: Introducción
+## 1.1. Startup Profile
+
+### 1.1.1. Descripción de la Startup
+
+### 1.1.2. Perfiles de integrantes del equipo
+
+## 1.2. Solution Profile
+
+### 1.2.1. Antecedentes y problemática
+
+### 1.2.2. Lean UX Process
+
+#### 1.2.2.1. Lean UX Problem Statements
+
+#### 1.2.2.2. Lean UX Assumptions
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+#### 1.2.2.4. Lean UX Canvas
+
+## 1.3. Segmentos objetivo
+
+# Conclusiones
+## Conclusiones y recomendaciones
+
+## Video About-the-Team
+
+# Bibliografía
+
+# Anexos
