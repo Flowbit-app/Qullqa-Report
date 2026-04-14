@@ -122,6 +122,26 @@ Nuestros valores son:
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
+<table>
+  <tr>
+    <td rowspan="4" align="center">
+      <img src="assets/img/arturo-contreras.PNG" alt="Foto de Arturo Contreras" width="650"/>
+    </td>
+    <td><b>Nombre:</b> Arturo Valentino Contreras Torres</td>
+  </tr>
+  <tr>
+    <td><b>Código:</b> u202414802</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Descripción:</b><br/>
+      Soy <b>Arturo Valentino Contreras Torres</b>, tengo 19 años y estudio la carrera de Ingeniería de Software en la UPC, actualmente estoy en el 5to ciclo. Me gusta aprender y aplicar tecnologías innovadoras para resolver problemas complejos y desarrollar soluciones eficientes. Me apasiona participar en concursos de programación en donde aprendo más sobre temas como programación competitiva, lenguajes como C++, Python, Java, frameworks como Flutter y habilidades como el trabajo en equipo.
+      <br/><br/>
+      Dentro del equipo, contribuyo en el desarrollo frontend y backend, asegurándome de aplicar principios de Domain Driven Design, patrones de diseño y buenas prácticas de desarrollo de software. Me considero una persona responsable, creativa y orientada al trabajo en equipo, con un enfoque en la mejora continua frente a nuevos desafíos.
+    </td>
+  </tr>
+</table>
+
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
