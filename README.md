@@ -144,6 +144,15 @@ Nuestros valores son:
 
 ## 1.2. Solution Profile
 
+Qullqa es una aplicación desarrollada por la startup Flowbit, orientada a optimizar la gestión de bodegas y farmacias independientes mediante herramientas digitales accesibles y eficientes. La plataforma permite a los usuarios controlar su inventario, registrar ventas, gestionar productos y obtener reportes que faciliten la toma de decisiones.
+
+El sistema está diseñado para reemplazar métodos manuales o poco eficientes, integrando funcionalidades como alertas de bajo stock, notificaciones de productos por vencer y dashboards interactivos que brindan un visión clara del estado del negocio. De esta manera, Qullqa contribuye a reducir pérdidas económicas, mejorar la organización y aumentar la rentabilidad de los negocios.
+
+Además, como valor diferencial, la solución tiene integración con dispositivos IoT que permiten el seguimiento de entregas hacia el almacén o bodega, brindando mayor seguridad y control de los productos.
+
+Qullqa se presenta como una solución escalable, con distintos planes que se adaptan a las necesidades de cada negocio, desde funcionalidades básicas hasta herramientas más avanzadas de análisis y gestión.
+
+
 ### 1.2.1. Antecedentes y problemática
 
 ### 1.2.2. Lean UX Process
