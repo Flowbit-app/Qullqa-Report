@@ -103,6 +103,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 
+### 1.1.1. Descripción de la Startup
+
 Somos **Flowbit**, una startup tecnológica creada por estudiantes de la carrera Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC). Nuestra startup está enfocada en el desarrollo de soluciones digitales innovadoras orientadas a optimizar la gestión de negocios tradicionales mediante el uso de software inteligente y tecnologías emergentes. La empresa busca transformar procesos manuales e ineficientes en sistemas automatizados que permitan mejorar la toma de decisiones, reducir pérdidas y aumentar la productividad.
 
 Nuestro producto principal es **Qullqa**, una solución diseñada para la gestión de bodegas y farmacias, integrando funcionalidades como control de inventario, reportes de ventas, alertas inteligentes y, como valor diferencial, el uso de dispositivos IoT para el seguimiento de entregas.
@@ -117,8 +119,6 @@ Nuestros valores son:
 - Accesibilidad: Crear herramientas fáciles y accesibles para negocios pequeños
 - Responsabilidad: Garantizar confiabilidad en los datos y procesos
 - Calidad: Priorizar la experiencia y necesidades del usuario
-
-### 1.1.1. Descripción de la Startup
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
