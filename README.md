@@ -272,6 +272,7 @@ Estrategia de Captación: Utilizaremos un embudo de ventas centrado en el Market
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 <div align="justify">
+
 ##### Hipótesis de Digitalización y Velocidad (Bodegas)
 Creemos que al ofrecer una aplicación con arquitectura SPA que es un 30% más veloz que los registros manuales y sistemas antiguos, lograremos que los bodegueros independientes abandonen el uso de cuadernos. Sabremos que tenemos razón cuando el tiempo de registro de ventas sea menor a 10 segundos y logremos que el 70% de los usuarios registrados usen la app diariamente durante su primer mes.
 
