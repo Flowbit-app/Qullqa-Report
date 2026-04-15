@@ -125,7 +125,7 @@ Nuestros valores son:
 <table>
   <tr>
     <td rowspan="4" align="center">
-      <img src="assets/img/arturo-contreras.PNG" alt="Foto de Arturo Contreras" width="650"/>
+      <img src="assets/img/arturo-contreras.PNG" alt="Foto de Arturo Contreras" width="500"/>
     </td>
     <td><b>Nombre:</b> Arturo Valentino Contreras Torres</td>
   </tr>
@@ -138,6 +138,26 @@ Nuestros valores son:
       Soy <b>Arturo Valentino Contreras Torres</b>, tengo 19 años y estudio la carrera de Ingeniería de Software en la UPC, actualmente estoy en el 5to ciclo. Me gusta aprender y aplicar tecnologías innovadoras para resolver problemas complejos y desarrollar soluciones eficientes. Me apasiona participar en concursos de programación en donde aprendo más sobre temas como programación competitiva, lenguajes como C++, Python, Java, frameworks como Flutter y habilidades como el trabajo en equipo.
       <br/><br/>
       Dentro del equipo, contribuyo en el desarrollo frontend y backend, asegurándome de aplicar principios de Domain Driven Design, patrones de diseño y buenas prácticas de desarrollo de software. Me considero una persona responsable, creativa y orientada al trabajo en equipo, con un enfoque en la mejora continua frente a nuevos desafíos.
+    </td>
+  </tr>
+  <tr>
+  </tr>
+
+  <tr>
+    <td rowspan="4" align="center">
+      <img src="assets/img/aldo-jesus.PNG" alt="Foto de Aldo Huaman" width="500"/>
+    </td>
+    <td><b>Nombre:</b> Aldo Jesus Huaman Oscco</td>
+  </tr>
+  <tr>
+    <td><b>Código:</b> u20231h067</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Descripción:</b><br/>
+      Soy <b>Aldo Jesus Huaman Oscco</b>, tengo 20 años y estudio la carrera de Ingeniería de Software en la UPC, estoy cursando el 5to ciclo de la carrera. Disfruto de resolver distintos tipos de problemas que impliquen logica para su resolucion. Tengo interes en desarrollar proyectos de interes social para el desarrollo de habilidades para mi portafolio profesional, manejo distintas tecnologias como lenguajes de programacion y de tipeado, conozco el desarrollo de fronted y backend. Disfruto de aplicar un manejo estructurado con el desarrollo de metodologias agiles en equipo. 
+      <br/><br/>
+      Dentro del equipo, contribuyo en fronted y backend con proyeccion a IOT, validare la aplicacion de principios DDD, y el seguimiento de patrones para la arquitectura asi como la implementacion de algoritmos que permitan la escalabilidad de nuestra base de datos en conjunto con el sistema.
     </td>
   </tr>
 </table>
