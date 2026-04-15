@@ -145,7 +145,7 @@ Nuestros valores son:
 
   <tr>
     <td rowspan="4" align="center">
-      <img src="assets/img/aldo-jesus.PNG" alt="Foto de Aldo Huaman" width="500"/>
+      <img src="assets/img/aldo-jesus.png" alt="Foto de Aldo Huaman" width="500"/>
     </td>
     <td><b>Nombre:</b> Aldo Jesus Huaman Oscco</td>
   </tr>
