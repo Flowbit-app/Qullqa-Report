@@ -155,11 +155,59 @@ Qullqa se presenta como una solución escalable, con distintos planes que se ada
 
 ### 1.2.1. Antecedentes y problemática
 
+- **What:**
+
+
+
+- **Where:**
+
+
+
+- **When:**
+
+
+
+- **Who:** <br/>
+  <div align="justify">
+    El problema afecta principalmente a dos perfiles de microempresarios en el sector de ventas minoristas:
+  </div>
+  <ul>
+    <li>
+      <div align="justify">
+        El primer segmento objetivo son los bodegueros independientes. Este segmento está conformado por propietarios de bodegas o minimarkets que, por lo general, gestionan su negocio de forma manual o apoyándose en herramientas muy básicas. Estos emprendedores suelen manejar sus establecimientos de manera independiente o con el soporte de su familia, basando su administración diaria mayormente en métodos empíricos que resultan insuficientes para las demandas actuales del mercado.
+      </div>
+    </li>
+    <br/>
+    <li>
+      <div align="justify">
+        Como consecuencia de esta gestión tradicional, los bodegueros enfrentan desafíos críticos como el descontrol total de su stock, pérdidas económicas por productos vencidos y una falta de claridad sobre las ganancias reales obtenidas mes a mes. Ante esta situación, nuestro grupo busca una solución tecnológica que sea simple y accesible, permitiéndoles organizar mejor su negocio y optimizar su rentabilidad de manera intuitiva.
+      </div>
+    </li>
+  </ul>
+
+</div>
+
+
+
+- **Why:**
+
+
+
+- **How:**
+
+
+
+- **How much:**
+
+
+
+
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
 
 #### 1.2.2.2. Lean UX Assumptions
+
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
