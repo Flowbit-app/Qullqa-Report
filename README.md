@@ -140,6 +140,25 @@ Nuestros valores son:
       Dentro del equipo, contribuyo en el desarrollo frontend y backend, asegurándome de aplicar principios de Domain Driven Design, patrones de diseño y buenas prácticas de desarrollo de software. Me considero una persona responsable, creativa y orientada al trabajo en equipo, con un enfoque en la mejora continua frente a nuevos desafíos.
     </td>
   </tr>
+
+  <tr>
+    <td rowspan="4" align="center">
+      <img src="assets/img/fernando-guere.PNG" alt="Foto de Fernando Guere" width="650"/>
+    </td>
+    <td><b>Nombre:</b> Fernando Julio Güere Calero</td>
+  </tr>
+  <tr>
+    <td><b>Código:</b> u202413169</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Descripción:</b><br/>
+      Soy <b>Fernando Julio Güere Calero</b>, tengo 18 años y estudio la carrera de Ingeniería de Software en la UPC, actualmente estoy en el 5to ciclo. Cuento con los conocimientos para programar en C++, Python y gestión de base de datos SQL. Además, tengo conocimiento para el desarrollo de páginas web usando HTML, CSS y JavaScript. Siempre estoy interesado en expandir mis conocimientos con otros lenguajes de programación para fortalecer mis competencias técnicas y enfrentar retos en la industria. 
+      <br/><br/>
+      Dentro del equipo, cumplo con las actividades de documentación y programación en un nivel intermedio. También quisiera destacar que soy responsable con las distintas tareas establecidas. 
+    </td>
+  </tr>
+
 </table>
 
 ## 1.2. Solution Profile
