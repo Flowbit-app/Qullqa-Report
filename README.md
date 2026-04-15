@@ -271,6 +271,16 @@ Estrategia de Captación: Utilizaremos un embudo de ventas centrado en el Market
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+<div align="justify">
+##### Hipótesis de Digitalización y Velocidad (Bodegas)
+Creemos que al ofrecer una aplicación con arquitectura SPA que es un 30% más veloz que los registros manuales y sistemas antiguos, lograremos que los bodegueros independientes abandonen el uso de cuadernos. Sabremos que tenemos razón cuando el tiempo de registro de ventas sea menor a 10 segundos y logremos que el 70% de los usuarios registrados usen la app diariamente durante su primer mes.
+
+##### Hipótesis de Control y Salud Pública (Farmacias)
+Creemos que al automatizar las alertas de fechas de vencimiento, lotes y trazabilidad mediante tecnología escalable e IoT, lograremos eliminar el riesgo de vender productos caducados en farmacias independientes. Sabremos que tenemos razón cuando los dueños de las boticas logren retirar el 100% de los medicamentos próximos a vencer antes de su caducidad, reduciendo sus pérdidas económicas por mermas en un 20%.
+
+##### Hipótesis de Sostenibilidad y Alcance (Negocio)
+Creemos que al utilizar una infraestructura de Azure SQL Database bajo el modelo de pago por uso ($5 - $15 USD) y campañas en TikTok/YouTube, lograremos operar una solución de nivel empresarial con una inversión inicial mínima. Sabremos que tenemos razón cuando el costo de mantenimiento por cada cliente sea lo suficientemente bajo para alcanzar el punto de equilibrio en los primeros 6 meses, convirtiendo al menos el 5% de las visualizaciones de nuestros anuncios en registros reales.
+</div>
 
 #### 1.2.2.4. Lean UX Canvas
 
