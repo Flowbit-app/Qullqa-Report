@@ -252,8 +252,14 @@ Estrategia de Captación: Utilizaremos un embudo de ventas centrado en el Market
 
 
 
-- **How much:**
-
+- **How much:** <br/>
+      <div align="justify">
+La ejecución de Qullqa se centra en eliminar la fricción operativa mediante una experiencia de usuario superior y una infraestructura técnica robusta.
+Segmentación Dinámica: Implementaremos un modelo de suscripción escalable con diferentes planes de adquisición (Gratuito/Bodegas/Farmacias) donde la plataforma recomienda el plan ideal mediante un diagnóstico inicial de la complejidad del inventario del cliente y según este se le ofrece una capacidad en el modelo de base de datos que va de acuerdo a su plan elegido .
+Optimización de Performance (UX/UI): A diferencia de los sistemas legados en supermercados, Qullqa se construye bajo una arquitectura de Single Page Application (SPA), garantizando tiempos de respuesta mínimos. Esto reduce la tasa de abandono y optimiza el tiempo de atención al cliente final. Lo que supone una problemática muy vista en estos software de gestión de inventarios o similares está siendo abordada desde la arquitectura del backend con el uso de patrones y la facilidad con la que se verán los datos en pantalla.
+Es escalable para la integración de hardware IoT (sensores y dispositivos de rastreo) para automatizar la trazabilidad de la cadena de suministro hacia la bodega, transformando un software de gestión simple en una solución de seguridad y logística 360°.
+Estrategia de Captación: Utilizaremos un embudo de ventas centrado en el Marketing de Contenido, demostrando la facilidad de uso a través de casos de éxito reales en redes sociales, posicionando a Qullqa no solo como una herramienta, sino como el aliado para la profesionalización de las bodegas y farmacias.
+      </div>
 
 
 
