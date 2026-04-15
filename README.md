@@ -207,12 +207,16 @@ Qullqa se presenta como una solución escalable, con distintos planes que se ada
 
 </div>
 
-
-
-- **Why:**
-
-
-
+- **Why:** <br/>
+  <div align="justify">
+    La realidad del sector minorista en el Perú se caracteriza por una profunda brecha tecnológica y operativa que compromete la sostenibilidad de miles de microempresas. Según Romero (2024), de las más de 535,000 bodegas que operan a nivel nacional, apenas un 12 % había logrado adoptar herramientas digitales antes de la emergencia sanitaria, cifra que experimentó un retroceso debido a la inexistencia de soluciones adaptadas a la realidad técnica de estos negocios. Esta situación es crítica si se considera que el 70 % de estos establecimientos son gestionados bajo métodos estrictamente tradicionales y manuales, donde la administración diaria depende casi en su totalidad de la memoria del propietario o de registros informales en papel. Esta dependencia de sistemas no automatizados genera un entorno de ineficiencia operativa que no solo ralentiza la atención, sino que anula la capacidad de crecimiento y competitividad frente a las grandes cadenas de retail moderno.
+  </div>
+  <br/>
+  <div align="justify">
+    Este rezago digital tiene un impacto financiero directo y medible, especialmente en el manejo de inventarios críticos. De acuerdo con Mendoza y Anchiraico (2018), la ausencia de sistemas de gestión técnica en las boticas independientes es el detonante principal de los quiebres de stock y la baja rotación de productos, factores que merman severamente la rentabilidad anual del negocio. En este contexto, la falta de una trazabilidad precisa sobre las existencias no solo deriva en pérdidas económicas por mercadería vencida, sino que escala a un riesgo latente para la salud pública al no poder garantizar la integridad de los fármacos. Asimismo, Delgado y Lopez (2024) sostienen que una gestión deficiente incide negativamente en los márgenes de ganancia al generar costos ocultos por almacenamiento inadecuado y desperdicio de capital. Esta problemática se agrava por la incertidumbre constante en la cadena de suministro y la falta de monitoreo en tiempo real, manteniendo al pequeño empresario en un estado de vulnerabilidad financiera ante un mercado cada vez más automatizado.
+  </div>
+  <br/>
+  
 - **How:**
 
 
