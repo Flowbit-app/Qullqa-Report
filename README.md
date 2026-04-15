@@ -160,6 +160,29 @@ Nuestros valores son:
       Dentro del equipo, contribuyo en fronted y backend con proyeccion a IOT, validare la aplicacion de principios DDD, y el seguimiento de patrones para la arquitectura asi como la implementacion de algoritmos que permitan la escalabilidad de nuestra base de datos en conjunto con el sistema.
     </td>
   </tr>
+<tr>
+
+</tr>
+  <tr>
+    <td rowspan="4" align="center">
+      <img src="assets/img/Fernando-Guere.png" alt="Foto de Fernando Güere" width="500"/>
+    </td>
+    <td><b>Nombre:</b> Fernando Julio Güere Calero</td>
+  </tr>
+  <tr>
+    <td><b>Código:</b> u202413169</td>
+  </tr>
+  <tr>
+    <td>
+    <div align="Justify">
+      <b>Descripción:</b><br/>
+      Soy <b>Fernando Julio Güere Calero</b>, tengo 19 años y estudio la carrera de Ingeniería de Software en la UPC, estoy cursando el 5to ciclo de la carrera. Cuento con los conocimientos para programar en C++, Python y gestión de base de datos SQL. Además, tengo conocimiento para el desarrollo de páginas web usando HTML, CSS y JavaScript. Siempre estoy interesado en expandir mis conocimientos con otros lenguajes de programación para fortalecer mis competencias técnicas y enfrentar retos en la industria. 
+      <br/><br/>
+      Dentro del equipo, cumplo con las actividades de documentación y programación en un nivel intermedio. También quisiera destacar que soy responsable con las distintas tareas establecidas.
+      </div>
+    </td>
+  </tr>
+
 </table>
 
 ## 1.2. Solution Profile
@@ -216,7 +239,7 @@ Qullqa se presenta como una solución escalable, con distintos planes que se ada
     Este rezago digital tiene un impacto financiero directo y medible, especialmente en el manejo de inventarios críticos. De acuerdo con Mendoza y Anchiraico (2018), la ausencia de sistemas de gestión técnica en las boticas independientes es el detonante principal de los quiebres de stock y la baja rotación de productos, factores que merman severamente la rentabilidad anual del negocio. En este contexto, la falta de una trazabilidad precisa sobre las existencias no solo deriva en pérdidas económicas por mercadería vencida, sino que escala a un riesgo latente para la salud pública al no poder garantizar la integridad de los fármacos. Asimismo, Delgado y Lopez (2024) sostienen que una gestión deficiente incide negativamente en los márgenes de ganancia al generar costos ocultos por almacenamiento inadecuado y desperdicio de capital. Esta problemática se agrava por la incertidumbre constante en la cadena de suministro y la falta de monitoreo en tiempo real, manteniendo al pequeño empresario en un estado de vulnerabilidad financiera ante un mercado cada vez más automatizado.
   </div>
   <br/>
-  
+
 - **How:**
 
 
