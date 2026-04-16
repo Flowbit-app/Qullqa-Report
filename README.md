@@ -268,6 +268,80 @@ Estrategia de Captación: Utilizaremos un embudo de ventas centrado en el Market
 #### 1.2.2.1. Lean UX Problem Statements
 
 #### 1.2.2.2. Lean UX Assumptions
+<div align="Justify">
+
+- **1. ¿Quién es el usuario?** <br/>
+  
+    Los usuarios de Qullqa principalmente son propietarios de bodegas y minimarkets independientes que gestionan sus negocios de forma empírica y manual, representando un sector donde el 70% de los dueños superan los 41 años. También se incluyen dueños de farmacias y boticas pequeñas que requieren un control técnico más estricto para evitar riesgos sanitarios y operativos.
+  
+
+- **2. ¿Dónde encaja nuestro producto en su trabajo o vida?** <br/>
+  
+    Qullqa se integra en el núcleo de la operación diaria del negocio. En las bodegas, sustituye el cuaderno de notas o la memoria del dueño por un centro de control digital para registrar ventas y stock en tiempo real. En las farmacias, se convierte en la herramienta de seguridad que monitorea la vigencia de los medicamentos. Además, facilita la recepción de mercadería al conectar la gestión del almacén con dispositivos IoT que rastrean el estado de las entregas.
+  
+
+- **3. ¿Qué problema tiene nuestro producto y cómo se puede resolver?** <br/>
+  <ul>
+    <li> 
+      <b>Resistencia al cambio digital:</b> Muchos bodegueros temen la complejidad técnica. <b>Solución:</b> Una interfaz extremadamente simplificada y un proceso de acompañamiento inicial que no requiera conocimientos avanzados.
+    </li>
+
+    <li>
+      <b>Costo de implementación:</b> Las MYPES suelen tener presupuestos limitados. <b>Solución:</b> Un modelo de precios escalonado (freemium) donde las funciones básicas sean accesibles para negocios muy pequeños.
+    </li>
+
+    <li>
+      <b>Precisión de los datos IoT:</b> Fallos en la conectividad podrían generar desconfianza. <b>Solución:</b> Implementar un sistema de caché local para que la app funcione sin internet y sincronice datos apenas recupere la conexión.
+    </li>
+
+  </ul>
+
+- **4. ¿Cuándo y cómo es usado nuestro producto?** <br/>
+  
+    Es una herramienta de uso constante: desde la apertura del local para verificar el inventario, durante todo el día para registrar cada venta, y al momento de recibir pedidos de proveedores para validar el ingreso de stock mediante sensores IoT. También se consulta el cierre de caja para visualizar el dashboard de ganancias netas y reportes de desempeño.
+  
+
+- **5. ¿Qué características son importantes?** <br/>
+  <ul>
+    <li><b>Gestión Inteligente de Inventario:</b> Registro automatizado de entradas, salidas y alertas de bajo stock.</li>
+    <li><b>Notificaciones de Vencimiento:</b> Alertas proactivas para evitar pérdidas por productos caducados.</li>
+    <li><b>Módulo IoT de Seguimiento:</b> Monitoreo de seguridad para productos en tránsito hacia el negocio.</li>
+    <li><b>Dashboards Financieros:</b> Visualización clara de ventas y rentabilidad real mes a mes.</li>
+  </ul>
+</div>
+
+- **6. ¿Cómo debe verse nuestro producto y cómo comportarse?** <br/>
+  <div align="justify">
+    Debe ser limpio, rápido y de alto contraste, facilitando la lectura para usuarios mayores que operan en entornos de iluminación variable. El comportamiento debe ser predictivo; por ejemplo, sugerir la reposición de un producto antes de que se agote basándose en patrones de venta previos.
+  </div>
+  <br/>
+
+- **Business Outcomes:** <br/>
+  <ul>
+    <li>
+    Posicionamiento como la plataforma de gestión para MYPES líder en el mercado peruano.</li>
+    <li>Generación de ingresos mediante planes premium para funciones avanzadas de análisis de datos e integración IoT.</li>
+    <li>Reducción del 20% en las pérdidas por productos vencidos en los negocios afiliados.</li>
+    <li>Alianzas estratégicas con proveedores mayoristas para integrar sus catálogos directamente en la app.</li>
+  </ul>
+
+- **User Outcomes:** <br/>
+  <ul>
+    <li><b>Claridad financiera:</b> El usuario conoce exactamente cuánto dinero gana y qué productos son los más rentables.</li>
+    <li><b>Ahorro de tiempo:</b> Reducción del tiempo dedicado a inventarios manuales de horas a solo minutos.</li>
+    <li><b>Seguridad:</b> Mayor confianza al recibir mercadería gracias al rastreo IoT.</li>
+    <li><b>Reducción de riesgos:</b> Eliminación de multas o riesgos sanitarios por venta de productos vencidos en farmacias.</li>
+  </ul>
+
+- **Features:** <br/>
+  <ul>
+    <li><b>Dashboard de Inventario:</b> Panel visual con estados de stock (disponible, crítico, agotado).</li>
+    <li><b>Sistema de Alertas:</b> Notificaciones push y correos sobre vencimientos próximos.</li>
+    <li><b>Integración con Sensores IoT:</b> Conexión con hardware para el seguimiento de entregas en tiempo real.</div></li>
+    <li><b>Registro de Ventas POS:</b> Interfaz táctil rápida para facturación y boleteo.</li>
+    <li><b>Reportes de Rentabilidad:</b> Gráficos automáticos de ingresos vs. egresos mensuales.</li>
+  </ul>
+</div> 
 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
