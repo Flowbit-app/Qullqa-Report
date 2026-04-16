@@ -394,6 +394,46 @@ Pequeñas farmacias que requieran un control más riguroso del inventario, espec
 
 ### 2.2.1. Diseño de entrevistas
 
+En esta sección se presenta el diseño de las entrevistas dirigidas a los segmentos objetivos, con el propósito de recolectar información relevante que permita comprender sus necesidades, comportamientos y problemáticas. Para ello, se han formulado preguntas principales y complementarias que guían la conversación, asegurando la obtención de datos tanto generales como específicos.
+
+**Preguntas complementarias:**
+- ¿Cuál es su edad?
+- ¿En qué distrito reside actualmente?
+- ¿Cuál es su estado civil?
+- ¿A qué se dedica?
+- ¿Qué fue lo que le inspiró a abrir su negocio?
+- ¿Qué habilidades considera que son más sobresalientes en usted?
+- ¿Qué canales usa para comunicarse con sus clientes?
+- ¿Cuál es su objetivo como bodeguero/dueña de farmacia respecto a ventas y gestión de su  negocio?
+- ¿Tiene alguna frustración respecto al manejo de su inventario?
+
+**Preguntas principales** <br>
+- Segmento Objetivo 1: (Bodegueros independientes)
+  - ¿Cómo es su rutina desde que llega la primera mercadería del día hasta que cierra la reja de la bodega?
+  - ¿Qué aplicaciones usa más en su día a día (WhatsApp para pedidos, Facebook, apps de bancos o alguna de delivery)?
+  - ¿Cómo anota o registra los productos que le traen los proveedores? ¿Usa cuaderno, Excel o confía en su memoria?
+  - ¿Qué hace usted cuando nota que un producto está por vencer y todavía tiene varias unidades en el estante?
+  - ¿Cuál es el mayor problema que enfrenta actualmente al manejar su inventario?
+  - ¿Ha tenido pérdidas por productos vencidos o falta de stock? ¿Cómo suele manejar esas situaciones?
+  - ¿Cómo calcula sus ganancias diarias o mensuales? ¿Le resulta fácil o complicado? 
+  - Si tuviera que contratar a un ayudante, ¿qué información del negocio le permitiría ver y qué cosas preferiría manejar solo usted?
+  - Si existiera una aplicación que le ayude a controlar su inventario y ventas de manera sencilla, ¿la usaría? ¿por qué?
+  - ¿Qué le podría generar dificultades al usar una aplicación para gestionar su negocio?
+
+- Segmento Objetivo 2: (Farmacias independientes)
+  - ¿Cómo es el proceso desde que un proveedor llega hasta que el producto está disponible para la venta?
+  - ¿Qué herramientas o aplicaciones utilizas en tu día a día para gestionar la farmacia?
+  - ¿Cómo registras los productos que ingresan a la farmacia?
+  - ¿Cómo controlas las fechas de vencimiento de los medicamentos? Cuáles son sus métodos para prevenirlo? 
+  - ¿Cuál es el mayor problema que enfrentas al manejar tu inventario?
+  - ¿Has tenido pérdidas por vencimientos o falta de stock? ¿Cómo las manejas?
+  - ¿Cómo haces el seguimiento de tus ventas o ganancias?
+  - ¿Qué información le gustaría tener para decidir qué productos comprar más o dejar de vender?
+  - ¿Qué tarea te quita más tiempo en el día y te gustaría automatizar?
+  - Si existiera una aplicación que te ayude a controlar inventario, vencimientos y ventas, ¿la usarías? ¿Qué te preocuparía o dificultaría al usarla?
+  - ¿Cómo categorizan los productos?
+
+
 ### 2.2.2. Registro de entrevistas
 
 ### 2.2.3. Análisis de entrevistas
