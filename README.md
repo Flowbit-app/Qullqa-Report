@@ -203,6 +203,26 @@ Nuestros valores son:
     </td>
   </tr>
 
+  <tr>
+  </tr>
+  <tr>
+    <td rowspan="4" align="center">
+      <img src="assets/img/martin-asmat.png" alt="Foto de martin asmat" width="500"/>
+    </td>
+    <td><b>Nombre:</b> Martin Alejandro Asmat Alminco </td>
+  </tr>
+  <tr>
+    <td><b>Código:</b> u202416272 </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Descripción:</b><br/>
+    Soy <b>Martin Asmat</b>, estudiante de quinto ciclo de la carrera de Ingeniería de Software. Cuento con experiencia en lenguajes de programación como Python y C++ para proyectos enfocados en el desarrollo de habilidades computacionales, las cuales apliqué en proyectos académicos enfocados en solucionar un problema a través de procesos de documentación de Ingeniería de software.
+      <br/><br/>
+     Dentro del equipo, cumplo el rol de un full stack al realizar actividades de documentación y programación a un nivel medio. Considero que soy una persona responsable y adaptable a distintas situaciones con buen time-management.  
+    </td>
+  </tr>
+
 
 </table>
 
