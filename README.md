@@ -393,6 +393,10 @@ Creemos que al utilizar una infraestructura de Azure SQL Database bajo el modelo
 </div>
 
 #### 1.2.2.4. Lean UX Canvas
+<br>
+<div>
+  <img src="assets/img/lean_ux_canvas(v2).png" alt="Foto Lean UX Canvas (V2)" width="1000"/>
+</div>
 
 ## 1.3. Segmentos objetivo
 
