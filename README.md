@@ -183,6 +183,27 @@ Nuestros valores son:
     </td>
   </tr>
 
+<tr>
+  </tr>
+  <tr>
+    <td rowspan="4" align="center">
+      <img src="assets/img/adriana-ramos.PNG" alt="Foto de Adriana Ramos" width="500"/>
+    </td>
+    <td><b>Nombre:</b> Adriana Nicole Ramos Fuentes Rivera</td>
+  </tr>
+  <tr>
+    <td><b>Código:</b> u202018427</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Descripción:</b><br/>
+      Soy <b>Adriana Nicole Ramos Fuentes Rivera</b>, tengo 23 años y estudio la carrera de Ingeniería de Software en la UPC, actualmente estoy en el 5to ciclo. Me gusta aprender nuevas tecnologias y conocimientos complementarios que me permitan desarrollar soluciones a problematicas dentro de un contexto real. Cuento con experiencia en lenguajes de programación como C++ y Python, además de conocimientos en base de datos no relacional como MongoDB.
+      <br/><br/>
+      Dentro del equipo, me enfoco en el desarrollo de backend, aplicando principios de Domain Driven Design para mantener una lógica de negocio clara. Me considero una persona organizada y empática.
+    </td>
+  </tr>
+
+
 </table>
 
 ## 1.2. Solution Profile
