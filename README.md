@@ -218,11 +218,22 @@ Qullqa se presenta como una solución escalable, con distintos planes que se ada
 
 
 - **Where:**
+  <div align="justify">
+   
+  Se encuentra en bodegas y farmacias emprendedoras que se encuentren dentro del rango en ingresos y gestión de productos del NRUS como régimen tributario. Dichos emprendedores necesitan poder reducir brechas de tiempo y de accesibilidad en la gestión de sus productos por la poca calidad de software gratuitos y el precio de los mismos, sin posibilidad de ajustar sus necesidades a sus casos específicos. Dicho sector se encuentra entre los más solicitados por los emprendedores, ya que alínea las necesidades no genera costos exorbitantes por pertenecer a la misma. 
+  
+  También ocurre con trabajadores de las bodegas o farmacias, los cuales utilizan la infraestructura del negocio planteada previamente propuesta.
 
+  </div>
 
 
 - **When:**
+  <div align="justify">
+   
+   Cuando un usuario que gestiona la bodega y farmacias se encuentra con propuesta de gestión de inventario robustas que sobrepasan su capacidad de inversión en las mismas, por lo que recurre a propuestas más económicas que no cumple con un buen estándar de optimización o directamente no las utiliza, lo que genera el uso de técnicas manuales.
+   Luego, ocurre también con los trabajadores, aunque no sean mayoría. Según la SUNAT (2025), el NRUS permite como máximo en las bajas categorías unos 8.000 soles, por lo que en promedio para no sobrepasar costos, se tiene que considerar máximo 2 trabajadores. Ellos, se encargan en su mayoría de registrar los productos, para lo cual tienen que entender, de ser que un software se utilice, interfaces poco intuitivas y complejas debido a la poca inversión dedicada. Luego, de ser que no exista uno, se recurre a registros manuales, como tomar apuntas en una hoja o cuaderno, lo que da chance a más errores de registro. 
 
+  </div>
 
 
 - **Who:** <br/>
