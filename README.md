@@ -335,6 +335,26 @@ Estrategia de Captación: Utilizaremos un embudo de ventas centrado en el Market
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+##### Problem statement 1:
+
+- Nuestro producto fue diseñado para optimizar la gestión de productos e inventario para micro empresas o emprendedores las cuales no poseen una ERP, donde les
+  ofrecemos distintos tipos de planes que se adapten a sus necesidades particulares y con ello, optimicen costos por ganancia y tiempo invertido en el registro de los productos. 
+
+  Hemos observado que estos negocios no están logrando una gestión adecuada del inventario, debido al uso de métodos manuales o herramientas digitales poco accesibles, complejas o costosas, que no cumplen con los requerimientos mínimos o los sobrepasan. 
+
+  Esto genera pérdidas económicas por productos vencidos, errores en el registro de stock y falta de visibilidad sobre el estado real del negocio, lo que afecta directamente su rentabilidad y sostenibilidad.
+
+  Por tanto, nos preguntamos: ¿Cómo podríamos simplificar y hacer más accesible la gestión de inventario para estos microempresarios, de modo que reduzcan errores operativos y mejoren el control de su stock, medido a través de la disminución de pérdidas?
+
+
+##### Problem statement 2: 
+- El producto que creamos fue diseñado para ayudar a los pequeños emprendedores da un sector retail minorista para optimizar la gestión de su inventario.
+
+ Con ello, hemos observado que los dueños y trabajadores de farmacias y tiendas pasan demasiado tiempo registrando salidas y entradas de productos, debido a las herramientas que no son fáciles de usar o por procedimientos manuales.
+ Esto causa retrasos en la atención al cliente, equivocaciones en las transacciones y  poco rendimiento de eficiencia en las actividades diarias de la empresa.
+ 
+ Por tanto, nos preguntamos: ¿Qué estrategias podemos emplear para agilizar los procesos de gestión y administración de un inventario, con el objetivo de reducir el tiempo invertido y mejorar la efectividad de operaciones?
+
 #### 1.2.2.2. Lean UX Assumptions
 <div align="Justify">
 
