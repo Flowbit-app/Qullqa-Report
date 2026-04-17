@@ -145,7 +145,7 @@ Nuestros valores son:
 
   <tr>
     <td rowspan="4" align="center">
-      <img src="assets/img/aldo-jesus.png" alt="Foto de Aldo Huaman" width="500"/>
+      <img src="assets/img/Aldo-Jesus.png" alt="Foto de Aldo Huaman" width="500"/>
     </td>
     <td><b>Nombre:</b> Aldo Jesus Huaman Oscco</td>
   </tr>
@@ -310,11 +310,12 @@ Qullqa se presenta como una solución escalable, con distintos planes que se ada
 
 - **How:** <br/>
       <div align="justify">
-La ejecución de Qullqa se centra en eliminar la fricción operativa mediante una experiencia de usuario superior y una infraestructura técnica robusta.
-Segmentación Dinámica: Implementaremos un modelo de suscripción escalable con diferentes planes de adquisición (Gratuito/Bodegas/Farmacias) donde la plataforma recomienda el plan ideal mediante un diagnóstico inicial de la complejidad del inventario del cliente y según este se le ofrece una capacidad en el modelo de base de datos que va de acuerdo a su plan elegido .
-Optimización de Performance (UX/UI): A diferencia de los sistemas legados en supermercados, Qullqa se construye bajo una arquitectura de Single Page Application (SPA), garantizando tiempos de respuesta mínimos. Esto reduce la tasa de abandono y optimiza el tiempo de atención al cliente final. Lo que supone una problemática muy vista en estos software de gestión de inventarios o similares está siendo abordada desde la arquitectura del backend con el uso de patrones y la facilidad con la que se verán los datos en pantalla.
-Es escalable para la integración de hardware IoT (sensores y dispositivos de rastreo) para automatizar la trazabilidad de la cadena de suministro hacia la bodega, transformando un software de gestión simple en una solución de seguridad y logística 360°.
-Estrategia de Captación: Utilizaremos un embudo de ventas centrado en el Marketing de Contenido, demostrando la facilidad de uso a través de casos de éxito reales en redes sociales, posicionando a Qullqa no solo como una herramienta, sino como el aliado para la profesionalización de las bodegas y farmacias.
+
+La ineficiencia operativa en bodegas y farmacias independientes se manifiesta a través de un flujo de trabajo fragmentado y empírico. Actualmente, la gestión de inventarios se ejecuta mediante registros manuales en cuadernos o hojas sueltas, lo que imposibilita una alerta temprana sobre fechas de vencimiento o niveles críticos de stock. Este proceso "analógico" provoca que el control dependa exclusivamente de la memoria del dueño, derivando en una fricción operativa constante.
+
+La problemática se agrava significativamente cuando el negocio cuenta con personal, ya que la ausencia de trazabilidad digital facilita conductas de riesgo. Al no existir un sistema de control que registre cada salida de producto o ingreso de dinero, el dueño pierde la capacidad de auditar las operaciones de sus empleados. Esto genera un entorno donde el personal puede manipular el stock, ocultar gastos o incurrir en "robos hormiga" sin ser detectados. Asimismo, se produce una confusión sistemática entre gastos personales y del negocio, donde la falta de una plataforma de auditoría impide supervisar efectivamente las transacciones de caja, permitiendo fugas de capital y una gestión de costos opaca.
+
+Por otro lado, la problemática logística ocurre por la opacidad en la comunicación con proveedores, interrumpiendo la atención al cliente para recibir pedidos sin una verificación técnica, y la gestión financiera se da por "bolsillo único", donde el flujo de caja personal se mezcla con el del negocio, impidiendo conocer el margen de ganancia real.
       </div>
 
 
@@ -322,11 +323,12 @@ Estrategia de Captación: Utilizaremos un embudo de ventas centrado en el Market
 
 - **How much:** <br/>
       <div align="justify">
-La ejecución de Qullqa se centra en eliminar la fricción operativa mediante una experiencia de usuario superior y una infraestructura técnica robusta.
-Segmentación Dinámica: Implementaremos un modelo de suscripción escalable con diferentes planes de adquisición (Gratuito/Bodegas/Farmacias) donde la plataforma recomienda el plan ideal mediante un diagnóstico inicial de la complejidad del inventario del cliente y según este se le ofrece una capacidad en el modelo de base de datos que va de acuerdo a su plan elegido .
-Optimización de Performance (UX/UI): A diferencia de los sistemas legados en supermercados, Qullqa se construye bajo una arquitectura de Single Page Application (SPA), garantizando tiempos de respuesta mínimos. Esto reduce la tasa de abandono y optimiza el tiempo de atención al cliente final. Lo que supone una problemática muy vista en estos software de gestión de inventarios o similares está siendo abordada desde la arquitectura del backend con el uso de patrones y la facilidad con la que se verán los datos en pantalla.
-Es escalable para la integración de hardware IoT (sensores y dispositivos de rastreo) para automatizar la trazabilidad de la cadena de suministro hacia la bodega, transformando un software de gestión simple en una solución de seguridad y logística 360°.
-Estrategia de Captación: Utilizaremos un embudo de ventas centrado en el Marketing de Contenido, demostrando la facilidad de uso a través de casos de éxito reales en redes sociales, posicionando a Qullqa no solo como una herramienta, sino como el aliado para la profesionalización de las bodegas y farmacias.
+
+El impacto de esta problemática es crítico y medible tanto a nivel financiero como de mercado. A nivel macro, la falta de una gestión técnica contribuye a que el 40% de las microempresas en Perú cierren anualmente por insolvencia y mala administración de su liquidez (CCL, 2025). En el día a día, esta brecha tecnológica se traduce en pérdidas económicas directas que pueden representar entre el 10% y 15% del valor del inventario anual debido a productos vencidos o mermas logísticas.
+
+A esto se suma el impacto de la gestión negligente o malintencionada del personal: los costos ocultos por discrepancias de inventario, errores en el manejo de caja y la mezcla de gastos personales con los operativos, actúan como un factor silencioso que erosiona el margen de ganancia neto. Estas pérdidas, al no ser detectadas por un sistema de control centralizado, representan un "gasto fantasma" que acelera la insolvencia del establecimiento, impidiendo que el dueño tenga visibilidad real de cuánto dinero gana o pierde realmente.
+
+Desde la perspectiva del sector, el problema afecta a una escala masiva: el 88% de las más de 535,000 bodegas en el país operan en un estado de vulnerabilidad digital. Además, en el caso específico de las farmacias, el costo escala a un riesgo de salud pública, donde la falta de trazabilidad técnica pone en peligro la inocuidad de los medicamentos, exponiendo a los dueños a sanciones legales y multas que comprometen la continuidad de su patrimonio.
       </div>
 
 
