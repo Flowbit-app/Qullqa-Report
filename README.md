@@ -400,7 +400,7 @@ Por tanto, nos preguntamos: ¿Qué estrategias podemos emplear para agilizar los
 <div align="justify">
 
 **Hypothesis Statement 1** <br>
-Creemos que simplificar y hacer más accesible la gestión de inventario mediante una plataforma intuitiva permitirá a los microempresarios reducir errores operativos y mejorar el control de su stock. Sabremos que esto es cierto cuando veamos que disminuyen las pérdidas por productos vencidos y errores de registro, así como un incremento en la precisión del inventario reportado.
+Creemos que simplificar y hacer más accesible la gestión de inventario mediante una plataforma intuitiva permitirá a los microempresarios reducir errores operativos y mejorar el control de su stock. Sabremos que esto es cierto cuando veamos que las pérdidas por productos vencidos se reducen en al menos un 50%, y la precisión del inventario aumenta hasta un 90% o más.
 
 **Hypothesis Statement 2** <br>
 Creemos que implementar herramientas que agilicen el registro de entradas y salidas de productos permitirá a los usuarios reducir el tiempo invertido en la gestión del inventario. Sabremos que esto es cierto cuando veamos que el tiempo promedio de registro de productos se reduce en al menos un 60%, y la eficiencia en la atención al cliente mejora en un 40%.
