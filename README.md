@@ -601,45 +601,144 @@ En esta sección se presenta el diseño de las entrevistas dirigidas a los segme
 
 ### 2.2.2. Registro de entrevistas
 
-#### Segmento 1: Bodegueros independientes
+**PRIMER SEGMENTO OBJETIVO (BODEGUEROS INDEPENDIENTES)**
 
-**Entrevista 1**
+<u>Entrevista 1:</u>
+
+Entrevistador: Fernando Julio Güere Calero
+
+Datos del entrevistado
+
+- **Nombre:** Raul
+- **Apellidos:** Gimenez
+- **Edad:** 61 años
+- **Distrito:** Chaclacayo
+- **Timing:** 
+
 <p align="center">
   <img src="assets/img/Entrevistas/Entrevista_Raul_Segmento1.png" alt="Entrevista con Raul Gimenez" width="500"/>
   <br/><i>Evidencia de entrevista: Raul Gimenez</i>
 </p>
 
-- **Nombre:** Raul Gimenez
-- **Edad:** 61 años
-- **Residencia:** Chaclacayo
-- **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413169_upc_edu_pe/IQCNzoA_BvcPRJP9Baxc_4mKAVFCGG13ZxRKSkL4itnHBLA?e=mPE13c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-**Resumen de la entrevista:**
+**Resumen descriptivo:**
 <div align="justify">
 Es un emprendedor de tercera generación. Gestiona su inventario de forma manual con cuadernos y su principal frustración es la presión de la SUNAT y la municipalidad. Aunque usa Yape y aplicaciones de proveedores, teme que las apps de gestión "encadenen" sus datos. Busca un punto de venta (POS) sencillo que no restrinja el acceso a su información histórica.
 </div>
 
-<br/>
+***Enlace del video:*** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413169_upc_edu_pe/IQCNzoA_BvcPRJP9Baxc_4mKAVFCGG13ZxRKSkL4itnHBLA?e=mPE13c&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-**Entrevista 2**
+
+<u>Entrevista 2:</u>
+
+Entrevistador: Fernando Julio Güere Calero
+
+Datos del entrevistado
+
+- **Nombre:** Jimmy
+- **Apellidos:** Viera
+- **Edad:** 28 años
+- **Distrito:** Chaclacayo
+- **Timing:** 
+
 <p align="center">
   <img src="assets/img/Entrevistas/Entrevista_Jimmy_Segmento1.png" alt="Entrevista con Jimmy Viera" width="500"/>
   <br/><i>Evidencia de entrevista: Jimmy Viera</i>
 </p>
 
-- **Nombre:** Jimmy Viera
-- **Edad:** 28 años
-- **Residencia:** Chaclacayo
-- **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413169_upc_edu_pe/IQCeSnkB2TLFSYasRy9oINIGAd67FUgsN5274thKlHodem0?e=GaLWEi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-**Resumen de la entrevista:**
+**Resumen descriptivo:**
 <div align="justify">
 Estudiante que apoya en el negocio familiar. Confía principalmente en su memoria para el inventario, lo que resulta tedioso al trabajar con más personas. Utiliza aplicaciones de proveedores para pedidos pero critica la falta de flexibilidad en los horarios de entrega. Considera que una app de gestión le facilitaría mucho el control de stock y la comunicación.
 </div>
 
-<br/>
+***Enlace del video:*** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202413169_upc_edu_pe/IQCeSnkB2TLFSYasRy9oINIGAd67FUgsN5274thKlHodem0?e=GaLWEi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-#### Segmento 2: Farmacias independientes
+
+<u>Entrevista 3:</u>
+
+Entrevistador:
+
+Datos del entrevistado
+
+- **Nombre:** 
+- **Apellidos:** 
+- **Edad:** 
+- **Distrito:** 
+- **Timing:** 
+
+<!-- Colocar screenshot de la entrevista -->
+
+**Resumen descriptivo:**
+
+<!-- Resumen entrevista -->
+
+***Enlace del video:*** <!-- Link grupal de entrevistas -->
+
+<br>
+
+**SEGUNDO SEGMENTO OBJETIVO (FARMACIAS INDEPENDIENTES)**
+
+<u>Entrevista 1:</u>
+
+Entrevistador: 
+
+Datos del entrevistado
+
+- **Nombre:** 
+- **Apellidos:** 
+- **Edad:** 
+- **Distrito:** 
+- **Timing:** 
+
+<!-- Colocar screenshot de la entrevista -->
+
+**Resumen descriptivo:**
+
+<!-- Resumen entrevista -->
+
+***Enlace del video:*** <!-- Link grupal de entrevistas -->
+
+
+<u>Entrevista 2:</u>
+
+Entrevistador: 
+
+Datos del entrevistado
+
+- **Nombre:** 
+- **Apellidos:** 
+- **Edad:** 
+- **Distrito:** 
+- **Timing:** 
+
+<!-- Colocar screenshot de la entrevista -->
+
+**Resumen descriptivo:**
+
+<!-- Resumen entrevista -->
+
+***Enlace del video:*** <!-- Link grupal de entrevistas -->
+
+
+<u>Entrevista 3:</u>
+
+Entrevistador: 
+
+Datos del entrevistado
+
+- **Nombre:** 
+- **Apellidos:** 
+- **Edad:** 
+- **Distrito:** 
+- **Timing:** 
+
+<!-- Colocar screenshot de la entrevista -->
+
+**Resumen descriptivo:**
+
+<!-- Resumen entrevista -->
+
+***Enlace del video:*** <!-- Link grupal de entrevistas -->
+
 
 ### 2.2.3. Análisis de entrevistas
 
