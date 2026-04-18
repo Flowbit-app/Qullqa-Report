@@ -422,6 +422,8 @@ Pequeñas farmacias que requieran un control más riguroso del inventario, espec
 
 ## 2.1. Competidores
 
+En esta sección se realiza la identificación y descripción de los principales competidores directos, los cuales ofrecen soluciones digitales enfocadas en la gestión de inventarios y operaciones comerciales, similares a la propuesta de valor de Qullqa.
+
 ### 2.1.1. Análisis competitivo
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
