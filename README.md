@@ -424,6 +424,15 @@ Pequeñas farmacias que requieran un control más riguroso del inventario, espec
 
 En esta sección se realiza la identificación y descripción de los principales competidores directos, los cuales ofrecen soluciones digitales enfocadas en la gestión de inventarios y operaciones comerciales, similares a la propuesta de valor de Qullqa.
 
+- **Spry Sales** <br>
+  Plataforma digital peruana enfocada en la gestión de ventas e inventario para pequeños y medianos negocios. Su propuesta se centra en simplificar el control de stock, registro de productos y seguimiento de ventas en tiempo real, permitiendo a los emprendedores tener una mejor visibilidad de su negocio. Ofrece funcionalidades como control de inventario, reportes básicos, gestión de clientes y ventas desde dispositivos móviles. Su principal fortaleza radica en su enfoque local y facilidad de uso; sin embargo, presenta limitaciones en cuanto a escalabilidad, automatización avanzada y personalización profunda de procesos, lo que puede restringir su adopción en negocios en crecimiento.
+
+- **Zoho Inventory** <br>
+  Solución global de gestión de inventario basada en la nube que permite a empresas gestionar pedidos, controlar stock, automatizar procesos y administrar múltiples canales de venta. Se integra con otras herramientas del ecosistema Zoho y plataformas externas como e-commerce y marketplaces, ofreciendo funcionalidades avanzadas como gestión de órdenes, seguimiento de envíos y reportes detallados. Su modelo de negocio se basa en suscripciones por niveles. Aunque es altamente robusto y escalable, su complejidad y costo pueden resultar poco accesibles para microempresarios o pequeños negocios que buscan soluciones más simples y económicas.
+
+- **Odoo Inventory** <br>
+  Parte del ecosistema ERP de Odoo, una plataforma modular que permite gestionar inventarios, logística, compras y ventas de manera integrada. Ofrece funcionalidades avanzadas como trazabilidad de productos, gestión de almacenes, automatización de reabastecimiento y control en tiempo real. Su principal ventaja es la integración con múltiples módulos empresariales (contabilidad, CRM, ventas, etc.), lo que permite una gestión completa del negocio. No obstante, su implementación puede ser compleja y requiere cierto nivel técnico o inversión en configuración, lo cual puede representar una barrera para microempresas o usuarios sin experiencia en sistemas ERP.
+
 ### 2.1.1. Análisis competitivo
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
