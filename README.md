@@ -214,7 +214,22 @@ Qullqa se presenta como una solución escalable, con distintos planes que se ada
 ### 1.2.1. Antecedentes y problemática
 
 - **What:**
-
+<br>
+  <div>
+    Nuestra propuesta de solución, Qullqa, se propone resolver las siguientes 3 problemáticas recurrentes en el comercio independiente:
+  </div>
+  <br>
+  <div align="justify">
+    Uno de los problemas más comunes que se enfrentan los dueños de bodegas y farmacias es la deficiencia en la gestión de inventarios y falta de rotación, los cuales, por ausencia de un sistema de gestión que les permita registrar información relevante acerca de sus productos, como la fecha de caducidad, número de lote, proveedor, cadena de frío, ubicación exacta (pasillo, estante, nivel), etc. En consecuencia, provoca que muchos establecimientos mantengan productos vencidos en sus almacenes, lo cual representa un riesgo significativo, ya que, de acuerdo con el Artículo 30 del Código de Protección y Defensa del Consumidor (2010), los consumidores tienen derecho a consumir alimentos inocuos. Los proveedores son responsables de la inocuidad de los alimentos que ofrecen en el mercado, de conformidad con la legislación sanitaria.
+  </div>
+  <br>
+  <div align="justify">
+    Por otro lado, el desconocimiento de la rentabilidad y finanzas generales, también representa un problema difícil de resolver para los dueños de bodegas y farmacias. Según la Cámara de Comercio de Lima (2025), la falta de liquidez continúa siendo un obstáculo determinante para las pequeñas y medianas empresas en el Perú. Cada año, más de 100 mil de estas unidades económicas dejan de funcionar, y cerca del 40% lo hace debido a la imposibilidad de sostener su flujo de caja. Además, al ser un negocio independiente donde el manejo de las finanzas puede llegar a ser desordenado e incompleto debido a la inexperiencia y falta de conocimiento por parte del dueño, es más común no saber el margen de ganancia real de los productos vendidos. Por consecuencia, al momento de realizar decisiones importantes, en muchos casos, terminan siendo decisiones erradas, reflejadas en los precios mal establecidos, problemas de flujo de caja, elecciones erróneas de productos a vender, etc.
+  </div>
+  <br>
+  <div align="justify">
+    Por último, otro problema es la logística enfocada en las entregas de los proveedores, ya que cuando un proveedor envía un pedido, los dueños no tienen visibilidad en tiempo real de dónde está el vehículo, cuándo llegará aproximadamente o si hubo demoras, como resultado, genera descoordinación, pérdida de tiempo y, en el caso de productos perecibles y medicamentos, riesgos de calidad. Además, es usual que los pedidos lleguen incompletos, con productos distintos a los solicitados o en mal estado por golpes o manipulación incorrecta durante el transporte, por lo que, sin un registro de evidencia fotográfica o de sensores, no se podría realizar el reclamo correspondiente al proveedor. Por consiguiente, brindar una solución eficiente a este problema, generaría una reducción en las pérdidas de productos.
+  </div> <br>
 
 
 - **Where:**
