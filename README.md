@@ -435,6 +435,124 @@ En esta sección se realiza la identificación y descripción de los principales
 
 ### 2.1.1. Análisis competitivo
 
+<table>
+  <tr>
+    <th colspan="6" align="left">Competitive Analysis Landscape</th>
+  </tr>
+
+  <tr>
+    <td><b>¿Por qué llevar a cabo este análisis?</b></td>
+    <td colspan="5">
+      Con el fin de identificar oportunidades de diferenciación, fortalezas clave y posibles debilidades. Esto permitirá definir una ventaja competitiva clara orientada a microempresarios y negocios pequeños que requieren soluciones accesibles, simples y eficientes.
+    </td>
+  </tr>
+  <tr>
+    <th></th>
+    <th></th>
+    <th>Qullqa</th>
+    <th>Spry Sales</th>
+    <th>Zoho Inventory</th>
+    <th>Odoo Inventory</th>
+  </tr>
+
+  <!-- PERFIL -->
+  <tr>
+    <td rowspan="2"><b>Perfil</b></td>
+    <td><b>Overview</b></td>
+    <td>Plataforma de gestión de inventario simple y accesible enfocada en microempresas (bodegas y farmacias).</td>
+    <td>Sistema de ventas e inventario enfocado en pequeños negocios peruanos.</td>
+    <td>Software global de inventario en la nube con múltiples integraciones.</td>
+    <td>Módulo ERP completo para gestión empresarial integral.</td>
+  </tr>
+
+  <tr>
+    <td><b>Ventaja competitiva</b></td>
+    <td>Simplicidad, bajo costo y enfoque específico en microempresarios con problemas reales de inventario.</td>
+    <td>Fácil uso y enfoque local adaptado a pequeños negocios.</td>
+    <td>Alta automatización e integración con múltiples plataformas.</td>
+    <td>Integración total con otros módulos empresariales (ERP).</td>
+  </tr>
+
+  <!-- PERFIL DE MARKETING -->
+  <tr>
+    <td rowspan="2"><b>Perfil de Marketing</b></td>
+    <td><b>Mercado objetivo</b></td>
+    <td>Bodegueros y farmacias independientes.</td>
+    <td>Pequeños negocios y emprendedores locales.</td>
+    <td>PYMES y empresas en crecimiento.</td>
+    <td>Empresas medianas y grandes con procesos complejos.</td>
+  </tr>
+
+  <tr>
+    <td><b>Estrategias de marketing</b></td>
+    <td>Enfoque en educación digital, redes sociales y validación con usuarios reales.</td>
+    <td>Marketing digital local y enfoque en emprendedores.</td>
+    <td>Estrategia global, contenido educativo y ecosistema SaaS.</td>
+    <td>Marketing basado en soluciones empresariales integradas.</td>
+  </tr>
+
+  <!-- PERFIL DE PRODUCTO  -->
+  <tr>
+    <td rowspan="3"><b>Perfil de Producto</b></td>
+    <td><b>Productos & Servicios</b></td>
+    <td>Gestión de inventario, alertas de vencimiento, control de stock, reportes simples.</td>
+    <td>Control de ventas, inventario y clientes.</td>
+    <td>Gestión de pedidos, inventario, envíos y reportes avanzados.</td>
+    <td>Gestión de almacenes, trazabilidad, compras, ventas y más.</td>
+  </tr>
+
+  <tr>
+    <td><b>Precios & Costos</b></td>
+    <td>Modelos de suscripción y un plan gratuito siendo accesible para las microempresas.</td>
+    <td>Suscripción accesible.</td>
+    <td>Planes por suscripción (más costosos).</td>
+    <td>Costos variables según módulos e implementación.</td>
+  </tr>
+
+  <tr>
+    <td><b>Canales de distribución</b></td>
+    <td>Web y móvil (enfocado en facilidad de acceso).</td>
+    <td>Web y móvil.</td>
+    <td>Web (cloud-based).</td>
+    <td>Web (cloud y on-premise).</td>
+  </tr>
+
+  <!-- ANÁLISIS SWOT -->
+  <tr>
+    <td rowspan="4"><b>Análisis SWOT</b></td>
+    <td><b>Fortalezas</b></td>
+    <td>Enfoque específico en microempresas, facilidad de uso y bajo costo accesible.</td>
+    <td>Adaptación al mercado local, interfaz simple.</td>
+    <td>Alta integración con otras herramientas, funcionalidades avanzadas.</td>
+    <td>Sistema ERP completo, alta personalización.</td>
+  </tr>
+
+  <tr>
+    <td><b>Debilidades</b></td>
+    <td>Menor reconocimiento de marca, funcionalidades limitadas en etapas iniciales.</td>
+    <td>Limitada escalabilidad, pocas funcionalidades avanzadas.</td>
+    <td>Complejidad para usuarios básicos, costos relativamente altos.</td>
+    <td>Complejidad de implementación, requiere conocimientos técnicos.</td>
+  </tr>
+
+  <tr>
+    <td><b>Oportunidades</b></td>
+    <td>Alto número de negocios informales sin sistemas digitales, crecimiento de la digitalización en pequeños negocios.</td>
+    <td>Crecimiento de emprendedores digitales.</td>
+    <td>Expansión de negocios digitales globales.</td>
+    <td>Empresas que buscan soluciones integrales.</td>
+  </tr>
+
+  <tr>
+    <td><b>Amenazas</b></td>
+    <td>Competidores consolidados con más recursos, resistencia al cambio tecnológico.</td>
+    <td>Competidores más robustos.</td>
+    <td>Soluciones más simples y económicas.</td>
+    <td>Alternativas más simples para pequeños negocios.</td>
+  </tr>
+
+</table>
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
 ## 2.2. Entrevistas
