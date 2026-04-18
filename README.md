@@ -535,4 +535,10 @@ Estudiante que apoya en el negocio familiar. Confía principalmente en su memori
 
 # Bibliografía
 
+Romero, P. (2024, 10 de enero). Retos para impulsar la expansión de las billeteras digitales en las bodegas peruanas. Conexión ESAN. Recuperado de https://www.esan.edu.pe/conexion-esan/retos-para-impulsar-la-expansion-de-las-billeteras-digitales-en-las-bodegas-peruanas
+
+Delgado, R. S. B., & Lopez, H. Y. B., (2024). Modelo PDCA para incrementar el índice de rotación de inventario aplicando la clasificación ABC-SLP, Kanban y Conteo Cíclico en una pequeña empresa de comercio farmacéutico [Tesis de maestría, Universidad Peruana de Ciencias Aplicadas]. Repositorio Académico UPC. https://repositorioacademico.upc.edu.pe/handle/10757/682410
+
+Mendoza, B. J. F., & Anchiraico, B. W. R., (2018). Determinación de patrones de ventas en boticas independientes para mejorar las ventas [Tesis de maestría, Universidad San Ignacio de Loyola]. Repositorio Académico USIL. https://hdl.handle.net/20.500.14005/8591
+
 # Anexos
