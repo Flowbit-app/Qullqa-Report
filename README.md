@@ -282,16 +282,13 @@ Qullqa se presenta como una solución escalable, con distintos planes que se ada
   <br/>
 
 - **How:** <br/>
-      <div align="justify">
-La ejecución de Qullqa se centra en eliminar la fricción operativa mediante una experiencia de usuario superior y una infraestructura técnica robusta.
-Segmentación Dinámica: Implementaremos un modelo de suscripción escalable con diferentes planes de adquisición (Gratuito/Bodegas/Farmacias) donde la plataforma recomienda el plan ideal mediante un diagnóstico inicial de la complejidad del inventario del cliente y según este se le ofrece una capacidad en el modelo de base de datos que va de acuerdo a su plan elegido .
-Optimización de Performance (UX/UI): A diferencia de los sistemas legados en supermercados, Qullqa se construye bajo una arquitectura de Single Page Application (SPA), garantizando tiempos de respuesta mínimos. Esto reduce la tasa de abandono y optimiza el tiempo de atención al cliente final. Lo que supone una problemática muy vista en estos software de gestión de inventarios o similares está siendo abordada desde la arquitectura del backend con el uso de patrones y la facilidad con la que se verán los datos en pantalla.
-Es escalable para la integración de hardware IoT (sensores y dispositivos de rastreo) para automatizar la trazabilidad de la cadena de suministro hacia la bodega, transformando un software de gestión simple en una solución de seguridad y logística 360°.
-Estrategia de Captación: Utilizaremos un embudo de ventas centrado en el Marketing de Contenido, demostrando la facilidad de uso a través de casos de éxito reales en redes sociales, posicionando a Qullqa no solo como una herramienta, sino como el aliado para la profesionalización de las bodegas y farmacias.
-      </div>
+  <div align="justify">
+  La ineficiencia operativa en bodegas y farmacias independientes se manifiesta a través de un flujo de trabajo fragmentado y empírico. Actualmente, la gestión de inventarios se ejecuta mediante registros manuales en cuadernos o hojas sueltas, lo que imposibilita una alerta temprana sobre fechas de vencimiento o niveles críticos de stock. Este proceso "analógico" provoca que el control dependa exclusivamente de la memoria del dueño, derivando en una fricción operativa constante.
 
+  La problemática se agrava significativamente cuando el negocio cuenta con personal, ya que la ausencia de trazabilidad digital facilita conductas de riesgo. Al no existir un sistema de control que registre cada salida de producto o ingreso de dinero, el dueño pierde la capacidad de auditar las operaciones de sus empleados. Esto genera un entorno donde el personal puede manipular el stock, ocultar gastos o incurrir en "robos hormiga" sin ser detectados. Asimismo, se produce una confusión sistemática entre gastos personales y del negocio, donde la falta de una plataforma de auditoría impide supervisar efectivamente las transacciones de caja, permitiendo fugas de capital y una gestión de costos opaca.
 
-
+  Por otro lado, la problemática logística ocurre por la opacidad en la comunicación con proveedores, interrumpiendo la atención al cliente para recibir pedidos sin una verificación técnica, y la gestión financiera se da por "bolsillo único", donde el flujo de caja personal se mezcla con el del negocio, impidiendo conocer el margen de ganancia real.
+  </div>
 
 - **How much:** <br/>
       <div align="justify">
