@@ -406,6 +406,9 @@ Creemos que simplificar y hacer más accesible la gestión de inventario mediant
 Creemos que implementar herramientas que agilicen el registro de entradas y salidas de productos permitirá a los usuarios reducir el tiempo invertido en la gestión del inventario. Sabremos que esto es cierto cuando veamos que el tiempo promedio de registro de productos se reduce en al menos un 60%, y la eficiencia en la atención al cliente mejora en un 40%.
 
 #### 1.2.2.4. Lean UX Canvas
+<div>
+  <img src="assets/img/artefacts/lean_ux_canvas(v2).png" alt="Foto Lean UX Canvas (V2)" width="1000"/>
+</div>
 
 ## 1.3. Segmentos objetivo
 
