@@ -399,8 +399,8 @@ Por tanto, nos preguntamos: ¿Qué estrategias podemos emplear para agilizar los
 #### 1.2.2.3. Lean UX Hypothesis Statements
 <div align="justify">
 
-##### Hypothesis Statement 1
-**Creemos que** simplificar y hacer más accesible la gestión de inventario mediante una plataforma intuitiva permitirá a los microempresarios reducir errores operativos y mejorar el control de su stock. **Sabremos que** esto es cierto **cuando veamos que** disminuyen las pérdidas por productos vencidos y errores de registro, así como un incremento en la precisión del inventario reportado.
+**Hypothesis Statement 1** <br>
+Creemos que simplificar y hacer más accesible la gestión de inventario mediante una plataforma intuitiva permitirá a los microempresarios reducir errores operativos y mejorar el control de su stock. Sabremos que esto es cierto cuando veamos que disminuyen las pérdidas por productos vencidos y errores de registro, así como un incremento en la precisión del inventario reportado.
 
 #### 1.2.2.4. Lean UX Canvas
 
