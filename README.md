@@ -708,21 +708,21 @@ El entrevistado Pablo Aguilar, es un administrador que lleva ejerciciendo su lab
 
 <u>Entrevista 2:</u>
 
-Entrevistador: 
+Entrevistador: Aldo Jesus Huaman Oscco
 
 Datos del entrevistado
 
-- **Nombre:** 
-- **Apellidos:** 
-- **Edad:** 
-- **Distrito:** 
+- **Nombre:** Angelica Sonia 
+- **Apellidos:** Rojas Navarro
+- **Edad:** 45
+- **Distrito:** Pachacamac
 - **Timing:** 
 
 <!-- Colocar screenshot de la entrevista -->
 
 **Resumen descriptivo:**
 
-<!-- Resumen entrevista -->
+La entrevistada Angelica Rojas, es una farmaceutica que ha heredado el negocio de su familia y se dedica a continuar con las labores de atencion en la farmacia local. Nos comenta que al ser un negocio familiar, se vio influenciada en estudiar farmacia para poder continuar con las labores del negocio. Asimismo, nos habla sonre la importancia de tener sistemas que gestionen el ingreso de productos para un tema logistico interno que le permito ver ingresos y egresos pero a su vez por el tema legal al ser productos que son vendidos directamente a personas por temas relacionados a la salud. Finalmente nos dice que en caso de probar un sistema, su prefrencia seria en un plazo de 1 año o anual para poder ver las funcionalidades y errores que podria traer consido el software.
 
 ***Enlace del video:*** <!-- Link de entrevista -->
 
