@@ -684,21 +684,24 @@ El señor Rubén, dueño de una bodega con dos años de funcionamiento, gestiona
 
 <u>Entrevista 1:</u>
 
-Entrevistador: 
+Entrevistador: Martin Alejandro Asmat Alminco 
 
 Datos del entrevistado
 
-- **Nombre:** 
-- **Apellidos:** 
-- **Edad:** 
-- **Distrito:** 
-- **Timing:** 
+- **Nombre:** Pedro Pablo 
+- **Apellidos:**  Aguilar Noquez
+- **Edad:** 55
+- **Distrito:** Lima 
+- **Timing:**
 
-<!-- Colocar screenshot de la entrevista -->
+<p align="center">
+  <img src="assets/img/Entrevistas/entrevista-pablo.png" alt="Entrevista con Pablo Aguilar" width="500"/>
+  <br/><i>Evidencia de entrevista: Pablo Aguilar </i>
+</p>
 
 **Resumen descriptivo:**
 
-<!-- Resumen entrevista -->
+El entrevistado Pablo Aguilar, es un administrador que lleva ejerciciendo su labor por aproximadamente 8 años. Considera que en el negocio es importante el uso de herramientas externas como calculadora o también el uso de un pequeño sistema. El conteo de productos lo gestiona acordemente con la llegada de pedidos y lo coordina con los trabajadores y el gerente. Luego, ve pertinente una funcionalidad que gestione le vencimiento de medicamentos y ciertas herramientas que ayuden con el apartado de pagos, ya que en caja suelen tener problemas de tiempo donde no cuentan con la tecnología adecuada para una óptima atención. 
 
 ***Enlace del video:*** <!-- Link de entrevista -->
 
