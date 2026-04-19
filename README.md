@@ -614,6 +614,19 @@ Es una solución peruana de gestión comercial y facturación electrónica dise�
 | **Empresarial : Vuela** | Auditorías estrictas de inventario, credito y cobranzas | 99.90$ |
 ---
 
+##### **FODA respecto a SPRY**
+
+| Categoría | Análisis de Spry Sales |
+| :--- | :--- |
+| **Fortalezas** | Cumplimiento nativo con SUNAT; marca establecida en el sector MYPE peruano. |
+| **Oportunidades** | Crecimiento de la formalización de bodegas en provincias. |
+| **Debilidades** | Interfaz de usuario (UI) anticuada; soporte técnico estandarizado y poco personalizado. |
+| **Amenazas** | Aparición de soluciones con mejor diseño y mayor automatización. |
+--
+
+###### **Conexión Estratégica:**
+* La estrategia de diferenciación ataca directamente la Debilidad de su interfaz rígida. Al detectar que el usuario valora la fluidez, la táctica de soporte proactivo transforma la amenaza de un competidor establecido en una oportunidad para captar a clientes insatisfechos con el trato impersonal de Spry.
+
 ##### **Estrategia respecto a Spry**
 * Diferenciación por UX (Experiencia de Usuario). Spry es funcional pero su interfaz puede sentirse rígida.
 * Especialización Técnica y Preventiva.
@@ -642,6 +655,18 @@ Es una solución peruana de gestión comercial y facturación electrónica dise�
 | **Enterprise** | 15000 orders/month / 7 users / 10 locations / 5000 bins/location | 249$ |
 ---
 
+##### **FODA respecto a ZOHO**
+
+| Categoría | Análisis de Zoho Inventory |
+| :--- | :--- |
+| **Fortalezas** | Automatización de procesos de alto nivel; integración con e-commerce global. |
+| **Oportunidades** | Auge de farmacias que buscan vender por canales digitales (Marketplaces). |
+| **Debilidades** | Curva de configuración alta; falta de campos específicos para la normativa de salud peruana. |
+| **Amenazas** | Cambios regulatorios locales que Zoho no implemente a tiempo. |
+
+###### **Conexión Estratégica:**
+* La estrategia de Localización Extrema se construye sobre la Debilidad de Zoho de ser un software "genérico". La táctica del botón de "Reporte DIGEMID" resuelve la frustración de usuarios (como el caso de Angélica) que pierden tiempo configurando herramientas globales, convirtiendo la robustez de Zoho en una desventaja frente a la agilidad de Qullqa.
+
 ##### **Estrategia respecto a Zoho**
 * Localización y cumplimiento legal específico. Zoho es potente pero no maneja las particularidades de DIGEMID o normativas de salud peruanas nativamente.
 * Reportes legales asistidos.
@@ -668,6 +693,18 @@ Es una solución peruana de gestión comercial y facturación electrónica dise�
 | **Estándar** | Todas las aplicaciones Odoo en línea |
 | **Personalizado** | Todas las aplicaciones del sistema|
 ---
+
+##### **FODA respecto a ODOO**
+
+| Categoría | Análisis de Odoo Inventory |
+| :--- | :--- |
+| **Fortalezas** | Gestión de vencimientos impecable; sistema modular altamente escalable. |
+| **Oportunidades** | Negocios que planean expandirse a múltiples sucursales rápidamente. |
+| **Debilidades** | Costo de implementación elevado; requiere capacitación técnica para el usuario final. |
+| **Amenazas** | Versiones gratuitas (Open Source) que pueden ser configuradas por terceros. |
+
+###### **Conexión Estratégica:**
+* La estrategia de simplicidad sadical responde a la Debilidad de la complejidad de Odoo. Mientras Odoo ofrece un sistema difícil de maniobrar, Qullqa ofrece una interfaz rápida. La táctica del Dashboard simplificado permite que el dueño del negocio se enfoque en la operación diaria, evitando el "parálisis por análisis" que generan los sistemas modulares pesados.
 
 ##### **Estrategia respecto a Odoo**
 * Enfoque en Cero curva de aprendizaje, simplicidad radical y costo de Implementación.
@@ -915,7 +952,7 @@ El Empathy Mapping es un artefacto visual que permite profundizar en la comprens
 
 **Segundo segmento objetivo: Farmacias Independientes**
 <p align="center">
-  <img src="assets/img/artefacts/Empaty_map_SFarmacia.png" width="500" alt="Empathy Map - Segmento Farmacia"/>
+  <img src="assets/img/artefacts/EM_Farmacia.png" width="500" alt="Empathy Map - Segmento Farmacia"/>
   <br/><i>Artefacto 2: Mapa de empatía enfocado en la gestión técnica farmacéutica.</i>
 </p>
 
