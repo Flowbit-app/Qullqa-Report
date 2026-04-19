@@ -555,6 +555,69 @@ En esta sección se realiza la identificación y descripción de los principales
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+### **Spry Sales** 
+Es una solución peruana de gestión comercial y facturación electrónica diseñada específicamente para micro y pequeñas empresas (MYPE). Se especializa en digitalizar negocios tradicionales como bodegas, farmacias y ferreterías, integrando la normativa de la SUNAT.
+<http://www.spry.pe/>
+
+##### **Características Principales**
+* **Gestión de Inventario Local:** Permite el control de stock en tiempo real, alertas de stock mínimo y, crucial para farmacias, el seguimiento de fechas de vencimiento.
+* **Cumplimiento Fiscal:** Generación automática de boletas y facturas electrónicas integradas directamente con los sistemas de la SUNAT.
+* **Movilidad y Punto de Venta (POS):** Incluye una aplicación móvil que permite realizar ventas y arqueos de caja desde cualquier lugar, ideal para negocios con despacho o preventa.
+* **Reportes de Rentabilidad:** Genera informes diarios de ganancias y egresos, facilitando la visión financiera del dueño del negocio.
+
+##### **Estructura de Planes**
+
+| Plan | Descripción / Enfoque | Costo |
+| :--- | :--- | :--- |
+| **Basico : Inicia** | Control basico en la app sin acceder a stock, almacen y otras funcionalidades | 49.90 |
+| **Emprendedor : Arranca** | Integracion de funcionalidades de almacen y reportes | 79.90 |
+| **Empresarial : Vuela** | Auditorías estrictas de inventario, credito y cobranzas | 99.90 |
+
+---
+<br></br>
+
+### **Zoho Inventory**
+**Perfil de la Empresa:** Es una plataforma global de gestión de inventarios basada en la nube, parte del ecosistema Zoho. Se destaca por su capacidad de integración con plataformas de e-commerce y su robustez para empresas en crecimiento que buscan automatización.
+<https://www.zoho.com/inventory/>
+
+##### **Características Principales**
+* **Seguimiento de Lotes y Series:** Facilita el rastreo de medicamentos mediante números de lote y series, lo cual es fundamental para el cumplimiento de normativas de salud.
+* **Integración Multicanal:** Sincroniza inventarios automáticamente con tiendas online como Shopify, Amazon o Mercado Libre.
+* **Gestión de Almacenes:** Permite transferencias de stock entre múltiples depósitos y el seguimiento de pedidos desde el embalaje hasta la entrega.
+* **Automatización de Reorden:** Configuración de puntos de pedido automáticos que notifican cuando un producto está por agotarse.
+
+##### **Valor Agregado**
+
+| Plan | Descripción / Enfoque | Costo |
+| :--- | :--- | :--- |
+| **Standard** | 500 orders/month / 2 users / 2 locations | 29 |
+| **Professional** | 3000 orders/month / 2 users / 4 locations | 79 |
+| **Premium** | 7500 orders/month / 2 users / 6 locations / 2000 bins/location | 129 |
+| **Enterprise** | 15000 orders/month / 7 users / 10 locations / 5000 bins/location | 249 |
+---
+<br></br>
+
+### **Odoo Inventory**
+**Descripción General:** Es un módulo dentro del ERP de código abierto Odoo. Su gran fortaleza es la trazabilidad total y la modularidad, permitiendo que una farmacia crezca desde un simple inventario hasta una gestión contable y de compras compleja.
+<https://www.odoo.com/app/inventory>
+
+#### **Pilares Estratégicos**
+* **Inventario de Doble Entrada:** Utiliza un sistema único donde no hay "salidas" de stock, sino "movimientos" entre ubicaciones, garantizando una trazabilidad del 100%.
+* **Personalización Extrema:** Al ser modular, permite añadir campos específicos para farmacias (como registros sanitarios o composiciones químicas) mediante su herramienta Studio.
+* **Reportes Avanzados:** Ofrece tableros en tiempo real con rotación de inventario, valoración de stock (FIFO/FEFO) y predicciones de demanda.
+* **Trazabilidad FEFO:** Prioriza la salida de productos con fecha de vencimiento más próxima (First Expired, First Out), esencial para productos farmacéuticos.
+
+#### **Resumen de Valor**
+
+| Enfoque | Objetivo Principal |
+| :--- | :--- |
+| **App Free** | Una aplicación sin límite de usuarios Odoo en línea |
+| **Estándar** | Todas las aplicaciones Odoo en línea |
+| **Personalizado** | Todas las aplicaciones del sistema|
+
+---
+<br></br>
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
