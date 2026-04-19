@@ -569,9 +569,9 @@ Es una solución peruana de gestión comercial y facturación electrónica dise�
 
 | Plan | Descripción / Enfoque | Costo |
 | :--- | :--- | :--- |
-| **Basico : Inicia** | Control basico en la app sin acceder a stock, almacen y otras funcionalidades | 49.90 |
-| **Emprendedor : Arranca** | Integracion de funcionalidades de almacen y reportes | 79.90 |
-| **Empresarial : Vuela** | Auditorías estrictas de inventario, credito y cobranzas | 99.90 |
+| **Basico : Inicia** | Control basico en la app sin acceder a stock, almacen y otras funcionalidades | 49.90$ |
+| **Emprendedor : Arranca** | Integracion de funcionalidades de almacen y reportes | 79.90$ |
+| **Empresarial : Vuela** | Auditorías estrictas de inventario, credito y cobranzas | 99.90$ |
 ---
 
 ##### **Estrategia respecto a Spry**
@@ -596,10 +596,10 @@ Sistema de notificaciones vía WhatsApp o correo que avise a la dueña 30, 60 y 
 
 | Plan | Descripción / Enfoque | Costo |
 | :--- | :--- | :--- |
-| **Standard** | 500 orders/month / 2 users / 2 locations | 29 |
-| **Professional** | 3000 orders/month / 2 users / 4 locations | 79 |
-| **Premium** | 7500 orders/month / 2 users / 6 locations / 2000 bins/location | 129 |
-| **Enterprise** | 15000 orders/month / 7 users / 10 locations / 5000 bins/location | 249 |
+| **Standard** | 500 orders/month / 2 users / 2 locations | 29$ |
+| **Professional** | 3000 orders/month / 2 users / 4 locations | 79$ |
+| **Premium** | 7500 orders/month / 2 users / 6 locations / 2000 bins/location | 129$ |
+| **Enterprise** | 15000 orders/month / 7 users / 10 locations / 5000 bins/location | 249$ |
 ---
 
 ##### **Estrategia respecto a Zoho**
