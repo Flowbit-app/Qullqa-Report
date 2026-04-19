@@ -665,7 +665,10 @@ Datos del entrevistado
 - **Distrito:** Comas
 - **Timing:** 
 
-<!-- Colocar screenshot de la entrevista -->
+<p align="center">
+  <img src="assets/img/Entrevistas/Entrevista_Ruben_Segmento1.png" alt="Entrevista con Ruben de la Cruz" width="500"/>
+  <br/><i>Evidencia de entrevista: Ruben de la Cruz</i>
+</p>
 
 **Resumen descriptivo:**
 
