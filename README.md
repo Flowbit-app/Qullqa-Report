@@ -676,7 +676,7 @@ Datos del entrevistado
 El señor Rubén, dueño de una bodega con dos años de funcionamiento, gestiona su negocio de manera manual. Registra la mercadería en un cuaderno mientras atiende a los clientes, y se comunica con proveedores mediante WhatsApp. El control de inventario lo realiza físicamente, revisando constantemente el almacén para evitar productos vencidos, ya que no todos los proveedores aceptan cambios. Aunque las pérdidas por vencimiento no son frecuentes, sí afectan sus ingresos. Además, lleva un control básico de sus ganancias, sin tener claridad total sobre su rentabilidad. Si bien le interesa la idea de usar un sistema digital, percibe estas herramientas como difíciles de aprender y costosas, lo que le genera desconfianza y limita su adopción.
 </div>
 
-***Enlace del video:*** 
+***Enlace del video:*** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202414802_upc_edu_pe/IQAwnxxLJTtrS6U2w2slSTN8AfUZdIlp36-Q1lKlwXCfn68?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=fv17HA)
 
 <br>
 
@@ -700,7 +700,7 @@ Datos del entrevistado
 
 <!-- Resumen entrevista -->
 
-***Enlace del video:*** <!-- Link grupal de entrevistas -->
+***Enlace del video:*** <!-- Link de entrevista -->
 
 
 <u>Entrevista 2:</u>
@@ -721,7 +721,7 @@ Datos del entrevistado
 
 <!-- Resumen entrevista -->
 
-***Enlace del video:*** <!-- Link grupal de entrevistas -->
+***Enlace del video:*** <!-- Link de entrevista -->
 
 
 <u>Entrevista 3:</u>
@@ -742,7 +742,7 @@ Datos del entrevistado
 
 <!-- Resumen entrevista -->
 
-***Enlace del video:*** <!-- Link grupal de entrevistas -->
+***Enlace del video:*** <!-- Link de entrevista -->
 
 
 ### 2.2.3. Análisis de entrevistas
