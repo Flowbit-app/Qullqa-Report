@@ -751,6 +751,8 @@ Datos del entrevistado
 
 ### 2.3.1. User Personas
 
+En esta sección se presentan los User Personas construidos a partir del análisis de entrevistas a bodegueros y farmacias independientes. Estos perfiles representan sus necesidades, comportamientos y dificultades en la gestión de inventario, permitiendo orientar el diseño de Qullqa hacia soluciones simples, prácticas y adaptadas a su realidad.
+
 ### 2.3.2. User Task Matrix
 
 ### 2.3.3. User Journey Mapping
