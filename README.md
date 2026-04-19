@@ -958,6 +958,19 @@ El Empathy Mapping es un artefacto visual que permite profundizar en la comprens
 
 ## 2.4. Big Picture Event Storming
 
+El Big Picture Event Storming es una técnica colaborativa de modelado que permite explorar y comprender el dominio de un negocio a alto nivel mediante la identificación de eventos clave, actores y sus interacciones. A través de esta herramienta, se obtiene una visión global del funcionamiento del sistema, facilitando la detección de procesos, relaciones y posibles problemáticas dentro del negocio.
+
+En este contexto, se realizó con el objetivo de comprender el dominio del negocio de gestión de inventarios, identificando los eventos clave, actores y flujos principales. Este modelo no se limita a las herramientas actuales utilizadas, sino que representa el funcionamiento general del negocio, proporcionando el contexto en el cual se inserta la solución propuesta, Qullqa.
+
+Para realizar el Big Picture Event Storming se utilizaron 3 pasos importantes:
+
+- **Step 1: Generating Domain Events**
+  En esta etapa se identificaron todos los eventos relevantes del dominio del negocio, es decir, hechos significativos que ocurren en el sistema y que representan cambios de estado importantes. Estos eventos se expresan en pasado y permiten construir una visión inicial del funcionamiento del negocio.
+- **Step 2: Sorting Domain Events (chronologically)**
+  En este paso se organizaron los eventos de dominio de forma cronológica, permitiendo visualizar el flujo natural de los procesos del negocio. Esto facilita la comprensión de cómo se desarrollan las operaciones y cómo se relacionan los distintos eventos entre sí.
+- **Step 3: Adding Actors and External systems**
+  Finalmente, se incorporaron los actores y sistemas externos que interactúan con el dominio, identificando quiénes participan en los procesos y qué herramientas o medios intervienen. Esto permite contextualizar los eventos dentro del ecosistema real del negocio.
+
 ## 2.5. Ubiquitous Language
 
 # Conclusiones
