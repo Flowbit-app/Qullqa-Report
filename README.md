@@ -575,11 +575,11 @@ Es una solución peruana de gestión comercial y facturación electrónica dise�
 ---
 
 ##### **Estrategia respecto a Spry**
-Diferenciación por UX (Experiencia de Usuario). Spry es funcional pero su interfaz puede sentirse rígida.
-Especialización Técnica y Preventiva.
+* Diferenciación por UX (Experiencia de Usuario). Spry es funcional pero su interfaz puede sentirse rígida.
+* Especialización Técnica y Preventiva.
 ##### **Tactica respecto a Spry**
-Ofrece una interfaz más limpia e intuitiva que requiera menos clics para el ingreso de productos. Angelica prefiere un sistema por un año para ver errores, ofrécerle un soporte proactivo que Spry no suele dar a nivel personal. Ademas, el coste que piden respecto a porcentaje de funcionalidades que ofrece es muy dispareja lo que nos permite consolidarnos como una opcion mas amigable con el usuario.
-Sistema de notificaciones vía WhatsApp o correo que avise a la dueña 30, 60 y 90 días antes de que un lote de medicamentos venza, sugiriendo promociones automáticas para liquidar ese stock antes de que sea pérdida total.
+* Ofrece una interfaz más limpia e intuitiva que requiera menos clics para el ingreso de productos. Angelica prefiere un sistema por un año para ver errores, ofrécerle un soporte proactivo que Spry no suele dar a nivel personal. Ademas, el coste que piden respecto a porcentaje de funcionalidades que ofrece es muy dispareja lo que nos permite consolidarnos como una opcion mas amigable con el usuario.
+* Sistema de notificaciones vía WhatsApp o correo que avise a la dueña 30, 60 y 90 días antes de que un lote de medicamentos venza, sugiriendo promociones automáticas para liquidar ese stock antes de que sea pérdida total.
 <br></br>
 
 ### **Zoho Inventory**
@@ -603,11 +603,11 @@ Sistema de notificaciones vía WhatsApp o correo que avise a la dueña 30, 60 y 
 ---
 
 ##### **Estrategia respecto a Zoho**
-Localización y cumplimiento legal específico. Zoho es potente pero no maneja las particularidades de DIGEMID o normativas de salud peruanas nativamente.
-Reportes legales asistidos.
+* Localización y cumplimiento legal específico. Zoho es potente pero no maneja las particularidades de DIGEMID o normativas de salud peruanas nativamente.
+* Reportes legales asistidos.
 ##### **Tactica respecto a Zoho**
-Incluye de fábrica los campos legales necesarios para la venta de medicamentos en Perú que Zoho obligaría a configurar manualmente, un proceso que Angelica menciono era una de las cosas que mas detestaba debido a la perdida de tiempo y lo tedioso de hacerlo.
-Botón de "Generar Reporte para inspección" que exporte exactamente los formatos que pide la DIGEMID.
+* Incluye de fábrica los campos legales necesarios para la venta de medicamentos en Perú que Zoho obligaría a configurar manualmente, un proceso que Angelica menciono era una de las cosas que mas detestaba debido a la perdida de tiempo y lo tedioso de hacerlo.
+* Botón de "generar reporte para inspección" que exporte exactamente los formatos que pide la DIGEMID.
 <br></br>
 
 ### **Odoo Inventory**
@@ -630,11 +630,11 @@ Botón de "Generar Reporte para inspección" que exporte exactamente los formato
 ---
 
 ##### **Estrategia respecto a Odoo**
-Enfoque en Cero curva de aprendizaje. Odoo es demasiado complejo (demasiados botones y módulos) para una bodega o farmacia pequeña.
-Simplicidad Radical y Costo de Implementación.
-Dashboard ultra-simplificado diseñado para tablets, donde en una sola pantalla se vea: stock crítico, ventas del día y próximos vencimientos. Menos es más para un dueño de negocio que también atiende en el mostrador.
+* Enfoque en Cero curva de aprendizaje, simplicidad radical y costo de Implementación.
+* Simplicidad Radical y Costo de Implementación.
 ##### **Tactica respecto a Odoo**
-Posiciona a Qullqa como la solución "todo en uno pero simplificada". Mientras Odoo requiere consultoría para implementarse, tu sistema debe estar listo para usarse intuitivamente. De manera que al usuario se le acompañe en las funcionalidades generales y este cree rutas de uso rapido de manera empirica con el uso de la app.
+* Posiciona a Qullqa como la solución "todo en uno pero simplificada". Mientras Odoo requiere consultoría para implementarse, tu sistema debe estar listo para usarse intuitivamente. De manera que al usuario se le acompañe en las funcionalidades generales y este cree rutas de uso rapido de manera empirica con el uso de la app.
+* Dashboard ultra-simplificado diseñado para tablets, donde en una sola pantalla se vea: stock crítico, ventas del día y próximos vencimientos. Menos es más para un dueño de negocio que también atiende en el mostrador.
 <br></br>
 
 ## 2.2. Entrevistas
