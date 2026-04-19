@@ -720,12 +720,12 @@ Datos del entrevistado
 
 <p align="center">
   <img src="assets/img/Entrevistas/Entrevista_Angelica.png" alt="Entrevista con Angelica Rojas" width="500"/>
-  <br/><i>Evidencia de entrevista: Ruben de la Cruz</i>
+  <br/><i>Evidencia de entrevista: Angelica Rojas</i>
 </p>
 
 **Resumen descriptivo:**
 <div align="justify">
-La entrevistada Angelica Rojas, es una farmaceutica que ha heredado el negocio de su familia y se dedica a continuar con las labores de atencion en la farmacia local. Nos comenta que al ser un negocio familiar, se vio influenciada en estudiar farmacia para poder continuar con las labores del negocio. Asimismo, nos habla sonre la importancia de tener sistemas que gestionen el ingreso de productos para un tema logistico interno que le permito ver ingresos y egresos pero a su vez por el tema legal al ser productos que son vendidos directamente a personas por temas relacionados a la salud. Finalmente nos dice que en caso de probar un sistema, su prefrencia seria en un plazo de 1 año o anual para poder ver las funcionalidades y errores que podria traer consido el software.
+La entrevistada, Angélica Rojas, es una farmacéutica que ha heredado el negocio de su familia y se dedica a continuar con las labores de atención en la farmacia local. Nos comenta que, al ser un negocio familiar, se vio influenciada a estudiar Farmacia para poder seguir con las actividades del negocio Asimismo, nos habla sobre la importancia de tener sistemas que gestionen el ingreso de productos para la logística interna, lo cual le permitiría monitorear ingresos y egresos; esto es vital también por el marco legal, al tratarse de productos de salud vendidos directamente al público. Finalmente, menciona que, en caso de probar un sistema, su preferencia sería un plazo anual para poder evaluar las funcionalidades y los posibles errores del software.
 </div>
 
 ***Enlace del video:*** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231h067_upc_edu_pe/IQDrNip7FRbETrfjdFNrZgaVAZn8UuX_zQCE4gZBN_hkycU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vL2i7Z)
