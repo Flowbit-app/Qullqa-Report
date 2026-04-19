@@ -862,6 +862,8 @@ En esta sección se presentan los User Personas construidos a partir del anális
 
 <img src="assets/img/artefacts/Empaty_map_SFarmacia.png" width="500"/>
 
+<img src="assets/img/artefacts/Empaty_map_SBodega.png" width="500"/>
+
 ## 2.4. Big Picture Event Storming
 
 ## 2.5. Ubiquitous Language
