@@ -860,9 +860,24 @@ En esta sección se presentan los User Personas construidos a partir del anális
 
 ### 2.3.4. Empathy Mapping
 
-<img src="assets/img/artefacts/Empaty_map_SFarmacia.png" width="500"/>
+<div align="justify">
+El Empathy Mapping es un artefacto visual que permite profundizar en la comprensión de los usuarios, analizando lo que oyen, ven, dicen y hacen, además de sus dolores y ganancias. En el desarrollo de Qullqa, esta técnica es fundamental para transformar observaciones en insights accionables, garantizando que cada funcionalidad de la plataforma responda directamente a las experiencias emocionales y operativas reales de los dueños de negocios independientes.
+</div>
+<br/>
 
-<img src="assets/img/artefacts/Empaty_map_SBodega.png" width="500"/>
+**Primer segmento objetivo: Bodegueros Independientes**
+<p align="center">
+  <img src="assets/img/artefacts/Empathy_map_Carlos_Mendoza.png" width="500" alt="Empathy Map - Carlos Mendoza"/>
+  <br/><i>Artefacto 1: Mapa de empatía basado en el perfil del bodeguero tradicional.</i>
+</p>
+
+<br/>
+
+**Segundo segmento objetivo: Farmacias Independientes**
+<p align="center">
+  <img src="assets/img/artefacts/Empaty_map_SFarmacia.png" width="500" alt="Empathy Map - Segmento Farmacia"/>
+  <br/><i>Artefacto 2: Mapa de empatía enfocado en la gestión técnica farmacéutica.</i>
+</p>
 
 ## 2.4. Big Picture Event Storming
 
