@@ -894,23 +894,28 @@ La entrevistada, Angélica Rojas, es una farmacéutica que ha heredado el negoci
 
 <u>Entrevista 3:</u>
 
-Entrevistador: 
+Entrevistador: Adriana Nicole Ramos Fuentes Rivera
 
 Datos del entrevistado
 
-- **Nombre:** 
-- **Apellidos:** 
-- **Edad:** 
-- **Distrito:** 
+- **Nombre:** María Genoveva
+- **Apellidos:** Mariños Robles
+- **Edad:** 49
+- **Distrito:** Comas
 - **Timing:** 
 
-<!-- Colocar screenshot de la entrevista -->
+<p align="center">
+  <img src="assets/img/Entrevistas/Entrevista_Maria_Segmento2.png" alt="Entrevista con María Mariños" width="500"/>
+  <br/><i>Evidencia de entrevista: María Mariños</i>
+</p>
 
 **Resumen descriptivo:**
 
-<!-- Resumen entrevista -->
+<div align="justify">
+  La señora Maria Mariños, quien es dueña de una farmacia, menciona en la entrevista que gestiona su inventario y venta de productos por medio de un cuaderno, y esta información, la pasa a un Excel posteriormente. Además, indica que el mayor problema al que se enfrenta es el inventario, puesto que le toma demasiado tiempo realizar y suele ser una actividad consecutiva. Por otro lado, respecto a la ganancia por producto, lo calcula de una forma básica, por lo que desconoce de la rentabilidad de su negocio. Por ultimo, menciona que le gustaría obtener un sistema que le permita mejorar, principalmente, la gestion de su inventario, pero que la adquisición de este producto depende de su precio.
+</div>
 
-***Enlace del video:*** <!-- Link de entrevista -->
+***Enlace del video:*** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018427_upc_edu_pe/IQC4-_ubbFf6Q7HKqdCr4uCQAXuOPh_nO3Spldu0g0S0dUY?e=Rcjs2n&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 ### 2.2.3. Análisis de entrevistas
