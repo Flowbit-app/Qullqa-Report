@@ -940,6 +940,18 @@ En esta sección se presentan los User Personas construidos a partir del anális
 
 ### 2.3.3. User Journey Mapping
 
+<div align="justify">
+  En esta sección se presentan los User Journey Maps elaborados a partir de los user persona por cada segmento. Estos mapas describen la experiencia actual del usuario en la gestión diaria de su negocio, identificando sus acciones, pensamientos, emociones y principales dificultades a lo largo del proceso. Asimismo, permiten visualizar los puntos de contacto y los pain points más relevantes, con el fin de detectar oportunidades de mejora que orienten el diseño de Qullqa hacia soluciones simples, prácticas y alineadas a su realidad.
+</div>
+
+<br>
+
+**PRIMER SEGMENTO OBJETIVO**
+
+<img src="assets/img/artefacts/user_journey_map_carlos_mendoza.png" width="500"/>
+<br>
+
+
 ### 2.3.4. Empathy Mapping
 
 <div align="justify">
