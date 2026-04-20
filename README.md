@@ -952,7 +952,7 @@ El Empathy Mapping es un artefacto visual que permite profundizar en la comprens
 
 **Segundo segmento objetivo: Farmacias Independientes**
 <p align="center">
-  <img src="assets/img/artefacts/EM_Farmacia.png" width="500" alt="Empathy Map - Segmento Farmacia"/>
+  <img src="assets/img/artefacts/Empathy_map_Carmen_Rojas.png" width="500" alt="Empathy Map - Segmento Farmacia"/>
   <br/><i>Artefacto 2: Mapa de empatía enfocado en la gestión técnica farmacéutica.</i>
 </p>
 
