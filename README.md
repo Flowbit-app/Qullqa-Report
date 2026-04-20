@@ -964,12 +964,26 @@ En este contexto, se realizó con el objetivo de comprender el dominio del negoc
 
 Para realizar el Big Picture Event Storming se utilizaron 3 pasos importantes:
 
-- **Step 1: Generating Domain Events**
+- **Step 1: Generating Domain Events** <br>
   En esta etapa se identificaron todos los eventos relevantes del dominio del negocio, es decir, hechos significativos que ocurren en el sistema y que representan cambios de estado importantes. Estos eventos se expresan en pasado y permiten construir una visión inicial del funcionamiento del negocio.
-- **Step 2: Sorting Domain Events (chronologically)**
+
+  <div>
+    <img src="assets/img/event_storming/big_picture_event_storming_step1.png" alt="Foto Lean UX Canvas (V2)" width="500"/>
+  </div> <br>
+
+- **Step 2: Sorting Domain Events (chronologically)** <br>
   En este paso se organizaron los eventos de dominio de forma cronológica, permitiendo visualizar el flujo natural de los procesos del negocio. Esto facilita la comprensión de cómo se desarrollan las operaciones y cómo se relacionan los distintos eventos entre sí.
-- **Step 3: Adding Actors and External systems**
+
+  <div>
+    <img src="assets/img/event_storming/big_picture_event_storming_step2.png" alt="Foto Lean UX Canvas (V2)" width="500"/>
+  </div> <br>
+
+- **Step 3: Adding Actors and External systems** <br>
   Finalmente, se incorporaron los actores y sistemas externos que interactúan con el dominio, identificando quiénes participan en los procesos y qué herramientas o medios intervienen. Esto permite contextualizar los eventos dentro del ecosistema real del negocio.
+
+  <div>
+    <img src="assets/img/event_storming/big_picture_event_storming_step3.png" alt="Foto Lean UX Canvas (V2)" width="500"/>
+  </div> <br>
 
 ## 2.5. Ubiquitous Language
 
