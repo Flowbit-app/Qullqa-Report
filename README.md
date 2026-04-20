@@ -987,6 +987,10 @@ Para realizar el Big Picture Event Storming se utilizaron 3 pasos importantes:
 
 ## 2.5. Ubiquitous Language
 
+El Ubiquitous Language es un conjunto de términos y conceptos compartidos que permiten establecer una comunicación clara y consistente entre todos los miembros del equipo y los stakeholders del proyecto. Este lenguaje se construye a partir del dominio del negocio y busca eliminar ambigüedades en la interpretación de los procesos y entidades involucradas. <br>
+
+En el contexto de Qullqa, se ha definido el siguiente glosario de términos clave relacionados con la gestión de inventarios en bodegas y farmacias independientes. Estos términos están expresados en inglés, incluyendo su equivalente en español, y sus definiciones permiten alinear el entendimiento del dominio entre todos los participantes del proyecto.
+
 # Conclusiones
 ## Conclusiones y recomendaciones
 
