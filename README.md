@@ -950,7 +950,12 @@ En esta sección se presentan los User Personas construidos a partir del anális
 
 <img src="assets/img/artefacts/user_journey_map_carlos_mendoza.png" width="500"/>
 <br>
+<br>
 
+**SEGUNDO SEGMENTO OBJETIVO**
+
+<img src="assets/img/artefacts/user_journey_map_carmen_rojas.png" width="500"/>
+<br>
 
 ### 2.3.4. Empathy Mapping
 
