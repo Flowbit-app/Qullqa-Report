@@ -703,7 +703,8 @@ Datos del entrevistado
 
 El entrevistado Pablo Aguilar, es un administrador que lleva ejerciciendo su labor por aproximadamente 8 años. Considera que en el negocio es importante el uso de herramientas externas como calculadora o también el uso de un pequeño sistema. El conteo de productos lo gestiona acordemente con la llegada de pedidos y lo coordina con los trabajadores y el gerente. Luego, ve pertinente una funcionalidad que gestione le vencimiento de medicamentos y ciertas herramientas que ayuden con el apartado de pagos, ya que en caja suelen tener problemas de tiempo donde no cuentan con la tecnología adecuada para una óptima atención. 
 
-***Enlace del video:*** <!-- Link de entrevista -->
+
+***Enlace del video:***[Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202416272_upc_edu_pe/IQApqvIQKAp9So3sO81gGlleAXXLnRJuWysvvT7iDuDZa60?e=f7PKe4)
 
 
 <u>Entrevista 2:</u>
