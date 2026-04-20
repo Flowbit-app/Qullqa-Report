@@ -198,6 +198,46 @@ Nuestros valores son:
     </td>
   </tr>
 
+  <tr>
+  </tr>
+  <tr>
+    <td rowspan="4" align="center">
+      <img src="assets/img/adriana-ramos.PNG" alt="Foto de Adriana Ramos" width="500"/>
+    </td>
+    <td><b>Nombre:</b> Adriana Nicole Ramos Fuentes Rivera</td>
+  </tr>
+  <tr>
+    <td><b>Código:</b> u202018427</td>
+  </tr>
+  <tr>
+    <td>
+      <b>Descripción:</b><br/>
+      Soy <b>Adriana Nicole Ramos Fuentes Rivera</b>, tengo 23 años y estudio la carrera de Ingeniería de Software en la UPC, actualmente estoy en el 5to ciclo. Me gusta aprender nuevas tecnologias y conocimientos complementarios que me permitan desarrollar soluciones a problematicas dentro de un contexto real. Cuento con experiencia en lenguajes de programación como C++ y Python, además de conocimientos en base de datos no relacional como MongoDB.
+      <br/><br/>
+      Dentro del equipo, me enfoco en el desarrollo de backend, aplicando principios de Domain Driven Design para mantener una lógica de negocio clara. Me considero una persona organizada y empática.
+    </td>
+  </tr>
+
+  <tr>
+  </tr>
+  <tr>
+    <td rowspan="4" align="center">
+      <img src="assets/img/martin-asmat.png" alt="Foto de martin asmat" width="500"/>
+    </td>
+    <td><b>Nombre:</b> Martin Alejandro Asmat Alminco </td>
+  </tr>
+  <tr>
+    <td><b>Código:</b> u202416272 </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Descripción:</b><br/>
+    Soy <b>Martin Asmat</b>, estudiante de quinto ciclo de la carrera de Ingeniería de Software. Cuento con experiencia en lenguajes de programación como Python y C++ para proyectos enfocados en el desarrollo de habilidades computacionales, las cuales apliqué en proyectos académicos enfocados en solucionar un problema a través de procesos de documentación de Ingeniería de software.
+      <br/><br/>
+     Dentro del equipo, cumplo el rol de un full stack al realizar actividades de documentación y programación a un nivel medio. Considero que soy una persona responsable y adaptable a distintas situaciones con buen time-management.  
+    </td>
+  </tr>
+
 </table>
 
 ## 1.2. Solution Profile
@@ -555,6 +595,125 @@ En esta sección se realiza la identificación y descripción de los principales
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+### **Spry Sales** 
+Es una solución peruana de gestión comercial y facturación electrónica diseñada específicamente para micro y pequeñas empresas (MYPE). Se especializa en digitalizar negocios tradicionales como bodegas, farmacias y ferreterías, integrando la normativa de la SUNAT.
+<http://www.spry.pe/>
+
+##### **Características Principales**
+* **Gestión de Inventario Local:** Permite el control de stock en tiempo real, alertas de stock mínimo y, crucial para farmacias, el seguimiento de fechas de vencimiento.
+* **Cumplimiento Fiscal:** Generación automática de boletas y facturas electrónicas integradas directamente con los sistemas de la SUNAT.
+* **Movilidad y Punto de Venta (POS):** Incluye una aplicación móvil que permite realizar ventas y arqueos de caja desde cualquier lugar, ideal para negocios con despacho o preventa.
+* **Reportes de Rentabilidad:** Genera informes diarios de ganancias y egresos, facilitando la visión financiera del dueño del negocio.
+
+##### **Estructura de Planes**
+
+| Plan | Descripción / Enfoque | Costo |
+| :--- | :--- | :--- |
+| **Basico : Inicia** | Control basico en la app sin acceder a stock, almacen y otras funcionalidades | 49.90$ |
+| **Emprendedor : Arranca** | Integracion de funcionalidades de almacen y reportes | 79.90$ |
+| **Empresarial : Vuela** | Auditorías estrictas de inventario, credito y cobranzas | 99.90$ |
+---
+
+##### **FODA respecto a SPRY**
+
+| Categoría | Análisis de Spry Sales |
+| :--- | :--- |
+| **Fortalezas** | Cumplimiento nativo con SUNAT; marca establecida en el sector MYPE peruano. |
+| **Oportunidades** | Crecimiento de la formalización de bodegas en provincias. |
+| **Debilidades** | Interfaz de usuario (UI) anticuada; soporte técnico estandarizado y poco personalizado. |
+| **Amenazas** | Aparición de soluciones con mejor diseño y mayor automatización. |
+--
+
+###### **Conexión Estratégica:**
+* La estrategia de diferenciación ataca directamente la Debilidad de su interfaz rígida. Al detectar que el usuario valora la fluidez, la táctica de soporte proactivo transforma la amenaza de un competidor establecido en una oportunidad para captar a clientes insatisfechos con el trato impersonal de Spry.
+
+##### **Estrategia respecto a Spry**
+* Diferenciación por UX (Experiencia de Usuario). Spry es funcional pero su interfaz puede sentirse rígida.
+* Especialización Técnica y Preventiva.
+##### **Tactica respecto a Spry**
+* Ofrece una interfaz más limpia e intuitiva que requiera menos clics para el ingreso de productos. Angelica prefiere un sistema por un año para ver errores, ofrécerle un soporte proactivo que Spry no suele dar a nivel personal. Ademas, el coste que piden respecto a porcentaje de funcionalidades que ofrece es muy dispareja lo que nos permite consolidarnos como una opcion mas amigable con el usuario.
+* Sistema de notificaciones vía WhatsApp o correo que avise a la dueña 30, 60 y 90 días antes de que un lote de medicamentos venza, sugiriendo promociones automáticas para liquidar ese stock antes de que sea pérdida total.
+<br></br>
+
+### **Zoho Inventory**
+**Perfil de la Empresa:** Es una plataforma global de gestión de inventarios basada en la nube, parte del ecosistema Zoho. Se destaca por su capacidad de integración con plataformas de e-commerce y su robustez para empresas en crecimiento que buscan automatización.
+<https://www.zoho.com/inventory/>
+
+##### **Características Principales**
+* **Seguimiento de Lotes y Series:** Facilita el rastreo de medicamentos mediante números de lote y series, lo cual es fundamental para el cumplimiento de normativas de salud.
+* **Integración Multicanal:** Sincroniza inventarios automáticamente con tiendas online como Shopify, Amazon o Mercado Libre.
+* **Gestión de Almacenes:** Permite transferencias de stock entre múltiples depósitos y el seguimiento de pedidos desde el embalaje hasta la entrega.
+* **Automatización de Reorden:** Configuración de puntos de pedido automáticos que notifican cuando un producto está por agotarse.
+
+##### **Valor Agregado**
+
+| Plan | Descripción / Enfoque | Costo |
+| :--- | :--- | :--- |
+| **Standard** | 500 orders/month / 2 users / 2 locations | 29$ |
+| **Professional** | 3000 orders/month / 2 users / 4 locations | 79$ |
+| **Premium** | 7500 orders/month / 2 users / 6 locations / 2000 bins/location | 129$ |
+| **Enterprise** | 15000 orders/month / 7 users / 10 locations / 5000 bins/location | 249$ |
+---
+
+##### **FODA respecto a ZOHO**
+
+| Categoría | Análisis de Zoho Inventory |
+| :--- | :--- |
+| **Fortalezas** | Automatización de procesos de alto nivel; integración con e-commerce global. |
+| **Oportunidades** | Auge de farmacias que buscan vender por canales digitales (Marketplaces). |
+| **Debilidades** | Curva de configuración alta; falta de campos específicos para la normativa de salud peruana. |
+| **Amenazas** | Cambios regulatorios locales que Zoho no implemente a tiempo. |
+
+###### **Conexión Estratégica:**
+* La estrategia de Localización Extrema se construye sobre la Debilidad de Zoho de ser un software "genérico". La táctica del botón de "Reporte DIGEMID" resuelve la frustración de usuarios (como el caso de Angélica) que pierden tiempo configurando herramientas globales, convirtiendo la robustez de Zoho en una desventaja frente a la agilidad de Qullqa.
+
+##### **Estrategia respecto a Zoho**
+* Localización y cumplimiento legal específico. Zoho es potente pero no maneja las particularidades de DIGEMID o normativas de salud peruanas nativamente.
+* Reportes legales asistidos.
+##### **Tactica respecto a Zoho**
+* Incluye de fábrica los campos legales necesarios para la venta de medicamentos en Perú que Zoho obligaría a configurar manualmente, un proceso que Angelica menciono era una de las cosas que mas detestaba debido a la perdida de tiempo y lo tedioso de hacerlo.
+* Botón de "generar reporte para inspección" que exporte exactamente los formatos que pide la DIGEMID.
+<br></br>
+
+### **Odoo Inventory**
+**Descripción General:** Es un módulo dentro del ERP de código abierto Odoo. Su gran fortaleza es la trazabilidad total y la modularidad, permitiendo que una farmacia crezca desde un simple inventario hasta una gestión contable y de compras compleja.
+<https://www.odoo.com/app/inventory>
+
+#### **Pilares Estratégicos**
+* **Inventario de Doble Entrada:** Utiliza un sistema único donde no hay "salidas" de stock, sino "movimientos" entre ubicaciones, garantizando una trazabilidad del 100%.
+* **Personalización Extrema:** Al ser modular, permite añadir campos específicos para farmacias (como registros sanitarios o composiciones químicas) mediante su herramienta Studio.
+* **Reportes Avanzados:** Ofrece tableros en tiempo real con rotación de inventario, valoración de stock (FIFO/FEFO) y predicciones de demanda.
+* **Trazabilidad FEFO:** Prioriza la salida de productos con fecha de vencimiento más próxima (First Expired, First Out), esencial para productos farmacéuticos.
+
+#### **Resumen de Valor**
+
+| Enfoque | Objetivo Principal |
+| :--- | :--- |
+| **App Free** | Una aplicación sin límite de usuarios Odoo en línea |
+| **Estándar** | Todas las aplicaciones Odoo en línea |
+| **Personalizado** | Todas las aplicaciones del sistema|
+---
+
+##### **FODA respecto a ODOO**
+
+| Categoría | Análisis de Odoo Inventory |
+| :--- | :--- |
+| **Fortalezas** | Gestión de vencimientos impecable; sistema modular altamente escalable. |
+| **Oportunidades** | Negocios que planean expandirse a múltiples sucursales rápidamente. |
+| **Debilidades** | Costo de implementación elevado; requiere capacitación técnica para el usuario final. |
+| **Amenazas** | Versiones gratuitas (Open Source) que pueden ser configuradas por terceros. |
+
+###### **Conexión Estratégica:**
+* La estrategia de simplicidad sadical responde a la Debilidad de la complejidad de Odoo. Mientras Odoo ofrece un sistema difícil de maniobrar, Qullqa ofrece una interfaz rápida. La táctica del Dashboard simplificado permite que el dueño del negocio se enfoque en la operación diaria, evitando el "parálisis por análisis" que generan los sistemas modulares pesados.
+
+##### **Estrategia respecto a Odoo**
+* Enfoque en Cero curva de aprendizaje, simplicidad radical y costo de Implementación.
+* Simplicidad Radical y Costo de Implementación.
+##### **Tactica respecto a Odoo**
+* Posiciona a Qullqa como la solución "todo en uno pero simplificada". Mientras Odoo requiere consultoría para implementarse, tu sistema debe estar listo para usarse intuitivamente. De manera que al usuario se le acompañe en las funcionalidades generales y este cree rutas de uso rapido de manera empirica con el uso de la app.
+* Dashboard ultra-simplificado diseñado para tablets, donde en una sola pantalla se vea: stock crítico, ventas del día y próximos vencimientos. Menos es más para un dueño de negocio que también atiende en el mostrador.
+<br></br>
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
@@ -709,44 +868,55 @@ El entrevistado Pablo Aguilar, es un administrador que lleva ejerciciendo su lab
 
 <u>Entrevista 2:</u>
 
-Entrevistador: 
+Entrevistador: Aldo Jesus Huaman Oscco
 
 Datos del entrevistado
 
-- **Nombre:** 
-- **Apellidos:** 
-- **Edad:** 
-- **Distrito:** 
+- **Nombre:** Angelica Sonia 
+- **Apellidos:** Rojas Navarro
+- **Edad:** 45
+- **Distrito:** Pachacamac
 - **Timing:** 
 
-<!-- Colocar screenshot de la entrevista -->
+<p align="center">
+  <img src="assets/img/Entrevistas/Entrevista_Angelica.png" alt="Entrevista con Angelica Rojas" width="500"/>
+  <br/><i>Evidencia de entrevista: Angelica Rojas</i>
+</p>
 
 **Resumen descriptivo:**
+<div align="justify">
+La entrevistada, Angélica Rojas, es una farmacéutica que ha heredado el negocio de su familia y se dedica a continuar con las labores de atención en la farmacia local. Nos comenta que, al ser un negocio familiar, se vio influenciada a estudiar Farmacia para poder seguir con las actividades del negocio Asimismo, nos habla sobre la importancia de tener sistemas que gestionen el ingreso de productos para la logística interna, lo cual le permitiría monitorear ingresos y egresos; esto es vital también por el marco legal, al tratarse de productos de salud vendidos directamente al público. Finalmente, menciona que, en caso de probar un sistema, su preferencia sería un plazo anual para poder evaluar las funcionalidades y los posibles errores del software.
+</div>
 
-<!-- Resumen entrevista -->
+***Enlace del video:*** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231h067_upc_edu_pe/IQDrNip7FRbETrfjdFNrZgaVAZn8UuX_zQCE4gZBN_hkycU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=vL2i7Z)
 
-***Enlace del video:*** <!-- Link de entrevista -->
+<br>
 
 
 <u>Entrevista 3:</u>
 
-Entrevistador: 
+Entrevistador: Adriana Nicole Ramos Fuentes Rivera
 
 Datos del entrevistado
 
-- **Nombre:** 
-- **Apellidos:** 
-- **Edad:** 
-- **Distrito:** 
+- **Nombre:** María Genoveva
+- **Apellidos:** Mariños Robles
+- **Edad:** 49
+- **Distrito:** Comas
 - **Timing:** 
 
-<!-- Colocar screenshot de la entrevista -->
+<p align="center">
+  <img src="assets/img/Entrevistas/Entrevista_Maria_Segmento2.png" alt="Entrevista con María Mariños" width="500"/>
+  <br/><i>Evidencia de entrevista: María Mariños</i>
+</p>
 
 **Resumen descriptivo:**
 
-<!-- Resumen entrevista -->
+<div align="justify">
+  La señora Maria Mariños, quien es dueña de una farmacia, menciona en la entrevista que gestiona su inventario y venta de productos por medio de un cuaderno, y esta información, la pasa a un Excel posteriormente. Además, indica que el mayor problema al que se enfrenta es el inventario, puesto que le toma demasiado tiempo realizar y suele ser una actividad consecutiva. Por otro lado, respecto a la ganancia por producto, lo calcula de una forma básica, por lo que desconoce de la rentabilidad de su negocio. Por ultimo, menciona que le gustaría obtener un sistema que le permita mejorar, principalmente, la gestion de su inventario, pero que la adquisición de este producto depende de su precio.
+</div>
 
-***Enlace del video:*** <!-- Link de entrevista -->
+***Enlace del video:*** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202018427_upc_edu_pe/IQC4-_ubbFf6Q7HKqdCr4uCQAXuOPh_nO3Spldu0g0S0dUY?e=Rcjs2n&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 ### 2.2.3. Análisis de entrevistas
@@ -771,11 +941,148 @@ En esta sección se presentan los User Personas construidos a partir del anális
 
 ### 2.3.3. User Journey Mapping
 
+<div align="justify">
+  En esta sección se presentan los User Journey Maps elaborados a partir de los user persona por cada segmento. Estos mapas describen la experiencia actual del usuario en la gestión diaria de su negocio, identificando sus acciones, pensamientos, emociones y principales dificultades a lo largo del proceso. Asimismo, permiten visualizar los puntos de contacto y los pain points más relevantes, con el fin de detectar oportunidades de mejora que orienten el diseño de Qullqa hacia soluciones simples, prácticas y alineadas a su realidad.
+</div>
+
+<br>
+
+**Primer segmento objetivo: Bodegueros Independientes**
+<p align="center">
+  <img src="assets/img/artefacts/user_journey_map_carlos_mendoza.png" width="500" alt="User Journey Map - Carlos Mendoza"/>
+  <br/><i>Artefacto: User Journey Map basado en el user persona Carlos Mendoza.</i>
+</p>
+
+**Segundo segmento objetivo: Farmacias Independientes**
+<p align="center">
+  <img src="assets/img/artefacts/user_journey_map_carmen_rojas.png" width="500" alt="User Journey Map - Carmen Rojas"/>
+  <br/><i>Artefacto: User Journey Map basado en el user persona Carmen Rojas.</i>
+</p>
+
 ### 2.3.4. Empathy Mapping
+
+<div align="justify">
+El Empathy Mapping es un artefacto visual que permite profundizar en la comprensión de los usuarios, analizando lo que oyen, ven, dicen y hacen, además de sus dolores y ganancias. En el desarrollo de Qullqa, esta técnica es fundamental para transformar observaciones en insights accionables, garantizando que cada funcionalidad de la plataforma responda directamente a las experiencias emocionales y operativas reales de los dueños de negocios independientes.
+</div>
+<br/>
+
+**Primer segmento objetivo: Bodegueros Independientes**
+<p align="center">
+  <img src="assets/img/artefacts/Empathy_map_Carlos_Mendoza.png" width="500" alt="Empathy Map - Carlos Mendoza"/>
+  <br/><i>Artefacto 1: Mapa de empatía basado en el perfil del bodeguero tradicional.</i>
+</p>
+
+<br/>
+
+**Segundo segmento objetivo: Farmacias Independientes**
+<p align="center">
+  <img src="assets/img/artefacts/Empathy_map_Carmen_Rojas.png" width="500" alt="Empathy Map - Segmento Farmacia"/>
+  <br/><i>Artefacto 2: Mapa de empatía enfocado en la gestión técnica farmacéutica.</i>
+</p>
 
 ## 2.4. Big Picture Event Storming
 
+El Big Picture Event Storming es una técnica colaborativa de modelado que permite explorar y comprender el dominio de un negocio a alto nivel mediante la identificación de eventos clave, actores y sus interacciones. A través de esta herramienta, se obtiene una visión global del funcionamiento del sistema, facilitando la detección de procesos, relaciones y posibles problemáticas dentro del negocio.
+
+En este contexto, se realizó con el objetivo de comprender el dominio del negocio de gestión de inventarios, identificando los eventos clave, actores y flujos principales. Este modelo no se limita a las herramientas actuales utilizadas, sino que representa el funcionamiento general del negocio, proporcionando el contexto en el cual se inserta la solución propuesta, Qullqa.
+
+Para realizar el Big Picture Event Storming se utilizaron 3 pasos importantes:
+
+- **Step 1: Generating Domain Events** <br>
+  En esta etapa se identificaron todos los eventos relevantes del dominio del negocio, es decir, hechos significativos que ocurren en el sistema y que representan cambios de estado importantes. Estos eventos se expresan en pasado y permiten construir una visión inicial del funcionamiento del negocio.
+
+  <div>
+    <img src="assets/img/event_storming/big_picture_event_storming_step1.png" alt="Foto Lean UX Canvas (V2)" width="500"/>
+  </div> <br>
+
+- **Step 2: Sorting Domain Events (chronologically)** <br>
+  En este paso se organizaron los eventos de dominio de forma cronológica, permitiendo visualizar el flujo natural de los procesos del negocio. Esto facilita la comprensión de cómo se desarrollan las operaciones y cómo se relacionan los distintos eventos entre sí.
+
+  <div>
+    <img src="assets/img/event_storming/big_picture_event_storming_step2.png" alt="Foto Lean UX Canvas (V2)" width="500"/>
+  </div> <br>
+
+- **Step 3: Adding Actors and External systems** <br>
+  Finalmente, se incorporaron los actores y sistemas externos que interactúan con el dominio, identificando quiénes participan en los procesos y qué herramientas o medios intervienen. Esto permite contextualizar los eventos dentro del ecosistema real del negocio.
+
+  <div>
+    <img src="assets/img/event_storming/big_picture_event_storming_step3.png" alt="Foto Lean UX Canvas (V2)" width="500"/>
+  </div> <br>
+
 ## 2.5. Ubiquitous Language
+
+El Ubiquitous Language es un conjunto de términos y conceptos compartidos que permiten establecer una comunicación clara y consistente entre todos los miembros del equipo y los stakeholders del proyecto. Este lenguaje se construye a partir del dominio del negocio y busca eliminar ambigüedades en la interpretación de los procesos y entidades involucradas. <br>
+
+En el contexto de Qullqa, se ha definido el siguiente glosario de términos clave relacionados con la gestión de inventarios en bodegas y farmacias independientes. Estos términos están expresados en inglés, incluyendo su equivalente en español, y sus definiciones permiten alinear el entendimiento del dominio entre todos los participantes del proyecto.
+
+- **Store Owner (Dueño del negocio)** <br>
+  Persona responsable de gestionar el inventario, registrar productos, realizar ventas y coordinar pedidos con proveedores.
+
+- **Product (Producto)** <br>
+  Bien físico que es almacenado, vendido o gestionado dentro del inventario del negocio.
+  
+- **Inventory (Inventario)** <br>
+  Conjunto de productos disponibles en el negocio, incluyendo sus cantidades y estado.
+  
+- **Stock (Stock)** <br>
+  Cantidad disponible de un producto específico dentro del inventario.
+  
+- **Stock Update (Actualización de stock)** <br>
+  Cambio en la cantidad disponible de un producto debido a ventas, reposiciones, perdidas, etc.
+  
+- **Sale (Venta)** <br>
+  Transacción en la que uno o más productos son entregados a un cliente a cambio de un pago.
+  
+- **Sale Record (Registro de venta)** <br>
+  Información registrada de una venta realizada, incluyendo productos, cantidades y monto.
+  
+- **Payment (Pago)** <br>
+  Acción mediante la cual el cliente entrega dinero u otro medio de pago a cambio de productos.
+  
+- **Sale Cancellation (Cancelación de venta)** <br>
+  Anulación de una venta previamente realizada.
+  
+- **Revenue (Ingresos)** <br>
+  Dinero generado a partir de las ventas.
+  
+- **Stock Reduction (Reducción de stock)** <br>
+  Disminución de la cantidad de un producto debido a una venta u otro motivo.
+  
+- **Stock Replenishment (Reposición de stock)** <br>
+  Incremento del stock de un producto mediante la recepción de nuevos productos.
+  
+- **Inventory Review (Revisión de inventario)** <br>
+  Proceso de verificación manual o automática del estado y cantidades del inventario.
+
+- **Expired Product (Producto vencido)** <br>
+  Producto cuya fecha de vencimiento ha sido superada y no puede ser vendido.
+
+- **Expiring Product (Producto próximo a vencer)** <br>
+  Producto cuya fecha de vencimiento está cercana.
+
+- **Lost Product (Producto extraviado)** <br>
+  Producto que no puede ser localizado físicamente en el inventario.
+  
+- **Supplier (Proveedor)** <br>
+  Persona o empresa encargada de suministrar productos al negocio.
+
+- **Order (Pedido)** <br>
+  Solicitud de productos realizada al proveedor para abastecer el negocio de productos nuevos o un nuevo lote de productos ya registrados.
+
+- **Order Delivery (Recepción de pedido)** <br>
+  Proceso mediante el cual el negocio recibe productos del proveedor.
+
+- **Lead Time (Tiempo de entrega)** <br>
+  Tiempo entre la solicitud del pedido y su recepción.
+
+- **Stock Shortage (Falta de stock)** <br>
+  Situación en la que no hay suficiente cantidad de un producto para satisfacer la demanda.
+
+- **Inventory Loss (Pérdida de inventario)** <br>
+  Pérdida de productos debido a vencimiento, extravío u otros factores.
+
+- **Restocking (Reabastecimiento)** <br>
+  Proceso de volver a llenar el inventario.
 
 # Conclusiones
 ## Conclusiones y recomendaciones
