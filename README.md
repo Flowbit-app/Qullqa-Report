@@ -921,6 +921,26 @@ Datos del entrevistado
 
 ### 2.2.3. Análisis de entrevistas
 
+El 100% de los entrevistados consideran que deben mantener como información privada, su dinero ingresado de la bodega. Ello incluye al personal que trabaja con ellos a pesar de poder llevar cierto tipo de conteo o caja registradora. 
+
+El 75% de los entrevistados realizan algún tipo de apunte manual para el control de inventario o apuntes momentáneos para el monitereo de productos.
+
+El 100% de los entrevistados siempre recibe inmediatamente a los proveedores a pesar de estar en proceso de atención con un cliente para luego poder desplegarlos lo antes posible y coordinarse con otros trabajadores de ser que hubieran.
+
+El 50% de los entrevistados consideran relevante la comunicación con los trabajadores, especialmente los proveedores con lo que gestionan la venta de productos en la bodega. Es probable que alguna falla haya y ello genere confusión en la entrega de productos. 
+
+El 100% de los entrevistados rematan o promocionana sus productos cuando la fecha de vencimiento se acerca, pero luego solo el 25% de de estos, cuando se les logra vencer el producto... desisten e intentan pedir cambio de producto al proveedor. 
+
+El 100% de los usuarios entrevistados consideran una buena idea una aplicación que agilice sus procesos de control de inventario y mayor seguimiento de productos, para que a futuro se ahorren costos. 
+
+El 75% de los entrevistados considera pertinente algún tipo de orientación o guia sobre el uso de una aplicación que se encargue de una gestión de inventario aceptable. 
+
+El 50% mencióno que solo delegería gente de mucha confianza para tener trabajadores que agilicen el proceso de atención a los clientes.
+
+El 100% mencionó que un problema grave con respecto a la atención es la rapidez con la cual se antiende. Se señala que se pierden potenciales clientes que intentan ser antendidos rápdiamente, pero al ser atendidos en orden y de forma manual, no es viable en muchos casos. 
+
+EL 33% mencionó que ya tiene un programa preestablecido para su negocio pero que no cuenta con la funcionalidad de gestión de fecha de vencimiento, que es con lo que mayores problemas tienen en términos de optimización e inversión recuperable. 
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
