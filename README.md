@@ -946,16 +946,17 @@ En esta sección se presentan los User Personas construidos a partir del anális
 
 <br>
 
-**PRIMER SEGMENTO OBJETIVO**
+**Primer segmento objetivo: Bodegueros Independientes**
+<p align="center">
+  <img src="assets/img/artefacts/user_journey_map_carlos_mendoza.png" width="500" alt="User Journey Map - Carlos Mendoza"/>
+  <br/><i>Artefacto: User Journey Map basado en el user persona Carlos Mendoza.</i>
+</p>
 
-<img src="assets/img/artefacts/user_journey_map_carlos_mendoza.png" width="500"/>
-<br>
-<br>
-
-**SEGUNDO SEGMENTO OBJETIVO**
-
-<img src="assets/img/artefacts/user_journey_map_carmen_rojas.png" width="500"/>
-<br>
+**Segundo segmento objetivo: Farmacias Independientes**
+<p align="center">
+  <img src="assets/img/artefacts/user_journey_map_carmen_rojas.png" width="500" alt="User Journey Map - Carmen Rojas"/>
+  <br/><i>Artefacto: User Journey Map basado en el user persona Carmen Rojas.</i>
+</p>
 
 ### 2.3.4. Empathy Mapping
 
