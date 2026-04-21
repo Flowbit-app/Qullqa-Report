@@ -1217,6 +1217,15 @@ En el contexto de Qullqa, se ha definido el siguiente glosario de términos clav
 - **Lead Time (Tiempo de entrega)** <br>
   Tiempo entre la solicitud del pedido y su recepción.
 
+
+# Capítulo III: Requirements Specification
+
+## 3.1. User Stories
+
+## 3.2. Impact Mapping
+
+## 3.3. Product Backlog
+
 # Conclusiones
 ## Conclusiones y recomendaciones
 
