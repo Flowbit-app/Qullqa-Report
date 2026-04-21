@@ -1149,39 +1149,36 @@ En el contexto de Qullqa, se ha definido el siguiente glosario de términos clav
 
 - **Product (Producto)** <br>
   Bien físico que es almacenado, vendido o gestionado dentro del inventario del negocio.
-  
+
 - **Inventory (Inventario)** <br>
   Conjunto de productos disponibles en el negocio, incluyendo sus cantidades y estado.
-  
+
 - **Stock (Stock)** <br>
   Cantidad disponible de un producto específico dentro del inventario.
-  
-- **Stock Update (Actualización de stock)** <br>
-  Cambio en la cantidad disponible de un producto debido a ventas, reposiciones, perdidas, etc.
-  
+
+- **Updated Stock (Actualización de stock)** <br>
+  Cambio en la cantidad disponible de un producto debido a ventas, reposiciones, pérdidas u otros factores.
+
+- **Reduced Stock (Reducción de stock)** <br>
+  Disminución de la cantidad de un producto debido a una venta, pérdida o ajuste.
+
 - **Sale (Venta)** <br>
   Transacción en la que uno o más productos son entregados a un cliente a cambio de un pago.
-  
-- **Sale Record (Registro de venta)** <br>
-  Información registrada de una venta realizada, incluyendo productos, cantidades y monto.
-  
+
+- **Registered Sale (Registro de venta)** <br>
+  Registro de una venta realizada, incluyendo productos, cantidades y monto.
+
 - **Payment (Pago)** <br>
   Acción mediante la cual el cliente entrega dinero u otro medio de pago a cambio de productos.
-  
+
 - **Sale Cancellation (Cancelación de venta)** <br>
   Anulación de una venta previamente realizada.
-  
+
 - **Revenue (Ingresos)** <br>
   Dinero generado a partir de las ventas.
-  
-- **Stock Reduction (Reducción de stock)** <br>
-  Disminución de la cantidad de un producto debido a una venta u otro motivo.
-  
-- **Stock Replenishment (Reposición de stock)** <br>
-  Incremento del stock de un producto mediante la recepción de nuevos productos.
-  
-- **Inventory Review (Revisión de inventario)** <br>
-  Proceso de verificación manual o automática del estado y cantidades del inventario.
+
+- **Revised Inventory (Revisión de inventario)** <br>
+  Proceso de verificación del estado y cantidades del inventario.
 
 - **Expired Product (Producto vencido)** <br>
   Producto cuya fecha de vencimiento ha sido superada y no puede ser vendido.
@@ -1191,18 +1188,6 @@ En el contexto de Qullqa, se ha definido el siguiente glosario de términos clav
 
 - **Lost Product (Producto extraviado)** <br>
   Producto que no puede ser localizado físicamente en el inventario.
-  
-- **Supplier (Proveedor)** <br>
-  Persona o empresa encargada de suministrar productos al negocio.
-
-- **Order (Pedido)** <br>
-  Solicitud de productos realizada al proveedor para abastecer el negocio de productos nuevos o un nuevo lote de productos ya registrados.
-
-- **Order Delivery (Recepción de pedido)** <br>
-  Proceso mediante el cual el negocio recibe productos del proveedor.
-
-- **Lead Time (Tiempo de entrega)** <br>
-  Tiempo entre la solicitud del pedido y su recepción.
 
 - **Stock Shortage (Falta de stock)** <br>
   Situación en la que no hay suficiente cantidad de un producto para satisfacer la demanda.
@@ -1210,8 +1195,23 @@ En el contexto de Qullqa, se ha definido el siguiente glosario de términos clav
 - **Inventory Loss (Pérdida de inventario)** <br>
   Pérdida de productos debido a vencimiento, extravío u otros factores.
 
-- **Restocking (Reabastecimiento)** <br>
-  Proceso de volver a llenar el inventario.
+- **Alert (Alerta)** <br>
+  Notificación generada para informar sobre eventos importantes del inventario, como productos próximos a vencer.
+
+- **Spare Stock (Stock de reposición)** <br>
+  Cantidad adicional de productos utilizada para reabastecer el inventario.
+
+- **Supplier (Proveedor)** <br>
+  Persona o empresa encargada de suministrar productos al negocio.
+
+- **Order (Pedido)** <br>
+  Solicitud de productos realizada al proveedor para abastecer el negocio.
+
+- **Order Delivery (Recepción de pedido)** <br>
+  Proceso mediante el cual el negocio recibe productos del proveedor.
+
+- **Lead Time (Tiempo de entrega)** <br>
+  Tiempo entre la solicitud del pedido y su recepción.
 
 # Conclusiones
 ## Conclusiones y recomendaciones
