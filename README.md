@@ -963,6 +963,72 @@ En esta sección se presentan los User Personas construidos a partir del anális
 
 ### 2.3.2. User Task Matrix
 
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; text-align: center; width: 100%;">
+    <thead style="background-color: #f2f2f2;">
+        <tr>
+            <th rowspan="2">Tasks</th>
+            <th colspan="2">Bodegueros independientes (Carlos Mendoza)</th>
+            <th colspan="2">Farmacias independientes (Carmen Rojas)</th>
+        </tr>
+        <tr>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Registrar un nuevo producto</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Hacer conteo de stock</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+            <td>A veces</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Supervisar fecha de vencimiento</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Reportar pago realizado por un cliente</td>
+            <td>A veces</td>
+            <td>Baja</td>
+            <td>A veces</td>
+            <td>Media</td>
+        </tr>
+        <tr>
+            <td>Consultar ingresos semanales o mensuales</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+            <td>Siempre</td>
+            <td>Media</td>
+        </tr>
+        <tr>
+            <td>Realizar promociones de productos</td>
+            <td>A veces</td>
+            <td>Media</td>
+            <td>A veces</td>
+            <td>Media</td>
+        </tr>
+    </tbody>
+</table>
+
+<p align = "center"> </p>
+
+De las actividades recopiladas del primer segmento de bodegueros independientes, se obtiene que la actividad con mayor frecuencia que se realiza es la supervisión de productos 
+
+vencidos debido a la gran pérdida que estas generan, luego, lógicamente la otra actividad más frecuente es el registro de un nuevo producto en la bodegua, así como también recibir stock de un proveedor. 
+
 #### Segmento 1: Bodegueros Indepenientes 
 <p align = "center"> </p>
 <table>
