@@ -1193,6 +1193,12 @@ En el contexto de Qullqa, se ha definido el siguiente glosario de términos clav
   <br/><i>Artefacto: Mapa de impacto orientado a la gestion y perdidas economicas.</i>
 </p>
 
+**Bussiness Goals: Rentabilidad**
+<p align="center">
+  <img src="assets/img/artefacts/segundo_goal_impact.png" width="500" alt="User Journey Map - Carlos Mendoza"/>
+  <br/><i>Artefacto: Mapa de impacto orientado rentabilidad del negocio y disminucion de gastos.</i>
+</p>
+
 ## 3.3. Product Backlog
 
 # Conclusiones
