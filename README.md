@@ -1229,6 +1229,24 @@ En el marco de Scrum, nuestro equipo utilizara este inventario para seleccionar 
 | 19 | **US-01** | Conocer la propuesta de valor para bodegueros | Como visitante del segmento bodegueros independientes, quiero conocer la propuesta de valor de Qullqa, para entender cómo mejorar el control de stock, reducir pérdidas y conocer mejor la rentabilidad del negocio. | 1 |
 | 20 | **US-02** | Conocer la propuesta de valor para farmacias | Como visitante del segmento farmacias independientes, quiero conocer la propuesta de valor de Qullqa, para entender cómo controlar mejor vencimientos, disponibilidad y reposición de medicamentos. | 1 |
 | 21 | **US-04** | Redirigirse desde la Landing Page hacia la aplicación | Como visitante, quiero acceder desde la Landing Page a la vista correspondiente de la Web Application, para iniciar mi proceso de registro o uso del servicio. | 1 |
+</br>
+<p align="center">
+  <img src="assets/img/artefacts/epics.png" width="500" alt="Epicas"/>
+  <br/><i>Artefacto: Jira para Epics</i>
+</p>
+
+<p align="center">
+  <img src="assets/img/artefacts/storys.png" width="500" alt="Historias de Usuario"/>
+  <br/><i>Artefacto: Jira para User Storys</i>
+</p>
+
+<p align="center">
+  <img src="assets/img/artefacts/backlog.png" width="500" alt="Product Backlog"/>
+  <br/><i>Artefacto: Jira para Backlog Priorizado</i>
+</p>
+
+>Acceso a artefacto Jira para el desarrollo de Backlog
+<https://upc-team-open-source.atlassian.net/jira/software/projects/QULLQA/boards/67/timeline?atlOrigin=eyJpIjoiYzQxN2FjYjgxN2M3NDBiMzk2OTU4OTg3Y2I4NWU5YTYiLCJwIjoiaiJ9>
 
 # Conclusiones
 ## Conclusiones y recomendaciones
