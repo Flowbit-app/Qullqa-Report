@@ -1201,6 +1201,35 @@ En el contexto de Qullqa, se ha definido el siguiente glosario de términos clav
 
 ## 3.3. Product Backlog
 
+* El Product Backlog funciona como una lista que nos ayudara a priorizar todas las funcionalidades, mejoras y requisitos técnicos necesarios para dar vida a Qullqa.
+En el marco de Scrum, nuestro equipo utilizara este inventario para seleccionar las tareas más valiosas durante la planeación de cada sprint, transformando ideas abstractas en entregables tangibles. Para ello usaremos la Herramienta de Jira para el trabajo colaborativo en tiempo real.
+
+## Product Backlog Priorizado
+
+| # Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8) |
+| :--- | :--- | :--- | :--- | :---: |
+| 1 | **TS-02** | Consultar ubicación de entrega mediante API Geolocalización | Como developer, quiero consultar la ubicación de una entrega mediante la API Geolocalización para mostrar el estado y la posición actual del envío hacia el almacén o bodega. | 5 |
+| 2 | **US-16** | Consultar y descargar reportes detallados | Como dueño del negocio con plan Premium, quiero consultar y descargar reportes detallados, para analizar el desempeño por día, semana, producto y ventas. | 5 |
+| 3 | **US-19** | Rastrear entrega de productos al almacén | Como dueño del negocio con plan Premium, quiero rastrear la entrega de productos mediante IoT, para conocer el estado y ubicación de los envíos hacia mi bodega o almacén. | 5 |
+| 4 | **US-05** | Registrarse e iniciar sesión | Como dueño de bodega o farmacia, quiero registrarme e iniciar sesión en Qullqa, para acceder de forma segura a la gestión de mi negocio. | 3 |
+| 5 | **US-06** | Gestionar el plan contratado y sus límites | Como dueño del negocio, quiero conocer y gestionar el plan contratado, para entender las capacidades habilitadas y los límites de uso disponibles. | 3 |
+| 6 | **US-11** | Recibir alertas de bajo stock | Como dueño del negocio, quiero recibir alertas de bajo stock, para reponer productos antes de afectar la venta o disponibilidad. | 3 |
+| 7 | **US-12** | Recibir alertas de productos por vencer | Como dueño de bodega o farmacia, quiero recibir alertas de productos por vencer, para tomar acciones preventivas y reducir pérdidas. | 3 |
+| 8 | **US-13** | Registrar ingreso o recepción de stock | Como dueño del negocio, quiero registrar ingresos o recepciones de stock, para mantener actualizado el inventario real del establecimiento. | 3 |
+| 9 | **TS-01** | Enviar alertas operativas mediante API Notificación | Como developer, quiero enviar alertas operativas mediante la API Notificación para informar eventos críticos como bajo stock o productos próximos a vencer. | 3 |
+| 10 | **US-10** | Controlar stock por almacén | Como dueño del negocio con plan Pro o superior, quiero controlar el stock por almacén, para conocer la distribución exacta del inventario en cada ubicación. | 3 |
+| 11 | **US-14** | Registrar venta POS | Como vendedor, quiero registrar una venta POS, para actualizar el inventario y dejar trazabilidad comercial de la operación. | 3 |
+| 12 | **US-15** | Visualizar dashboard del negocio | Como dueño del negocio, quiero visualizar un dashboard con indicadores clave, para tomar decisiones basadas en ventas, stock y alertas. | 3 |
+| 13 | **US-18** | Gestionar roles y usuarios del negocio | Como administrador del negocio, quiero asignar roles y controlar usuarios, para distribuir responsabilidades entre administración y ventas. | 3 |
+| 14 | **US-03** | Visualizar funcionalidades y planes | Como visitante, quiero visualizar las funcionalidades y planes de Qullqa, para comparar alternativas y reconocer cuál se ajusta mejor a mi negocio. | 2 |
+| 15 | **US-07** | Registrar producto | Como dueño del negocio, quiero registrar productos con sus datos principales, para mantener un inventario organizado y controlado. | 2 |
+| 16 | **US-08** | Actualizar producto y precio | Como dueño del negocio, quiero actualizar la información y precio de un producto, para mantener los datos comerciales y operativos al día. | 2 |
+| 17 | **US-09** | Consultar lista de productos y disponibilidad | Como dueño del negocio o vendedor, quiero consultar la lista de productos y su disponibilidad, para conocer el estado actual del inventario. | 2 |
+| 18 | **US-17** | Gestionar proveedores | Como dueño del negocio, quiero registrar y consultar proveedores, para mantener organizado el abastecimiento y facilitar la reposición de productos. | 2 |
+| 19 | **US-01** | Conocer la propuesta de valor para bodegueros | Como visitante del segmento bodegueros independientes, quiero conocer la propuesta de valor de Qullqa, para entender cómo mejorar el control de stock, reducir pérdidas y conocer mejor la rentabilidad del negocio. | 1 |
+| 20 | **US-02** | Conocer la propuesta de valor para farmacias | Como visitante del segmento farmacias independientes, quiero conocer la propuesta de valor de Qullqa, para entender cómo controlar mejor vencimientos, disponibilidad y reposición de medicamentos. | 1 |
+| 21 | **US-04** | Redirigirse desde la Landing Page hacia la aplicación | Como visitante, quiero acceder desde la Landing Page a la vista correspondiente de la Web Application, para iniciar mi proceso de registro o uso del servicio. | 1 |
+
 # Conclusiones
 ## Conclusiones y recomendaciones
 
