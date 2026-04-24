@@ -1181,6 +1181,18 @@ En el contexto de Qullqa, se ha definido el siguiente glosario de términos clav
 
 ## 3.2. Impact Mapping
 
+<div align="justify">
+  En esta sección se presentan los Impact Mapping elaborados a partir de los user persona por cada segmento. Estos mapas son una técnica de planificación estratégica (creada por Gojko Adzic) que sirve para evitar que los equipos de desarrollo construyan software que nadie necesita o que no ayuda al negocio.
+</div>
+
+<br>
+
+**Bussiness Goals: Gestion de Stock y perdidas**
+<p align="center">
+  <img src="assets/img/artefacts/primer_goal_impact.png" width="500" alt="User Journey Map - Carlos Mendoza"/>
+  <br/><i>Artefacto: Mapa de impacto orientado a la gestion y perdidas economicas.</i>
+</p>
+
 ## 3.3. Product Backlog
 
 # Conclusiones
