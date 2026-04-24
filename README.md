@@ -1189,14 +1189,20 @@ En el contexto de Qullqa, se ha definido el siguiente glosario de términos clav
 
 **Bussiness Goals: Gestion de Stock y perdidas**
 <p align="center">
-  <img src="assets/img/artefacts/primer_goal_impact.png" width="500" alt="User Journey Map - Carlos Mendoza"/>
-  <br/><i>Artefacto: Mapa de impacto orientado a la gestion y perdidas economicas.</i>
+  <img src="assets/img/artefacts/Mapa_impacto_uno.png" width="500" alt="User Journey Map - Carlos Mendoza"/>
+  <br/><i>Artefacto: Mapa de impacto orientado a reduccion de perdidas.</i>
 </p>
 
 **Bussiness Goals: Rentabilidad**
 <p align="center">
-  <img src="assets/img/artefacts/segundo_goal_impact.png" width="500" alt="User Journey Map - Carlos Mendoza"/>
-  <br/><i>Artefacto: Mapa de impacto orientado rentabilidad del negocio y disminucion de gastos.</i>
+  <img src="assets/img/artefacts/Mapa_impacto_dos.png" width="500" alt="User Journey Map - Carlos Mendoza"/>
+  <br/><i>Artefacto: Mapa de impacto orientado rentabilidad del flujo de negocio.</i>
+</p>
+
+**Bussiness Goals: Tiempo**
+<p align="center">
+  <img src="assets/img/artefacts/Mapa_impacto_tres.png" width="500" alt="User Journey Map - Carlos Mendoza"/>
+  <br/><i>Artefacto: Mapa de impacto orientado a la velocidad de tareas administrativas.</i>
 </p>
 
 ## 3.3. Product Backlog
