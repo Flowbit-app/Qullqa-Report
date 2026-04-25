@@ -1183,6 +1183,495 @@ En esta sección se presenta el conjunto de Epics, User Stories y Technical Stor
 
 Las historias consideradas abarcan tanto la Landing Page, orientada a visitantes de los segmentos objetivo, como la Web Application y los features técnicos del RESTful API, asegurando una especificación integral de los requisitos del producto digital Qullqa, según lo solicitado en el enunciado del proyecto.
 
+<table>
+  <tr>
+    <th>Epic / Story ID</th>
+    <th>Título</th>
+    <th>Descripción</th>
+    <th>Criterios de Aceptación</th>
+    <th>Relacionado con (Epic ID)</th>
+  </tr>
+
+  <tr>
+    <td><strong>US01</strong></td>
+    <td>Conocer la propuesta de valor para bodegueros</td>
+    <td>
+      Como visitante del segmento bodegueros independientes, quiero conocer la propuesta de valor de Qullqa,
+      para entender cómo mejorar el control de stock, reducir pérdidas y conocer mejor la rentabilidad del negocio.
+    </td>
+    <td>
+      <strong>Escenario 1: Consulta de beneficios para el segmento</strong><br>
+      Dado que el visitante pertenece al segmento de bodegueros independientes<br>
+      Cuando el visitante consulta la propuesta de valor de Qullqa<br>
+      Entonces el sistema presenta beneficios relacionados con control de stock, vencimientos y ventas.
+      <p></p>
+      <strong>Escenario 2: Contenido alineado al problema del segmento</strong><br>
+      Dado que el visitante revisa la información del producto<br>
+      Cuando el sistema presenta el contenido para el segmento<br>
+      Entonces el sistema comunica problemas y beneficios coherentes con la realidad operativa de una bodega independiente.
+    </td>
+    <td>EP01 – Landing Page y captación</td>
+  </tr>
+
+  <tr>
+    <td><strong>US02</strong></td>
+    <td>Conocer la propuesta de valor para farmacias</td>
+    <td>
+      Como visitante del segmento farmacias independientes, quiero conocer la propuesta de valor de Qullqa,
+      para entender cómo controlar mejor vencimientos, disponibilidad y reposición de medicamentos.
+    </td>
+    <td>
+      <strong>Escenario 1: Consulta de beneficios para farmacias</strong><br>
+      Dado que el visitante pertenece al segmento farmacias independientes<br>
+      Cuando el visitante consulta la propuesta de valor de Qullqa<br>
+      Entonces el sistema presenta beneficios relacionados con control de vencimientos, stock crítico y disponibilidad de productos.
+      <p></p>
+      <strong>Escenario 2: Enfoque en control riguroso</strong><br>
+      Dado que el visitante revisa la información del producto<br>
+      Cuando el sistema presenta el contenido para farmacias<br>
+      Entonces el sistema destaca la necesidad de control riguroso del inventario y reducción de riesgos operativos.
+    </td>
+    <td>EP01 – Landing Page y captación</td>
+  </tr>
+
+  <tr>
+    <td><strong>US03</strong></td>
+    <td>Visualizar funcionalidades y planes</td>
+    <td>
+      Como visitante, quiero visualizar las funcionalidades y planes de Qullqa,
+      para comparar alternativas y reconocer cuál se ajusta mejor a mi negocio.
+    </td>
+    <td>
+      <strong>Escenario 1: Visualización de funcionalidades por plan</strong><br>
+      Dado que el visitante consulta la información comercial de Qullqa<br>
+      Cuando el visitante revisa los planes disponibles<br>
+      Entonces el sistema presenta las funcionalidades incluidas en Free, Pro y Premium.
+      <p></p>
+      <strong>Escenario 2: Comparación de planes</strong><br>
+      Dado que el visitante analiza más de un plan<br>
+      Cuando el sistema presenta el detalle de cada uno<br>
+      Entonces el sistema diferencia claramente los límites y beneficios de cada plan.
+    </td>
+    <td>EP01 – Landing Page y captación</td>
+  </tr>
+
+  <tr>
+    <td><strong>US04</strong></td>
+    <td>Redirigirse desde la Landing Page hacia la aplicación</td>
+    <td>
+      Como visitante, quiero acceder desde la Landing Page a la vista correspondiente de la Web Application,
+      para iniciar mi proceso de registro o uso del servicio.
+    </td>
+    <td>
+      <strong>Escenario 1: Redirección hacia flujo correspondiente</strong><br>
+      Dado que el visitante decide continuar con la propuesta de Qullqa<br>
+      Cuando el visitante selecciona una acción de conversión<br>
+      Entonces el sistema redirige al visitante a la vista correspondiente dentro de la Web Application.
+      <p></p>
+      <strong>Escenario 2: Consistencia entre experiencias</strong><br>
+      Dado que el visitante pasa de la Landing Page a la Web Application<br>
+      Cuando el sistema completa la redirección<br>
+      Entonces la experiencia mantiene consistencia en contenido, propósito y continuidad del flujo.
+    </td>
+    <td>EP01 – Landing Page y captación</td>
+  </tr>
+
+  <tr>
+    <td><strong>US05</strong></td>
+    <td>Registrarse e iniciar sesión</td>
+    <td>
+      Como dueño de bodega o farmacia, quiero registrarme e iniciar sesión en Qullqa,
+      para acceder de forma segura a la gestión de mi negocio.
+    </td>
+    <td>
+      <strong>Escenario 1: Registro exitoso</strong><br>
+      Dado que el usuario no cuenta con una cuenta registrada<br>
+      Cuando el usuario registra datos válidos<br>
+      Entonces el sistema crea la cuenta y habilita el acceso a la plataforma.
+      <p></p>
+      <strong>Escenario 2: Inicio de sesión exitoso</strong><br>
+      Dado que el usuario cuenta con una cuenta activa<br>
+      Cuando el usuario ingresa credenciales válidas<br>
+      Entonces el sistema autentica al usuario y habilita su sesión.
+      <p></p>
+      <strong>Escenario 3: Credenciales inválidas</strong><br>
+      Dado que el usuario intenta acceder a la plataforma<br>
+      Cuando el usuario ingresa credenciales inválidas<br>
+      Entonces el sistema rechaza la autenticación e informa que el acceso no es válido.
+    </td>
+    <td>EP02 – Acceso, cuentas y suscripción</td>
+  </tr>
+
+  <tr>
+    <td><strong>US06</strong></td>
+    <td>Gestionar el plan contratado y sus límites</td>
+    <td>
+      Como dueño del negocio, quiero conocer y gestionar el plan contratado,
+      para entender las capacidades habilitadas y los límites de uso disponibles.
+    </td>
+    <td>
+      <strong>Escenario 1: Visualización de límites del plan</strong><br>
+      Dado que el usuario tiene un plan activo<br>
+      Cuando el usuario consulta la información de su suscripción<br>
+      Entonces el sistema presenta el plan contratado y sus restricciones operativas.
+      <p></p>
+      <strong>Escenario 2: Restricción según plan</strong><br>
+      Dado que el usuario intenta utilizar una capacidad no incluida en su plan<br>
+      Cuando el sistema valida el acceso a esa capacidad<br>
+      Entonces el sistema restringe la operación e informa que la funcionalidad requiere un plan superior.
+    </td>
+    <td>EP02 – Acceso, cuentas y suscripción</td>
+  </tr>
+
+  <tr>
+    <td><strong>US07</strong></td>
+    <td>Registrar producto</td>
+    <td>
+      Como dueño del negocio, quiero registrar productos con sus datos principales,
+      para mantener un inventario organizado y controlado.
+    </td>
+    <td>
+      <strong>Escenario 1: Registro exitoso de producto</strong><br>
+      Dado que el usuario cuenta con permisos para gestionar inventario<br>
+      Cuando el usuario registra un producto con datos válidos<br>
+      Entonces el sistema guarda el producto y lo incorpora al inventario.
+      <p></p>
+      <strong>Escenario 2: Validación de datos obligatorios</strong><br>
+      Dado que el usuario intenta registrar un producto<br>
+      Cuando el registro no incluye datos obligatorios<br>
+      Entonces el sistema rechaza el registro e informa que los datos son incompletos.
+    </td>
+    <td>EP03 – Gestión de productos e inventario</td>
+  </tr>
+
+  <tr>
+    <td><strong>US08</strong></td>
+    <td>Actualizar producto y precio</td>
+    <td>
+      Como dueño del negocio, quiero actualizar la información y precio de un producto,
+      para mantener los datos comerciales y operativos al día.
+    </td>
+    <td>
+      <strong>Escenario 1: Actualización exitosa</strong><br>
+      Dado que el producto existe en el inventario<br>
+      Cuando el usuario modifica información válida del producto<br>
+      Entonces el sistema actualiza los datos del producto.
+      <p></p>
+      <strong>Escenario 2: Conservación de trazabilidad</strong><br>
+      Dado que el producto es actualizado<br>
+      Cuando el sistema guarda los cambios<br>
+      Entonces el sistema conserva el registro actualizado del producto para futuras consultas.
+    </td>
+    <td>EP03 – Gestión de productos e inventario</td>
+  </tr>
+
+  <tr>
+    <td><strong>US09</strong></td>
+    <td>Consultar lista de productos y disponibilidad</td>
+    <td>
+      Como dueño del negocio o vendedor, quiero consultar la lista de productos y su disponibilidad,
+      para conocer el estado actual del inventario.
+    </td>
+    <td>
+      <strong>Escenario 1: Consulta del inventario</strong><br>
+      Dado que el usuario cuenta con acceso al inventario<br>
+      Cuando el usuario consulta el catálogo interno<br>
+      Entonces el sistema presenta los productos registrados con su disponibilidad actual.
+      <p></p>
+      <strong>Escenario 2: Identificación de productos no disponibles</strong><br>
+      Dado que existen productos sin stock suficiente<br>
+      Cuando el usuario consulta el inventario<br>
+      Entonces el sistema identifica los productos con disponibilidad insuficiente.
+    </td>
+    <td>EP03 – Gestión de productos e inventario</td>
+  </tr>
+
+  <tr>
+    <td><strong>US10</strong></td>
+    <td>Controlar stock por almacén</td>
+    <td>
+      Como dueño del negocio con plan Pro o superior, quiero controlar el stock por almacén,
+      para conocer la distribución exacta del inventario en cada ubicación.
+    </td>
+    <td>
+      <strong>Escenario 1: Consulta por almacén</strong><br>
+      Dado que el negocio gestiona más de una ubicación<br>
+      Cuando el usuario consulta el stock por almacén<br>
+      Entonces el sistema presenta la cantidad disponible de cada producto por ubicación.
+      <p></p>
+      <strong>Escenario 2: Restricción por plan</strong><br>
+      Dado que el usuario no cuenta con una suscripción compatible<br>
+      Cuando el usuario intenta acceder al control por almacén<br>
+      Entonces el sistema restringe la funcionalidad.
+    </td>
+    <td>EP03 – Gestión de productos e inventario</td>
+  </tr>
+
+  <tr>
+    <td><strong>US11</strong></td>
+    <td>Recibir alertas de bajo stock</td>
+    <td>
+      Como dueño del negocio, quiero recibir alertas de bajo stock,
+      para reponer productos antes de afectar la venta o disponibilidad.
+    </td>
+    <td>
+      <strong>Escenario 1: Generación de alerta</strong><br>
+      Dado que un producto alcanza o cae por debajo del stock mínimo definido<br>
+      Cuando el sistema evalúa el nivel de inventario<br>
+      Entonces el sistema genera una alerta de bajo stock.
+      <p></p>
+      <strong>Escenario 2: Consulta de alertas activas</strong><br>
+      Dado que existen alertas de bajo stock generadas<br>
+      Cuando el usuario consulta las alertas operativas<br>
+      Entonces el sistema presenta los productos afectados y su nivel de stock actual.
+    </td>
+    <td>EP04 – Alertas y control operativo</td>
+  </tr>
+
+  <tr>
+    <td><strong>US12</strong></td>
+    <td>Recibir alertas de productos por vencer</td>
+    <td>
+      Como dueño de bodega o farmacia, quiero recibir alertas de productos por vencer,
+      para tomar acciones preventivas y reducir pérdidas.
+    </td>
+    <td>
+      <strong>Escenario 1: Detección de vencimiento próximo</strong><br>
+      Dado que un producto se encuentra dentro del umbral de vencimiento definido<br>
+      Cuando el sistema evalúa la fecha de expiración<br>
+      Entonces el sistema genera una alerta por vencimiento próximo.
+      <p></p>
+      <strong>Escenario 2: Priorización de productos críticos</strong><br>
+      Dado que existen varios productos próximos a vencer<br>
+      Cuando el usuario consulta las alertas<br>
+      Entonces el sistema presenta primero los productos con vencimiento más cercano.
+    </td>
+    <td>EP04 – Alertas y control operativo</td>
+  </tr>
+
+  <tr>
+    <td><strong>US13</strong></td>
+    <td>Registrar ingreso o recepción de stock</td>
+    <td>
+      Como dueño del negocio, quiero registrar ingresos o recepciones de stock,
+      para mantener actualizado el inventario real del establecimiento.
+    </td>
+    <td>
+      <strong>Escenario 1: Registro de ingreso exitoso</strong><br>
+      Dado que el usuario cuenta con permisos para registrar movimientos<br>
+      Cuando el usuario registra una recepción válida de stock<br>
+      Entonces el sistema incrementa el inventario del producto correspondiente.
+      <p></p>
+      <strong>Escenario 2: Actualización del historial de movimientos</strong><br>
+      Dado que se registra un ingreso de stock<br>
+      Cuando el sistema procesa la operación<br>
+      Entonces el sistema guarda el movimiento para fines de control y consulta.
+    </td>
+    <td>EP04 – Alertas y control operativo</td>
+  </tr>
+
+  <tr>
+    <td><strong>US14</strong></td>
+    <td>Registrar venta POS</td>
+    <td>
+      Como vendedor, quiero registrar una venta POS,
+      para actualizar el inventario y dejar trazabilidad comercial de la operación.
+    </td>
+    <td>
+      <strong>Escenario 1: Venta registrada correctamente</strong><br>
+      Dado que el producto cuenta con stock suficiente<br>
+      Cuando el vendedor registra una venta válida<br>
+      Entonces el sistema guarda la venta y descuenta el stock correspondiente.
+      <p></p>
+      <strong>Escenario 2: Venta rechazada por stock insuficiente</strong><br>
+      Dado que el producto no cuenta con stock suficiente<br>
+      Cuando el vendedor intenta registrar la venta<br>
+      Entonces el sistema rechaza la operación e informa la insuficiencia de stock.
+    </td>
+    <td>EP05 – Ventas, dashboard y reportes</td>
+  </tr>
+
+  <tr>
+    <td><strong>US15</strong></td>
+    <td>Visualizar dashboard del negocio</td>
+    <td>
+      Como dueño del negocio, quiero visualizar un dashboard con indicadores clave,
+      para tomar decisiones basadas en ventas, stock y alertas.
+    </td>
+    <td>
+      <strong>Escenario 1: Visualización de indicadores</strong><br>
+      Dado que el usuario accede al resumen del negocio<br>
+      Cuando el sistema carga la información disponible<br>
+      Entonces el sistema presenta indicadores de ventas, inventario y alertas.
+      <p></p>
+      <strong>Escenario 2: Información actualizada</strong><br>
+      Dado que existen operaciones recientes en el negocio<br>
+      Cuando el usuario consulta el dashboard<br>
+      Entonces el sistema presenta datos actualizados respecto al estado operativo.
+    </td>
+    <td>EP05 – Ventas, dashboard y reportes</td>
+  </tr>
+
+  <tr>
+    <td><strong>US16</strong></td>
+    <td>Consultar y descargar reportes detallados</td>
+    <td>
+      Como dueño del negocio con plan Premium, quiero consultar y descargar reportes detallados,
+      para analizar el desempeño por día, semana, producto y ventas.
+    </td>
+    <td>
+      <strong>Escenario 1: Consulta de reportes</strong><br>
+      Dado que el usuario cuenta con acceso a reportes avanzados<br>
+      Cuando el usuario solicita un reporte por criterio de análisis<br>
+      Entonces el sistema genera la información correspondiente al período y filtro solicitado.
+      <p></p>
+      <strong>Escenario 2: Descarga de reporte</strong><br>
+      Dado que el sistema genera correctamente el reporte<br>
+      Cuando el usuario solicita exportarlo<br>
+      Entonces el sistema entrega el reporte en un formato descargable.
+    </td>
+    <td>EP05 – Ventas, dashboard y reportes</td>
+  </tr>
+
+  <tr>
+    <td><strong>US17</strong></td>
+    <td>Gestionar proveedores</td>
+    <td>
+      Como dueño del negocio, quiero registrar y consultar proveedores,
+      para mantener organizado el abastecimiento y facilitar la reposición de productos.
+    </td>
+    <td>
+      <strong>Escenario 1: Registro de proveedor</strong><br>
+      Dado que el usuario cuenta con permisos de administración<br>
+      Cuando el usuario registra un proveedor con datos válidos<br>
+      Entonces el sistema guarda la información del proveedor.
+      <p></p>
+      <strong>Escenario 2: Consulta de proveedor asociado a productos</strong><br>
+      Dado que existen proveedores registrados<br>
+      Cuando el usuario consulta la información de abastecimiento<br>
+      Entonces el sistema presenta los proveedores disponibles y su relación con productos cuando corresponda.
+    </td>
+    <td>EP06 – Proveedores, usuarios y colaboración</td>
+  </tr>
+
+  <tr>
+    <td><strong>US18</strong></td>
+    <td>Gestionar roles y usuarios del negocio</td>
+    <td>
+      Como administrador del negocio, quiero asignar roles y controlar usuarios,
+      para distribuir responsabilidades entre administración y ventas.
+    </td>
+    <td>
+      <strong>Escenario 1: Creación de usuario con rol válido</strong><br>
+      Dado que el administrador cuenta con capacidad para gestionar accesos<br>
+      Cuando el administrador registra un usuario con rol válido<br>
+      Entonces el sistema crea el usuario con los permisos correspondientes.
+      <p></p>
+      <strong>Escenario 2: Restricción por límite del plan</strong><br>
+      Dado que el negocio alcanzó el número máximo de usuarios permitidos<br>
+      Cuando el administrador intenta registrar un nuevo usuario<br>
+      Entonces el sistema rechaza la operación e informa el límite del plan.
+    </td>
+    <td>EP06 – Proveedores, usuarios y colaboración</td>
+  </tr>
+
+  <tr>
+    <td><strong>US19</strong></td>
+    <td>Rastrear entrega de productos al almacén</td>
+    <td>
+      Como dueño del negocio con plan Premium, quiero rastrear la entrega de productos mediante IoT,
+      para conocer el estado y ubicación de los envíos hacia mi bodega o almacén.
+    </td>
+    <td>
+      <strong>Escenario 1: Consulta de ubicación de entrega</strong><br>
+      Dado que existe una entrega asociada a un dispositivo IoT activo<br>
+      Cuando el usuario consulta el estado del envío<br>
+      Entonces el sistema presenta la ubicación y estado más reciente de la entrega.
+      <p></p>
+      <strong>Escenario 2: Entrega finalizada</strong><br>
+      Dado que la entrega llega a destino<br>
+      Cuando el sistema recibe la confirmación de finalización<br>
+      Entonces el sistema actualiza el estado de la entrega como completada.
+    </td>
+    <td>EP07 – Seguimiento de entregas con IoT</td>
+  </tr>
+
+  <tr>
+    <td><strong>TS01</strong></td>
+    <td>Enviar alertas operativas mediante API Notificación</td>
+    <td>
+      Como developer, quiero enviar alertas operativas mediante la API Notificación,
+      para informar eventos críticos como bajo stock o productos próximos a vencer.
+    </td>
+    <td>
+      <strong>Escenario 1: Envío exitoso de alerta de bajo stock</strong><br>
+      Dado que existe un producto cuyo stock ha alcanzado el umbral mínimo<br>
+      Cuando el developer envía una solicitud POST a /api/notificaciones/alertas con el tipo LOW_STOCK<br>
+      Entonces la API responde con 201 Created<br>
+      Y registra la alerta correctamente<br>
+      Y devuelve el estado de envío de la notificación.
+      <p></p>
+      <strong>Escenario 2: Envío exitoso de alerta por vencimiento próximo</strong><br>
+      Dado que existe un producto dentro del umbral de vencimiento configurado<br>
+      Cuando el developer envía una solicitud POST a /api/notificaciones/alertas con el tipo EXPIRATION_WARNING<br>
+      Entonces la API responde con 201 Created<br>
+      Y registra la alerta correctamente<br>
+      Y devuelve el detalle de la notificación generada.
+      <p></p>
+      <strong>Escenario 3: Consulta de alertas generadas</strong><br>
+      Dado que existen alertas registradas para el negocio<br>
+      Cuando el developer envía una solicitud GET a /api/notificaciones/alertas/{businessId}<br>
+      Entonces la API responde con 200 OK<br>
+      Y devuelve la lista de alertas activas<br>
+      Y cada alerta incluye tipo, producto relacionado y fecha de generación.
+      <p></p>
+      <strong>Escenario 4: Solicitud inválida de alerta</strong><br>
+      Dado que el developer envía una solicitud sin tipo de alerta o sin identificador de producto<br>
+      Cuando la API valida el request<br>
+      Entonces la API responde con 400 Bad Request<br>
+      Y devuelve el detalle del error de validación.
+    </td>
+    <td>EP08 – Technical Stories RESTful API</td>
+  </tr>
+
+  <tr>
+    <td><strong>TS02</strong></td>
+    <td>Consultar ubicación de entrega mediante API Geolocalización</td>
+    <td>
+      Como developer, quiero consultar la ubicación de una entrega mediante la API Geolocalización,
+      para mostrar el estado y la posición actual del envío hacia el almacén o bodega.
+    </td>
+    <td>
+      <strong>Escenario 1: Consulta exitosa de ubicación de entrega</strong><br>
+      Dado que existe una entrega asociada a un dispositivo o evento de rastreo válido<br>
+      Cuando el developer envía una solicitud GET a /api/geolocalizacion/entregas/{deliveryId}<br>
+      Entonces la API responde con 200 OK<br>
+      Y devuelve la ubicación más reciente de la entrega<br>
+      Y devuelve el estado actual del envío.
+      <p></p>
+      <strong>Escenario 2: Entrega finalizada</strong><br>
+      Dado que la entrega ya llegó al destino final<br>
+      Cuando el developer consulta /api/geolocalizacion/entregas/{deliveryId}<br>
+      Entonces la API responde con 200 OK<br>
+      Y devuelve el estado COMPLETED<br>
+      Y devuelve la última ubicación registrada como destino final.
+      <p></p>
+      <strong>Escenario 3: Entrega no encontrada</strong><br>
+      Dado que el identificador de entrega no existe en el sistema<br>
+      Cuando el developer envía la solicitud de consulta<br>
+      Entonces la API responde con 404 Not Found<br>
+      Y devuelve un mensaje indicando que la entrega no fue encontrada.
+      <p></p>
+      <strong>Escenario 4: Solicitud sin autenticación válida</strong><br>
+      Dado que el developer intenta consultar una entrega sin token válido<br>
+      Cuando la API valida el acceso<br>
+      Entonces la API responde con 401 Unauthorized<br>
+      Y rechaza la consulta de geolocalización.
+    </td>
+    <td>EP08 – Technical Stories RESTful API</td>
+  </tr>
+</table>
+
 ## 3.2. Impact Mapping
 
 <div align="justify">
