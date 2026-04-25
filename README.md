@@ -1179,6 +1179,10 @@ En el contexto de Qullqa, se ha definido el siguiente glosario de términos clav
 
 ## 3.1. User Stories
 
+En esta sección se presenta el conjunto de Epics, User Stories y Technical Stories definidos para Qullqa, elaborados a partir de los requisitos identificados durante el proceso de investigación, análisis del dominio y necesidades de los segmentos objetivo. Cada historia describe una funcionalidad o capacidad que aporta valor al usuario, al negocio o al desarrollo técnico de la solución. Asimismo, se incluyen criterios de aceptación redactados bajo la estructura Gherkin (Given–When–Then), con el fin de establecer condiciones claras, comprobables y alineadas al comportamiento esperado del sistema.
+
+Las historias consideradas abarcan tanto la Landing Page, orientada a visitantes de los segmentos objetivo, como la Web Application y los features técnicos del RESTful API, asegurando una especificación integral de los requisitos del producto digital Qullqa, según lo solicitado en el enunciado del proyecto.
+
 ## 3.2. Impact Mapping
 
 <div align="justify">
