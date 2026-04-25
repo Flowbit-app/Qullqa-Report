@@ -1807,6 +1807,10 @@ En el marco de Scrum, nuestro equipo utilizara este inventario para seleccionar 
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Design-Level Event Storming
+
+En esta sección se presenta el Design-Level EventStorming de Qullqa, realizado con el fin de detallar y refinar el modelado del dominio identificado previamente. Durante la sesión, el equipo organizó eventos de dominio, comandos, políticas, agregados y bounded contexts relacionados con los principales procesos del sistema, como la gestión de inventario, ventas, alertas, almacenes, proveedores, reportes y suscripciones. Este análisis permitió comprender mejor las responsabilidades de cada contexto y sus relaciones, sirviendo como base para el diseño de la arquitectura del software.
+
+
 ### 4.6.2. Software Architecture Context Diagram
 ### 4.6.3. Software Architecture Container Diagrams
 ### 4.6.4. Software Architecture Components Diagrams
