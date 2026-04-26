@@ -1776,8 +1776,10 @@ En el marco de Scrum, nuestro equipo utilizara este inventario para seleccionar 
 <https://upc-team-open-source.atlassian.net/jira/software/projects/QULLQA/boards/67/timeline?atlOrigin=eyJpIjoiYzQxN2FjYjgxN2M3NDBiMzk2OTU4OTg3Y2I4NWU5YTYiLCJwIjoiaiJ9>
 
 # Capítulo IV: Product Design
-
 ## 4.1. Style Guidelines
+<div align="justify">
+  En esta parte se presentan una serie de criterios y orientaciones que indican cómo elaborar y dar formato a los documentos de un proyecto. Además, estas pautas ayudan a conservar uniformidad en el estilo, la estructura, el lenguaje y los elementos visuales, lo que contribuye a una comunicación más clara entre los miembros del equipo y a una presentación consistente y profesional.
+</div>
 
 ### 4.1.1. General Style Guidelines
 ### 4.1.2. Web Style Guidelines
