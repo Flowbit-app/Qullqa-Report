@@ -1903,6 +1903,32 @@ Permite reducir el ruido informativo y aislar rápidamente los productos en situ
 
 ### 4.2.5. Navigation Systems
 
+El sistema de navegación de **Qullqa** guía al usuario de forma satisfactoria tanto en la fase de descubrimiento (Landing) como en la fase operativa (App), asegurando que siempre mantenga la noción de su ubicación dentro de la plataforma.
+
+<a name="nav-global"></a>
+**a) Navegación global** </br>
+Es el nivel superior de navegación que permite moverse entre las áreas principales de la solución de forma persistente:
+* **Landing Page:** Menú superior persistente (Navbar) con navegación por anclas (`#hero`, `#servicios`, `#vision`) que permite recorrer la página sin recargas.
+* **Web Application:** Menú lateral izquierdo (Sidebar) que permite el salto directo entre los módulos operativos (Inventario, Ventas, Alertas) de manera constante.
+
+<a name="nav-local"></a>
+**b) Navegación local y contextual** </br>
+Permite la exploración de contenidos específicos dentro de un módulo sin perder el contexto global:
+* **Dashboard Contextual:** Desde las tarjetas de resumen (ej. "Stock Bajo"), el usuario puede hacer clic para navegar directamente a la lista filtrada de productos en riesgo.
+* **Detalle de Producto:** Permite navegar entre la visualización de datos básicos y el historial específico de movimientos de ese ítem.
+
+<a name="nav-sequential"></a>
+**c) Navegación secuencial** </br>
+Diseñada para procesos que requieren una serie de pasos lógicos y ordenados:
+* **Proceso de Venta:** Carrito → Selección de pago → Confirmación.
+* **Registro de Usuario:** Elección de plan → Datos del negocio → Configuración inicial de almacén.
+
+<a name="nav-suplementaria"></a>
+**d) Navegación suplementaria** </br>
+Proporciona vías alternativas para encontrar información o realizar acciones rápidas:
+* **Breadcrumbs:** Implementados en las vistas profundas de la aplicación para que el usuario pueda retornar fácilmente a los niveles superiores.
+
+
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
