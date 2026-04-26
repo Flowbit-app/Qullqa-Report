@@ -1812,6 +1812,16 @@ En el marco de Scrum, nuestro equipo utilizara este inventario para seleccionar 
   <br/>
 </p>
 
+**Colors**
+<div align="justify">
+  La paleta de colores de Qullqa se compone de una combinación equilibrada de tonos que transmiten modernidad, confianza y dinamismo, alineándose con la identidad innovadora de la marca. Se utilizan colores profundos como el azul (#0B3558) y el gris azulado (#64748B) que aportan solidez y profesionalismo, junto con tonalidades vibrantes como el rojo (#EF4444), amarillo (#FACC15) y verde (#22C55E) que añaden energía, diversidad y vitalidad. Asimismo, los tonos claros y neutros como el celeste (#E0F2FE), crema (#FEF3C7) y grises suaves (#F1F5F9,#F4F6F9,#FAFAF7) contribuyen a generar equilibrio visual, limpieza y una experiencia agradable para el usuario. En conjunto, esta paleta crea una identidad visual atractiva, versátil y contemporánea, capaz de destacar en distintos entornos y aplicaciones.
+</div>
+<br>
+<p align="center">
+  <img src="assets/img/colors.png" width="500" alt="Color Palette"/>
+  <br/>
+</p>
+
 
 ## 4.2. Information Architecture
 
