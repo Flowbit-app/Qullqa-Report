@@ -1993,9 +1993,9 @@ Proporciona vías alternativas para encontrar información o realizar acciones r
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
-<img src="assets/img/mock-ups/desktop/Landing_page_mock-up.jpg" alt="Landing Page" width="900"/> <br>
+<img src="assets/img/mock-ups/desktop/Landing_page_mock-up.jpeg" alt="Landing Page" width="900"/> <br>
 ### 4.3.2. Landing Page Mock-up
-<img src="assets/img/mock-ups/desktop/Landing_page_mock-up.jpg" alt="Landing Page" width="900"/> <br>
+<img src="assets/img/mock-ups/desktop/Landing_page_mock-up.jpeg" alt="Landing Page" width="900"/> <br>
 
 ## 4.4. Web Applications UX/UI Design
 
