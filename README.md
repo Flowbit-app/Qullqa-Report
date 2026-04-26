@@ -1797,6 +1797,21 @@ En el marco de Scrum, nuestro equipo utilizara este inventario para seleccionar 
 <div align="justify">
   La tipografía del nombre de marca en Qullqa cumple un papel fundamental en la construcción de su identidad visual, ya que no solo asegura la legibilidad, sino que también transmite su esencia. Se eligió Orbitron por su estilo geométrico y futurista, que comunica modernidad, innovación y un enfoque tecnológico, alineándose con la personalidad de la marca, mientras que de forma complementaria se utiliza Segoe UI Emoji para integrar elementos gráficos como símbolos o detalles visuales que aportan cercanía y dinamismo. Las formas limpias y angulares de Orbitron permiten que el nombre destaque con claridad en distintos formatos, mientras que su estética distintiva facilita el reconocimiento, y el apoyo de Segoe UI Emoji añade un matiz visual amigable sin perder coherencia. En conjunto, esta combinación tipográfica refuerza una imagen sólida, contemporánea y versátil, haciendo que el brand name sea memorable y visualmente equilibrado.
 </div>
+<br>
+
+**Orbitron**
+<p align="center">
+  <img src="assets/img/font1.png" width="500" alt="Orbitron"/>
+  <br/>
+</p>
+<br>
+
+**Segoe UI Emoji**
+<p align="center">
+  <img src="assets/img/font2.png" width="500" alt="Segoe UI Emoji"/>
+  <br/>
+</p>
+
 
 ## 4.2. Information Architecture
 
