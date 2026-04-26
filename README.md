@@ -2280,9 +2280,141 @@ Dashboard & Analytics <br>
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management
+
 ### 5.1.1. Software Development Environment Configuration
+
+A continuación se detallarán los productos de software que se han utilizado para el proyecto de acuerdo a las diferentes actividades realizadas.
+
+**Project Management**
+
+**WhatsApp:** Es una aplicación de mensajería instantánea que permite la comunicación asíncrona y coordinación rápida de tareas operativas entre los miembros del equipo. </br>
+Referencia: https://web.whatsapp.com/
+
+**Google Meet:** Es una plataforma de videoconferencias que permite realizar reuniones virtuales con audio, video y compartir pantalla. Se hizo uso de esta plataforma para la realización de ceremonias Scrum, reuniones de sincronización técnica y compartición de pantalla en tiempo real. </br>
+Referencia: https://meet.google.com/
+
+**Discord:** Es una plataforma de comunicación en línea que permite realizar llamadas, videollamadas y chats por canales. Lo utilizamos para reuniones rápidas entre los miembros disponibles del equipo y para resolver dudas de forma rápida. </br>
+Referencia: https://discord.com/
+
+---
+
+**Product UX/UI Design**
+
+**UXPressia:** Es una plataforma en línea especializada en el mapeo de la experiencia del usuario y diseño de servicios. Se usó para elaborar las user personas, user journey mapping, empathy mapping e impact mapping del proyecto. </br>
+Referencia: https://uxpressia.com/
+
+**Miro:** Es una pizarra colaborativa digital que permite crear diagramas y esquemas de forma visual y en tiempo real. Se usó para desarrollar sesiones de Event Storming para identificar procesos de negocio y definir Bounded Contexts. </br>
+Referencia: https://miro.com/
+
+**Figma:** Es un editor de gráficos vectoriales y herramienta de prototipado de interfaces basada principalmente en la web. Lo utilizamos para elaborar los wireframes, mockups y prototipos del proyecto. </br>
+Referencia: https://www.figma.com/
+
+**Jira:** Es un software de gestión de proyectos diseñado para equipos ágiles que utilizan Scrum o Kanban. Se usó para gestionar el Product Backlog, priorizar requerimientos y documentar las User Stories con sus criterios de aceptación. </br>
+Referencia: https://www.atlassian.com/es/software/jira
+
+---
+
+**Software Development**
+
+**Visual Studio Code:** Es un editor de código fuente ligero, altamente extensible y compatible con múltiples lenguajes de programación. Se usó para realizar ediciones rápidas, refactorización de scripts y desarrollo de componentes frontend específicos. </br>
+Descargar: https://code.visualstudio.com/
+
+---
+
+**Software Deployment**
+
+**GitHub:** Es una plataforma de desarrollo colaborativo que utiliza el sistema de control de versiones Git y servicios de hosting. Se usó para alojar el código fuente del proyecto y gestionar el despliegue continuo de la Landing Page. </br>
+Referencia: https://github.com/
+
+---
+
+**Software Documentation**
+
+**GitHub:** Es una plataforma de control de versiones y colaboración en línea. Se usó para redactar, organizar y dar seguimiento al informe completo del proyecto. </br>
+Referencia: https://github.com/
+
+**Structurizr:** Es una herramienta para modelado de arquitectura de software mediante el enfoque C4. Lo utilizamos para construir los diagramas de arquitectura C4 del proyecto. </br>
+Referencia: https://structurizr.com/
+
+**Vertabelo:** Es una herramienta en línea para el diseño y modelado visual de bases de datos relacionales, que permite crear, compartir y exportar diagramas de forma colaborativa. Se usó para elaborar el diagrama de la base de datos del proyecto. </br>
+Referencia: https://vertabelo.com/
+
+---
+
 ### 5.1.2. Source Code Management
+
+Para la gestión del código fuente y el control de versiones, el equipo utiliza **GitHub** como plataforma principal. Esta herramienta permite la colaboración distribuida y asegura la integridad de los artefactos digitales del proyecto.
+
+**Repositorios del Proyecto:** </br>
+Landing Page: https://github.com/Flowbit-app/Qullqa-LandingPage
+
+**Estrategia de Flujo de Trabajo (GitFlow):** </br>
+El equipo adoptará formalmente el modelo **GitFlow** para mantener un ciclo de vida profesional. Se utilizarán dos ramas principales de larga duración:
+* **`main`:** Almacena exclusivamente versiones estables y probadas del software (versiones listas para producción).
+* **`develop`:** Funciona como la rama de integración principal donde se consolidan las funcionalidades antes de un lanzamiento.
+
+Para el desarrollo dinámico, se aplicarán las siguientes convenciones de ramificación:
+* **Feature branches:** Utilizadas para desarrollar nuevas funcionalidades. Ejemplo: `feature/landing-page-services`.
+* **Release branches:** Ramas temporales creadas desde `develop` para preparar el despliegue de una nueva versión (`v1.0.0`, `v1.1.0`, etc.).
+* **Hotfix branches:** Ramas de emergencia creadas desde `main` para corregir errores críticos en producción que no pueden esperar al siguiente ciclo de desarrollo.
+
+**Convención de Mensajes de Commit:** </br>
+Se implementa el estándar de **Conventional Commits** con el formato obligatorio: `<type>(<scope>): <description>`.
+* `feat`: Para la implementación de nuevas características.
+* `fix`: Para la corrección de errores de código.
+* `docs`: Para cambios exclusivos en la documentación.
+* `style`: Para cambios que no afectan la lógica del código (formato, CSS, espacios).
+* `refactor`: Para cambios en el código que no corrigen errores ni añaden funciones.
+
+**Versionamiento Semántico (Semantic Versioning):** </br>
+El equipo utiliza el formato `vMAJOR.MINOR.PATCH` para identificar las versiones del producto:
+* `MAJOR`: Incrementado en cambios que rompen la compatibilidad (ej. `v2.0.0`).
+* `MINOR`: Incrementado al añadir funcionalidades compatibles (ej. `v1.1.0`).
+* `PATCH`: Incrementado al realizar correcciones de errores menores (ej. `v1.0.1`).
+
+---
+
 ### 5.1.3. Source Code Style Guide & Conventions
+
+**1. HTML**
+* **Lower-case Element Names:** Los nombres de etiquetas deben estar en minúsculas para mantener la consistencia con los estándares de la W3C. Ejemplo: `<div>` en lugar de `<DIV>`.
+* **Close All Elements:** Todo elemento HTML debe cerrarse correctamente para evitar errores de renderizado. Ejemplo: `<p>Update stock.</p>`.
+* **Lowercase Attribute Names:** Atributos como `class`, `id`, `src` y `href` deben escribirse en minúsculas. Ejemplo: `<img class="inventory-icon" ... />`.
+* **Alt, Width, and Height for Images:** Es obligatorio especificar el atributo `alt` por accesibilidad y las dimensiones para optimizar el Cumulative Layout Shift (CLS).
+* **Spaces and Equal Signs:** Se evita el uso de espacios alrededor del signo igual en los atributos. Ejemplo: `type="text"` en lugar de `type = "text"`.
+
+**2. CSS**
+* **Naming Style (Kebab-case):** Se utilizarán nombres significativos y descriptivos usando el formato kebab-case. Ejemplo: `#inventory-dashboard`, `.product-card-title`.
+* **Shorthand Properties:** Se prioriza el uso de propiedades abreviadas para reducir el peso del archivo. Ejemplo: `padding: 10px 5px;`.
+* **0 and Units:** Se omite la unidad de medida cuando el valor es `0`. Ejemplo: `margin: 0;`.
+* **Declaration Order:** Las propiedades se ordenan alfabéticamente para facilitar la edición y mantenimiento por múltiples desarrolladores.
+
+**3. JavaScript**
+* **Variable and Function Naming:** Se aplica el formato `lowerCamelCase`. Los nombres deben ser verbos para funciones y sustantivos para variables. Ejemplo: `let productPrice = 25.50;`, `function updateInventoryStock() { ... }`.
+* **Declaration (ES6+):** Se prohíbe el uso de `var`. Solo se permite `const` para valores inmutables y `let` para variables con ámbito de bloque.
+* **Expanded Syntax:** Las llaves de apertura se colocan en la misma línea que la declaración, y las de cierre en una línea nueva.
+
+**4. C#**
+* **PascalCase:** Utilizado obligatoriamente para nombres de clases, namespaces y métodos. Ejemplo: `public class InventoryManager { public void SaveProduct() { ... } }`.
+* **camelCase:** Utilizado para parámetros de métodos y variables locales. Ejemplo: `int currentStockCount = 50;`.
+* **Single Responsibility Principle:** Cada clase o método debe realizar una única tarea bien definida dentro de la lógica de Qullqa.
+* **Comments & Documentation:** Uso de comentarios XML (`///`) para documentar el propósito de métodos complejos y clases.
+
+**5. Gherkin**
+* **Given-When-Then Structure:** Se sigue estrictamente esta estructura para definir el comportamiento del sistema desde la perspectiva del usuario.
+* **Business-Readable Language:** Los escenarios deben redactarse en un lenguaje comprensible para el usuario final, evitando tecnicismos.
+* **Scenario Outline:** Se utiliza para pruebas masivas con diferentes juegos de datos.
+
+```gherkin
+Scenario Outline: Product stock alert
+  Given the store owner is in the inventory dashboard
+  When the stock of "<product>" falls below <threshold>
+  Then the system should display a "Low Stock" alert
+  Examples:
+    | product | threshold |
+    | Rice    | 10        |
+    | Milk    | 5         |
+```
 ### 5.1.4. Software Deployment Configuration
 
 ## 5.2. Landing Page, Services & Applications Implementation
