@@ -1822,6 +1822,10 @@ En el marco de Scrum, nuestro equipo utilizara este inventario para seleccionar 
   <br/>
 </p>
 
+### 4.1.2. Web Style Guidelines.
+<div align="justify">
+  Una aplicación como Qullqa requiere ser intuitiva y fácil de usar para cualquier usuario, por lo que, aplicando los elementos visuales y tipográficos definidos previamente, se busca ofrecer una experiencia de navegación clara, fluida y accesible. El diseño prioriza la simplicidad sin perder el carácter moderno de la marca, permitiendo que los usuarios interactúen de manera eficiente mientras perciben seguridad y confianza, especialmente al gestionar información o recursos dentro del sistema. Asimismo, mediante un enfoque responsivo y el uso de elementos gráficos equilibrados, se pretende proyectar una imagen atractiva y profesional, manteniendo al usuario interesado y correctamente informado sobre el funcionamiento de la aplicación en todo momento. 
+</div>
 
 ## 4.2. Information Architecture
 
