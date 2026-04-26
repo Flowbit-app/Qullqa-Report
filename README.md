@@ -1782,6 +1782,11 @@ En el marco de Scrum, nuestro equipo utilizara este inventario para seleccionar 
 </div>
 
 ### 4.1.1. General Style Guidelines
+**Branding**
+<div align="justify">
+  El nombre de nuestra propuesta de solución es Qullqa, un término de origen quechua que hace referencia a los espacios de almacenamiento utilizados en el antiguo Imperio Inca para conservar recursos de manera organizada y segura. Asimismo, Qullqa simboliza la gestión eficiente y ordenada de la información, lo cual refleja el propósito de la plataforma de centralizar y estructurar datos de forma accesible y confiable. Por otro lado, el uso de una palabra en quechua resalta la conexión con nuestras raíces culturales, aportando identidad y valor local al proyecto. En conjunto, Qullqa representa una solución enfocada en el almacenamiento inteligente de información, promoviendo organización, accesibilidad y una gestión eficiente de los recursos dentro del sistema.
+</div>
+
 ### 4.1.2. Web Style Guidelines
 
 ## 4.2. Information Architecture
