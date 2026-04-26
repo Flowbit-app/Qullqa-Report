@@ -1874,10 +1874,48 @@ Dashboard & Analytics <br>
   </div> 
 
 ### 4.6.2. Software Architecture Context Diagram
+
+*Diagrama de contexto*
+<img src="assets/img/d-contexto.png" alt="Dashboard & Analytics - Qullqa" width="500"/>
+
 ### 4.6.3. Software Architecture Container Diagrams
+
+*Diagrama de contenedores*
+
+<img src="assets/img/d-contenedores.png" alt="Dashboard & Analytics - Qullqa" width="500"/>
+
 ### 4.6.4. Software Architecture Components Diagrams
 
+#### Diagrama de componentes
+
+###### Diagrama de componentes de Access Management
+<p align = "center">
+<img src="assets/img/componentes-access.png" alt="access" width="500"/>
+
+###### Diagrama de componentes de Billing
+<p align = "center">
+<img src="assets/img/componentes-billing.png" alt="billing" width="500"/>
+
+###### Diagrama de componentes de Inventory Management
+<p align = "center">
+<img src="assets/img/componentes-inventory.png" alt="invent" width="500"/>
+
+###### Diagrama de componentes de notifications
+<p align = "center">
+<img src="assets/img/componentes-notifications.png" alt="noti" width="500"/>
+
+###### Diagrama de componentes de tracking
+<p align = "center">
+<img src="assets/img/componentes-tracking.png" alt="tracking" width="500"/>
+
+###### Diagrama de componentes de sales
+<p align = "center">
+<img src="assets/img/componentes-sales.png" alt="sales" width="500"/>
+
+
 ## 4.7. Software Object-Oriented Design
+
+
 
 ### 4.7.1. Class Diagrams
 
