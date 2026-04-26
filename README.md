@@ -1785,7 +1785,32 @@ En el marco de Scrum, nuestro equipo utilizara este inventario para seleccionar 
 ## 4.2. Information Architecture
 
 ### 4.2.1. Organization Systems
+La arquitectura de la información en **Qullqa** está diseñada para que el bodeguero o farmacéutico acceda de manera inmediata a los indicadores de riesgo de su negocio, minimizando la carga cognitiva mediante flujos intuitivos y una organización lógica de los datos.
 
+<a name="org-hierarchy"></a>
+**a) Jerarquía visual** </br>
+El sistema emplea una estructura donde la información crítica se destaca en los puntos de acceso más frecuentes:
+* **Landing Page:** Se utiliza un flujo descendente que inicia con la propuesta de valor en el Hero Section ("Gestión inteligente para tu bodega o farmacia"), seguida de indicadores de impacto social (535K+ bodegas) para generar confianza, y finalmente el detalle de servicios y visión.
+* **Dashboard de la aplicación:** Se prioriza la visualización de estados críticos. En la parte superior se ubican tarjetas de resumen con colores de contraste: "Stock Bajo" (Amarillo/Alerta) y "Por Vencer" (Rojo/Peligro), asegurando que el usuario identifique el riesgo antes que la información general.
+
+<a name="org-sequential"></a>
+**b) Organización secuencial** </br>
+Los flujos complejos se descomponen en pasos simples para evitar la sobrecarga cognitiva:
+* **Registro de Ventas (POS):** El usuario sigue un flujo lógico: Selección de productos a visualización de carrito con cálculo de impuestos (IGV), luego a Confirmación de venta y actualización automática de stock.
+* **Gestión de inventario:** El flujo de añadir un nuevo producto descompone la carga de datos en campos específicos (Nombre, Precio, Stock, Vencimiento) para asegurar que no se omitan datos críticos de trazabilidad.
+
+<a name="org-matrix"></a>
+**c) Organización matricial** </br>
+Diseñada para el análisis detallado donde el usuario puede cruzar información de múltiples dimensiones:
+* **Control de movimientos:** El usuario puede cruzar información de entradas, salidas y ajustes de stock por tipo de movimiento y fecha, facilitando auditorías rápidas del almacén.
+
+<a name="org-categorization"></a>
+**d) Sistemas de categorización** </br>
+* **Según Audiencia:**
+    * **Bodegueros independientes:** Enfoque en ventas y ganancias reales.
+    * **Farmacias/Boticas:** Enfoque en lotes, vencimientos y trazabilidad.
+* **Por tópicos:** La aplicación organiza sus funcionalidades en módulos temáticos claramente diferenciados: Inventario, Alertas, Ventas, Proveedores y Reportes.
+* **Cronológico:** Las alertas de vencimiento y el historial de movimientos se organizan temporalmente para permitir una gestión proactiva de la merma.
 
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
