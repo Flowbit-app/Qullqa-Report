@@ -1993,11 +1993,38 @@ Proporciona vías alternativas para encontrar información o realizar acciones r
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
+<img src="assets/img/mock-ups/desktop/Landing_page_mock-up.jpg" alt="Landing Page" width="900"/> <br>
 ### 4.3.2. Landing Page Mock-up
+<img src="assets/img/mock-ups/desktop/Landing_page_mock-up.jpg" alt="Landing Page" width="900"/> <br>
 
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
+<img src="assets/img/wireframes/desktop/Dashboard_desktop_wireframe.png" alt="Dashboard Desktop Wireframe" width="900"/> <br>
+<img src="assets/img/wireframes/desktop/Iniciar_sesion_desktop_wireframe.png" alt="Iniciar Sesion Desktop Wireframe" width="900"/> <br>
+<img src="assets/img/wireframes/desktop/Registro_desktop_wireframe.png" alt="Registro Desktop Wireframe" width="900"/> <br>
+<img src="assets/img/wireframes/desktop/Productos_desktop_wireframe.png" alt="Productos Desktop Wireframe" width="900"/> <br>
+<img src="assets/img/wireframes/desktop/Registro_productos_desktop_wireframe.png" alt="Registro Productos Desktop Wireframe" width="900"/> <br>
+<img src="assets/img/wireframes/desktop/Registro_POS_desktop_wireframe.png" alt="Registro POS Desktop Wireframe" width="900"/> <br>
+<img src="assets/img/wireframes/desktop/Movimientos_desktop_wireframe.png" alt="Movimientos Desktop Wireframe" width="900"/> <br>
+<img src="assets/img/wireframes/desktop/Alertas_stock_desktop_wireframe.png" alt="Alertas Stock Desktop Wireframe" width="900"/> <br>
+<img src="assets/img/wireframes/desktop/Alertas_vencimiento_desktop_wireframe.png" alt="Alertas Vencimiento Desktop Wireframe" width="900"/> <br>
+<img src="assets/img/wireframes/mobile/Inicio_sesion_mobile_wireframe.png" alt="Inicio Sesion Mobile Wireframe" width="300"/> <br>
+<img src="assets/img/wireframes/mobile/Registro_1_mobile_wireframe.png" alt="Registro 1 Mobile Wireframe" width="300"/> <br>
+<img src="assets/img/wireframes/mobile/Registro_2_mobile_wireframe.png" alt="Registro 2 Mobile Wireframe" width="300"/> <br>
+<img src="assets/img/wireframes/mobile/Menu_mobile_wireframe.png" alt="Menu Mobile Wireframe" width="300"/> <br>
+<img src="assets/img/wireframes/mobile/Dashboard_mobile_1_wireframe.png" alt="Dashboard Mobile 1 Wireframe" width="300"/> <br>
+<img src="assets/img/wireframes/mobile/Dashboard_mobile_2_wireframe.png" alt="Dashboard Mobile 2 Wireframe" width="300"/> <br>
+<img src="assets/img/wireframes/mobile/Nuevo_producto_mobile_wireframe.png" alt="Nuevo Producto Mobile Wireframe" width="300"/> <br>
+<img src="assets/img/wireframes/mobile/Nuevo_producto_2_mobile_wireframe.png" alt="Nuevo Producto 2 Mobile Wireframe" width="300"/> <br>
+<img src="assets/img/wireframes/mobile/Registrar_venta_POS_mobile_wireframe.png" alt="Registrar Venta POS Mobile Wireframe" width="300"/> <br>
+<img src="assets/img/wireframes/mobile/Registrar_venta_POS_2_mobile_wireframe.png" alt="Registrar Venta POS 2 Mobile Wireframe" width="300"/> <br>
+<img src="assets/img/wireframes/mobile/Movimientos_mobile_wireframe.png" alt="Movimientos Mobile Wireframe" width="300"/> <br>
+<img src="assets/img/wireframes/mobile/Movimientos_mobile_2_wireframe.png" alt="Movimientos Mobile 2 Wireframe" width="300"/> <br>
+<img src="assets/img/wireframes/mobile/Alertas_1_stock_mobile_wireframe.png" alt="Alertas 1 Stock Mobile Wireframe" width="300"/> <br>
+<img src="assets/img/wireframes/mobile/Alertas_1_vencimiento_mobile_wireframe.png" alt="Alertas 1 Vencimiento Mobile Wireframe" width="300"/> <br>
+<img src="assets/img/wireframes/mobile/Alertas_2_stock_mobile_wireframe.png" alt="Alertas 2 Stock Mobile Wireframe" width="300"/> <br>
+<img src="assets/img/wireframes/mobile/Alertas_2_vencimiento_mobile_wireframe.png" alt="Alertas 2 Vencimiento Mobile Wireframe" width="300"/> <br>
 
 #### Wireflow: Visualización del plan de suscripción adquirido y posible mejora 
 
@@ -2024,6 +2051,28 @@ Que el usuario pueda observar todas las métricas posibles dentro de su lógica 
 
 
 ### 4.4.3. Web Applications Mock-ups
+<img src="assets/img/mock-ups/desktop/Dashboard_desktop.png" alt="Dashboard Desktop" width="900"/> <br>
+<img src="assets/img/mock-ups/desktop/Iniciar_sesion_desktop.png" alt="Iniciar Sesion Desktop" width="900"/> <br>
+<img src="assets/img/mock-ups/desktop/Registro_desktop.png" alt="Registro Desktop" width="900"/> <br>
+<img src="assets/img/mock-ups/desktop/Productos_desktop.png" alt="Productos Desktop" width="900"/> <br>
+<img src="assets/img/mock-ups/desktop/Registro_productos_desktop.png" alt="Registro Productos Desktop" width="900"/> <br>
+<img src="assets/img/mock-ups/desktop/Registro_POS_desktop.png" alt="Registro POS Desktop" width="900"/> <br>
+<img src="assets/img/mock-ups/desktop/Movimientos_desktop.png" alt="Movimientos Desktop" width="900"/> <br>
+<img src="assets/img/mock-ups/desktop/Alertas_stock_desktop.png" alt="Alertas Stock Desktop" width="900"/> <br>
+<img src="assets/img/mock-ups/desktop/Alertas_vencimiento_desktop.png" alt="Alertas Vencimiento Desktop" width="900"/> <br>
+<img src="assets/img/mock-ups/mobile/Inicio_sesion_mobile.png" alt="Inicio Sesion Mobile" width="300"/> <br>
+<img src="assets/img/mock-ups/mobile/Registro_1_mobile.png" alt="Registro 1 Mobile" width="300"/> <br>
+<img src="assets/img/mock-ups/mobile/Registro_2_mobile.png" alt="Registro 2 Mobile" width="300"/> <br>
+<img src="assets/img/mock-ups/mobile/Menu_mobile.png" alt="Menu Mobile" width="300"/> <br>
+<img src="assets/img/mock-ups/mobile/Dashboard_mobile_1.png" alt="Dashboard Mobile 1" width="300"/> <br>
+<img src="assets/img/mock-ups/mobile/Dashboard_mobile_2.png" alt="Dashboard Mobile 2" width="300"/> <br>
+<img src="assets/img/mock-ups/mobile/Nuevo_producto_mobile.png" alt="Nuevo Producto Mobile" width="300"/> <br>
+<img src="assets/img/mock-ups/mobile/Nuevo_producto_2_mobile.png" alt="Nuevo Producto 2 Mobile" width="300"/> <br>
+<img src="assets/img/mock-ups/mobile/Registrar_venta_POS_mobile.png" alt="Registrar Venta POS Mobile" width="300"/> <br>
+<img src="assets/img/mock-ups/mobile/Registrar_venta_POS_2_mobile.png" alt="Registrar Venta POS 2 Mobile" width="300"/> <br>
+<img src="assets/img/mock-ups/mobile/Alertas_1_mobile.png" alt="Alertas 1 Mobile" width="300"/> <br>
+<img src="assets/img/mock-ups/mobile/Alertas_2_mobile.png" alt="Alertas 2 Mobile" width="300"/> <br>
+
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ##### User goal: 
