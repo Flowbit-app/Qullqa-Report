@@ -2467,11 +2467,96 @@ Scenario Outline: Product stock alert
 ### 5.1.4. Software Deployment Configuration
 
 ## 5.2. Landing Page, Services & Applications Implementation
+
+En este apartado se documenta la ejecución técnica de QULLQA, abarcando desde la construcción de la Landing Page informativa hasta el despliegue de los microservicios y la aplicación web para bodegas y farmacias. Siguiendo el orden de prioridad de nuestro Product Backlog, el desarrollo se ha ejecutado en iteraciones ágiles, asegurando que funcionalidades como la autenticación de usuarios sean implementadas bajo estándares de diseño adaptable (Responsive Web Design) y desplegadas en la nube de forma progresiva.
+
 ### 5.2.1. Sprint 1
+
+Este primer ciclo de desarrollo se centró en establecer los pilares operativos de QULLQA, integrando el esfuerzo colaborativo para entregar un producto funcional inicial. Durante este Sprint, el equipo priorizó la captación de usuarios mediante la Landing Page, documentando cada fase desde la planificación hasta el despliegue final para validar la funcionalidad base del sistema.
+
 #### 5.2.1.1. Sprint Planning 1
+
+El Sprint Planning Meeting marcó el inicio formal del desarrollo del código de QULLCA. Durante esta sesión, el equipo de desarrollo junto al Product Owner seleccionaron las Historias de Usuario más prioritarias del Product Backlog para definir el objetivo central de la iteración. A continuación, se presenta el cuadro resumen con los detalles y acuerdos de esta reunión:
+
+| **Sprint #** | Sprint 1 |
+| :--- | :--- |
+| **Sprint Planning Background** | |
+| **Date** | 2026-04-18 |
+| **Time** | 9:00 AM |
+| **Location** | Cubiculo - Pabellon L |
+| **Prepared By** | Arturo Valentino Contreras Torres  |
+| **Attendees (to planning meeting)** | Asmat Alminco, Martin Alejandro / Contreras Torres, Arturo Valentino / Güere Calero, Fernando Julio / Huaman Oscco, Aldo Jesus / Ramos Fuentes Rivera, Adriana Nicole |
+| **Sprint n – 1 Review Summary** | Al ser el primer Sprint de desarrollo, la revisión anterior corresponde a la fase de ideación. Resultados alcanzados: arquitectura C4 finalizada, modelado de base de datos diseñada y repositorios GitHub configurados para el uso de gitflow. El Product Owner brindó el feedback necesario para iniciar la codificación orientada al dominio y siguiendo como base las User Storys. |
+| **Sprint n – 1 Retrospective Summary** | Como retrospectiva inicial de la forma de trabajo, el equipo identificó como acierto el uso de diagramas compartidos, el uso de herramientas colaborativos como GitHub y Jira, pero reconoció como oportunidad de mejora establecer reglas más estrictas de GitFlow para evitar colisiones en los Pull Requests futuros. |
+| **Sprint Goal & User Stories** | |
+| **Sprint n Goal** | **Contexto:** El equipo de producto de QULLQA ha decidido priorizar el establecimiento de la identidad digital de la plataforma y la seguridad de acceso para los primeros usuarios. El esfuerzo se centra en comunicar de manera efectiva la propuesta de valor diferenciada para dueños de bodegas independientes (enfocada en control de stock) y farmacias (enfocada en vencimientos). Asimismo, se implementará el sistema base de gestión de identidad para permitir que los usuarios reales comiencen a interactuar con el módulo de inventario, transformando el diseño de arquitectura y mock-ups previos en un entorno funcional y seguro. <br><br> **Sprint Goal:**<br>*“Our focus is on establishing a trustworthy digital presence and a secure entry point for our initial business owners. We believe it delivers clarity on the product’s value proposition to prospective customers and a reliable onboarding experience to independent store and pharmacy owners.This will be confirmed when visitors can identify specific benefits for their business segment on the Landing Page, and administrators (like Carlos and Carmen) can successfully register, log in, and perform the initial registration of their product catalog without errors.” |
+| **Sprint n Velocity** | 25 Story Points. (Velocidad estimada basada en la capacidad inicial del equipo para configurar los entornos y desarrollar los módulos de autenticación básicos). |
+| **Sum of Story Points** | 12 Story Points. |
+
 #### 5.2.1.2. Aspect Leaders and Collaborators
+
+* En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)**. Esta matriz detalla los líderes (L) y colaboradores (C) para cada aspecto clave del Sprint, asegurando una comunicación clara y una distribución de responsabilidades eficiente para el proyecto **SmartLock**.
+
+La organización de líderes y colaboradores está directamente relacionada con la selección de tareas (tasks) que se desarrollarán durante el Sprint.
+
+| Team Member | GitHub Username | Arquitectura & DDD (L/C) | Desarrollo Backend & API (L/C) | Simulacion IoT & Hardware (L/C) | Frontend & UI/UX (L/C) | QA & Testing (L/C) |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
+| Asmat Alminco, Martin Alejandro | Alemarr2 | C | C | C | C | L |
+| Contreras Torres, Arturo Valentino | Arturouu  | L | C | C | C | C |
+| Güere Calero, Fernando Julio | FerG17 | C | C | L | C | C |
+| Huaman Oscco, Aldo Jesus | Jesusho22 | C | C | C | L | C |
+| Ramos Fuentes Rivera, Adriana Nicole | Adriana832 | C | L | C | C | C |
+---
+
+> **Leyenda:**  </br>
+> **L:** Lider (Líder del aspecto)  
+> **C:** Colaborador (Colaborador y desarrollo)
+
 #### 5.2.1.3. Sprint Backlog 1
-#### 5.2.1.4. Development Evidence for Sprint Review
+
+**Periodo:** 6 de abril – 4 de mayo  
+**Objetivo del Sprint:** Tener la landing funcional con usuarios reales accediendo y mostrando interes, estableciendo la base visual y funcional de QULLQA.
+
+---
+
+| **User Story Id** | **Título de la Historia** | **Task Id** | **Título de la Tarea** | **Descripción de la Tarea** | **Est. (Hrs)** | **Asignado** | **Status** |
+| :--- | :--- | :--- | :--- | :--- | :---: | :--- | :---: |
+| **QULLQA-13** | Registrarse e iniciar sesión | T-13-1 | Diseño de formularios | Crear la interfaz visual para el registro de nuevos dueños y el acceso seguro. | 6 | Usuario | To-Do |
+| | | T-13-2 | Lógica de autenticación | Programar la validación de credenciales y creación de cuentas en la base de datos. | 8 | Usuario | To-Do |
+| | | T-13-3 | Pruebas de acceso | Verificar que el usuario pueda entrar y salir de su sesión correctamente. | 3 | Usuario | To-Do |
+| **QULLQA-15** | Registrar producto | T-15-1 | Formulario de datos | Implementar el formulario para ingresar nombre, precio, stock y categoría del producto. | 6 | Usuario | To-Do |
+| | | T-15-2 | Guardado en inventario | Configurar el envío de datos para que el producto aparezca en la lista oficial. | 5 | Usuario | To-Do |
+| **QULLQA-16** | Actualizar producto y precio | T-16-1 | Función de edición | Habilitar el botón de editar para cargar los datos actuales en el formulario. | 4 | Usuario | To-Do |
+| | | T-16-2 | Actualización de costos | Programar el cambio de precios en tiempo real para reflejar datos actuales. | 4 | Usuario | To-Do |
+| **QULLQA-17** | Consultar lista de productos y disponibilidad | T-17-1 | Vista de tabla principal | Crear la pantalla donde se listan todos los productos registrados. | 7 | Usuario | To-Do |
+| | | T-17-2 | Buscador de stock | Implementar una barra de búsqueda para filtrar productos por nombre o código. | 4 | Usuario | To-Do |
+| **QULLQA-09** | Conocer la propuesta de valor para bodegueros | T-09-1 | Redacción de beneficios | Escribir los textos que explican cómo Qullqa ayuda específicamente a las bodegas. | 3 | Usuario | To-Do |
+| | | T-09-2 | Diseño sección Bodegas | Crear el bloque visual en la landing page enfocado en el segmento bodeguero. | 5 | Usuario | To-Do |
+| **QULLQA-10** | Conocer la propuesta de valor para farmacias | T-10-1 | Contenido especializado | Redactar la sección sobre control de vencimientos y reposición de medicamentos. | 3 | Usuario | To-Do |
+| | | T-10-2 | Diseño sección Farmacias | Implementar los elementos gráficos que representen el valor para el sector farmacéutico. | 5 | Usuario | To-Do |
+| **QULLQA-12** | Redirigirse desde la Landing Page hacia la aplicación | T-12-1 | Configuración de botones | Crear y enlazar los botones de "Empezar" o "Login" en la página principal. | 2 | Usuario | To-Do |
+| | | T-12-2 | Flujo de navegación | Asegurar que al hacer clic, el usuario llegue a la pantalla correcta de la app. | 2 | Usuario | To-Do |
+| **TOTAL** | | | | **Esfuerzo total estimado para el Sprint** | **77** | | |
+
+---
+
+<p align="center">
+  <img src="assets/img/artefacts/sprint.png" width="800" alt="Product Backlog"/>
+  <br/><i>Artefacto: Jira para Sprint Priorizado</i>
+</p>
+
+##### Resumen Técnico
+- **Total de Horas:** 77 horas.
+- **Distribución:** 2 semanas de desarrollo (considerando jornada laboral estándar).
+- **Entregable Principal:** Aplicación base con Landing Page informativa y módulo funcional de inventario (CRUD de productos).
+
+---
+
+#### 5.2.1.4. Development Evidence for Sprint Review.
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.1.8. Team Collaboration Insights during Sprint.#### 5.2.1.4. Development Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
