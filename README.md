@@ -1820,8 +1820,15 @@ En esta sección se presenta el Design-Level EventStorming de Qullqa, realizado 
 ### 4.7.1. Class Diagrams
 
 ## 4.8. Database Design
+<div align="justify">
+  Para el proyecto, la elaboración del diagrama de base de datos resulta fundamental, ya que permite estructurar de manera clara y organizada todas las entidades, atributos y relaciones del sistema. Esto facilita la comprensión del funcionamiento de la plataforma, asegura una correcta gestión de la información y ayuda a prevenir errores en el desarrollo. Además, el diagrama sirve como guía durante la implementación, optimiza el diseño del sistema y contribuye a que la solución sea escalable y mantenible a lo largo del tiempo. Además, se decidió usar MySQL como motor de base de datos.
+</div>
 
 ### 4.8.1. Database Diagrams
+<p align="center">
+  <img src="assets\img\diagrams\qullqa_database_diagram_.png" width="500" alt="Qullqa Database Diagram"/>
+  <br/><i>Qullqa Database Diagram</i>
+</p>
 
 # Conclusiones
 ## Conclusiones y recomendaciones
