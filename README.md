@@ -1810,6 +1810,68 @@ En el marco de Scrum, nuestro equipo utilizara este inventario para seleccionar 
 
 En esta sección se presenta el Design-Level EventStorming de Qullqa, realizado con el fin de detallar y refinar el modelado del dominio identificado previamente. Durante la sesión, el equipo organizó eventos de dominio, comandos, políticas, agregados y bounded contexts relacionados con los principales procesos del sistema, como la gestión de inventario, ventas, alertas, almacenes, proveedores, reportes y suscripciones. Este análisis permitió comprender mejor las responsabilidades de cada contexto y sus relaciones, sirviendo como base para el diseño de la arquitectura del software.
 
+**Design Level Event Storming - Qullqa**
+
+  <div>
+    <img src="assets/img/event_storming/design_level_event_storming.png" alt="Design Level Event Storming - Qullqa" width="500"/>
+  </div> <br>
+
+**Bounded Contexts**
+
+Identity & Access Management <br>
+
+ <div>
+    <img src="assets/img/event_storming/dlev_identity_access_management.png" alt="Identity & Access Management - Qullqa" width="500"/>
+  </div> 
+
+<br>
+Subscription & Plan Management <br>
+
+ <div>
+    <img src="assets/img/event_storming/dlev_subscription_plan_management.png" alt="Subscription & Plan Management - Qullqa" width="500"/>
+  </div> 
+
+<br>
+Delivery Tracking <br>
+
+ <div>
+    <img src="assets/img/event_storming/dlev_delivery_tracking.png" alt="Delivery Tracking - Qullqa" width="500"/>
+  </div> 
+
+<br>
+Product & Inventory Management <br>
+
+ <div>
+    <img src="assets/img/event_storming/dlev_product_inventory_management.png" alt="Product & Inventory Management - Qullqa" width="500"/>
+  </div> 
+
+<br>
+Sales & POS Management <br>
+
+ <div>
+    <img src="assets/img/event_storming/dlev_sales_pos_management.png" alt="Sales & POS Management - Qullqa" width="500"/>
+  </div> 
+
+<br>
+Alerts & Operational Monitoring <br>
+
+ <div>
+    <img src="assets/img/event_storming/dlev_alerts_operational_monitoring.png" alt="Alerts & Operational Monitoring - Qullqa" width="500"/>
+  </div> 
+
+<br>
+Supplier & Replenishment Management <br>
+
+ <div>
+    <img src="assets/img/event_storming/dlev_supplier_replenishment_management.png" alt="Supplier & Replenishment Management - Qullqa" width="500"/>
+  </div> 
+
+<br>
+Dashboard & Analytics <br>
+
+ <div>
+    <img src="assets/img/event_storming/dlev_dashboard_analytics.png" alt="Dashboard & Analytics - Qullqa" width="500"/>
+  </div> 
 
 ### 4.6.2. Software Architecture Context Diagram
 ### 4.6.3. Software Architecture Container Diagrams
