@@ -1988,6 +1988,19 @@ Proporciona vías alternativas para encontrar información o realizar acciones r
 
 ## 4.5. Web Applications Prototyping
 
+  <div>
+    <img src="assets/img/prototypes/prototipo_escritorio.png" alt="Prototipo Desktop - Qullqa" width="500"/>
+  </div> <br>
+
+***Enlace del video:*** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202414802_upc_edu_pe/IQD-6yWqUeH0Q6vF38H0ZKtyAWr8-l5OcorW5kveBpszCzE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=J1HICp)
+
+  <div>
+    <img src="assets/img/prototypes/prototipo_mobile.png" alt="Prototipo Mobile - Qullqa" width="500"/>
+  </div> <br>
+
+***Enlace del video:*** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202414802_upc_edu_pe/IQBRYjvsldiZRrHfLLrnWJFYAVI452UMLxj62G48YWe1Y5k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hTV8ws)
+
+
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Design-Level Event Storming
