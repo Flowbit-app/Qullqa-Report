@@ -1881,6 +1881,26 @@ Se utiliza el estándar `utf-8` para asegurar la correcta visualización de tild
 
 
 ### 4.2.4. Searching Systems
+
+Para evitar que el usuario se sienta perdido ante un volumen alto de productos, se han implementado sistemas de búsqueda reactivos que garantizan una toma de decisiones rápida y precisa.
+
+<a name="search-keywords"></a>
+**a) Búsqueda por palabras clave** </br>
+Implementada en el módulo de inventario, permite al usuario localizar productos de manera instantánea:
+* **Criterios de búsqueda:** Nombre de producto o escaneo de código de barras.
+* **Ubicación:** Barra de búsqueda superior persistente en el módulo de Inventario.
+
+<a name="search-filters"></a>
+**b) Sistemas de filtrado avanzado** </br>
+Permite reducir el ruido informativo y aislar rápidamente los productos en situación crítica:
+* **Filtros por Alerta:** Capacidad de aislar productos con "Stock Bajo" o "Próximos a Vencer" para priorizar la reposición o el retiro.
+* **Filtros por Categoría:** Clasificación de productos según el rubro (Abarrotes, Medicamentos, Bebidas, etc.).
+
+<a name="search-results"></a>
+**c) Visualización de resultados** </br>
+* **Resultados con códigos de color:** Si una búsqueda devuelve un producto con stock crítico, este se resalta visualmente para forzar la atención del administrador.
+* **Estado de "Sin resultados":** Si no se encuentra un producto, el sistema ofrece un acceso directo para "Añadir nuevo producto", manteniendo el flujo operativo sin interrupciones.
+
 ### 4.2.5. Navigation Systems
 
 ## 4.3. Landing Page UI Design
