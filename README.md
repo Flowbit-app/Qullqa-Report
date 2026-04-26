@@ -1840,6 +1840,46 @@ Etiquetas diseñadas para retroalimentar al usuario sobre procesos internos:
 * **Notificaciones:** "Producto añadido con éxito", "Alerta: Stock insuficiente", "Venta registrada".
 
 ### 4.2.3. SEO Tags and Meta Tags
+Las meta etiquetas permiten codificar y especificar metadatos en las páginas web del proyecto. Aunque no son visibles para los usuarios, los navegadores y rastreadores web las utilizan para leer y analizar la estructura del sitio. Así, facilitan tareas de indexación, mantenimiento del contenido y, sobre todo, mejoran el posicionamiento de la landing page y demás secciones de Qullqa en los motores de búsqueda.
+
+<a name="seo-encoding"></a>
+**Codificación de caracteres** </br>
+Se utiliza el estándar `utf-8` para asegurar la correcta visualización de tildes y caracteres especiales del idioma español, optimizando además el uso de memoria para la mayoría de casos comunes.
+
+<a name="seo-main-tags"></a>
+**Etiquetas principales utilizadas** </br>
+
+* **Title:** Permite definir el nombre visible de la pestaña y el identificador principal para indexación y búsquedas:
+  `<title>Qullqa - Gestión Inteligente para tu Negocio</title>`
+
+* **Description:** Describe el objetivo y contenido de la página, mostrándose como resumen en los resultados de búsqueda:
+  `<meta name="description" content="Qullqa digitaliza tu inventario, controla tus ventas y monitorea tus entregas con IoT en tiempo real. La solución ideal para bodegas y farmacias en Perú.">`
+
+* **Keywords:** Lista palabras relacionadas al propósito y alcance de la plataforma, ayudando a los buscadores en la categorización temática:
+  `<meta name="keywords" content="gestión de inventario, bodega, farmacia, control de stock, IoT, ventas POS, MYPE, Perú, Flowbit, Qullqa">`
+
+* **Author y copyright:** Se especifica el equipo autor y los derechos de autor del desarrollo:
+  `<meta name="author" content="Flowbit Team">`
+  `<meta name="copyright" content="Copyright Flowbit 2026" />`
+
+<a name="seo-example"></a>
+**Ejemplo completo de Meta Tags en una página principal del proyecto** </br>
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qullqa - Gestión Inteligente para tu Negocio</title>
+    <meta name="description" content="Digitaliza tu inventario, controla tus ventas y monitorea tus entregas con IoT en tiempo real.">
+    <meta name="keywords" content="inventario, bodega, farmacia, stock, IoT, POS, Qullqa">
+    <meta name="author" content="Flowbit">
+    <meta name="copyright" content="Copyright Flowbit 2026" />
+</head>
+```
+
+
 ### 4.2.4. Searching Systems
 ### 4.2.5. Navigation Systems
 
