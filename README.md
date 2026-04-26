@@ -1982,9 +1982,136 @@ Proporciona vías alternativas para encontrar información o realizar acciones r
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
-### 4.4.2. Web Applications Wireflow Diagrams
+
+#### Wireflow: Visualización del plan de suscripción adquirido y posible mejora 
+
+
+######  User goal: 
+
+Que el usuario pueda observar a todo detalle cuales son las funcionalidades que desbloquea dependiendo del tipo de suscripción que posea para luego evaluar cambiarlo.
+
+###### US asociada: US06	-- Gestionar el plan contratado y sus límites
+
+<img src="assets/img/wire1.png" alt="Design Level Event Storming - Qullqa" width="500"/>
+
+
+#### Wireflow: Visualización del reporte y generación de archivos multimedia
+
+
+###### User goal: 
+
+Que el usuario pueda observar todas las métricas posibles dentro de su lógica del negocio. Luego, podrá realizar un reporte en un formato conocido resumiendo el reporte.
+
+###### US asociada: US16 -Consultar y descargar reportes detallados
+
+<img src="assets/img/wire2.png" alt="Design Level Event Storming - Qullqa" width="500"/>
+
+
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams
+
+##### User goal: 
+
+##### Userr flow: Visualización del plan de suscripción adquirido y posible mejora 
+
+
+##### User goal: 
+
+Que el usuario pueda observar a todo detalle cuales son las funcionalidades que desbloquea dependiendo del tipo de suscripción que posea para luego evaluar cambiarlo.
+
+
+###### Descripción del flujo: 
+
+Dashboard → Plan y Límites → Funciones y funcionalidades → Planes disponibles
+
+###### Explicación del flujo:
+
+El usuario, desde el dashboard principal puede entrar a visualizar el tipo de suscripción que posee en planes, para luego poder ingresar al apartado de planes disponibles para el caso que intente cambiar de plan. 
+
+
+<img src="assets/img/userflow1.png" alt="Design Level Event Storming - Qullqa" width="500"/>
+
+
+###### Elementos de diseño
+
+El flujo utiliza tarjetas informativas, listas de funcionalidades y bloques de comparación de planes. Se incluyen etiquetas de estado (activo, límites), listas con iconos de verificación y secciones diferenciadas para funcionalidades y restricciones del sistema.
+
+###### Aplicación de principios de diseño
+
+Se aplica correctamente el principio de jerarquía al destacar el estado del plan actual en la parte superior. La proximidad agrupa funcionalidades disponibles y límites de uso en bloques diferenciados, lo que facilita su comprensión. La consistencia en iconografía y colores permite identificar rápidamente funcionalidades habilitadas y restricciones.
+
+###### Diseño inclusivo
+
+El diseño es claro y comprensible, utilizando lenguaje directo y visual (checks, etiquetas). Esto facilita la interpretación incluso para usuarios no técnicos. Como mejora, podría reforzarse el contraste en algunas secciones para asegurar accesibilidad visual en distintos contextos.
+
+###### Arquitectura de la información
+
+La estructura sigue una lógica clara:
+
+Estado actual del usuario (plan activo)
+Funcionalidades disponibles
+Límites de uso
+Métricas actuales del sistema
+Comparación de planes
+
+Esta organización permite que el usuario entienda primero su situación actual y luego evalúe posibles mejoras o cambios de plan.
+
+###### Heurísticas de usabilidad
+
+Se cumple el principio de transparencia del sistema, mostrando claramente límites y capacidades. También se evidencia control del usuario, al permitir evaluar y comparar planes antes de tomar una decisión. Como mejora, podría incorporarse mayor feedback en acciones como cambio de plan.
+
+###### Information Architecture & Logistics
+
+Desde el enfoque de arquitectura y logística, el flujo optimiza la toma de decisiones al presentar la información en un orden lógico: estado → capacidades → límites → comparación. Esto reduce la incertidumbre del usuario y facilita procesos como la actualización de suscripción o gestión de recursos del sistema.
+
+
+
+###### Userr flow: Visualización del reporte y generación de archivos multimedia
+
+
+###### User goal: 
+
+Que el usuario pueda observar todas las métricas posibles dentro de su lógica del negocio. Luego, podrá realizar un reporte en un formato conocido resumiendo el reporte.
+
+
+###### Descripción del flujo: 
+
+Dashboard → Reportes→ Descargar reportes 
+
+###### Explicación del flujo:
+
+El usuario, desde el dashboard principal puede entrar a visualizar el apartado reportes para luego ir scroleando abajo del todo y encuentrar la opción que nos marca la descarga de un resumen de un reporte en formatos clásicos.
+
+
+
+<img src="assets/img/userflow2.png" alt="Design Level Event Storming - Qullqa" width="500"/>
+
+
+###### Elementos de diseño
+El flujo presenta una interfaz basada en tarjetas informativas (cards), gráficos estadísticos y paneles de resumen. Se incluyen componentes como indicadores clave (KPIs), gráficos de líneas y barras, listas categorizadas y botones de descarga. La navegación es vertical y progresiva, permitiendo al usuario explorar desde métricas generales hasta detalles específicos.
+
+###### Aplicación de principios de diseño
+Se evidencia una adecuada jerarquía visual, donde los indicadores principales (ventas, productos, movimientos) se ubican en la parte superior, seguidos de visualizaciones más analíticas. El uso de tarjetas separadas refuerza el principio de proximidad, facilitando la agrupación de información relacionada. Además, la consistencia en colores y estilos contribuye a una experiencia uniforme.
+
+###### Diseño inclusivo
+El diseño prioriza la claridad mediante el uso de etiquetas descriptivas y estructuras simples. Los gráficos permiten una interpretación visual rápida, reduciendo la carga cognitiva. Sin embargo, podría mejorarse incorporando alternativas textuales más explícitas para usuarios con dificultades en la interpretación gráfica.
+
+###### Arquitectura de la información
+La información se organiza de manera jerárquica y progresiva:
+Resumen general (KPIs)
+Análisis temporal (ventas de la semana)
+Comparativas (productos más vendidos)
+Detalle operativo (inventario y categorías)
+Acciones finales (descarga de reportes)
+Esta estructura permite que el usuario pase de una visión global a un análisis detallado sin perder contexto, favoreciendo la toma de decisiones.
+
+
+###### Heurísticas de usabilidad
+El flujo cumple con el principio de visibilidad del estado del sistema, mostrando datos actualizados y comparativos. También favorece el reconocimiento sobre la memoria, al presentar información ya procesada visualmente. Como mejora, podría reforzarse el feedback al momento de interactuar con filtros o descargas.
+
+###### Information Architecture & Logistics
+Desde una perspectiva de arquitectura y logística de la información, el sistema organiza los datos según su valor operativo, priorizando primero los indicadores críticos y luego los elementos analíticos. El flujo permite una navegación eficiente entre análisis y acción, reduciendo fricción en tareas como evaluación del rendimiento o generación de reportes.
+
 
 ## 4.5. Web Applications Prototyping
 
