@@ -250,7 +250,7 @@ Nuestros valores son:
   </tr>
   <tr>
     <td rowspan="4" align="center">
-      <img src="assets/img/adriana-ramos.PNG" alt="Foto de Adriana Ramos" width="500"/>
+      <img src="assets/img/adriana.jpg" alt="Foto de Adriana Ramos" width="500"/>
     </td>
     <td><b>Nombre:</b> Adriana Nicole Ramos Fuentes Rivera</td>
   </tr>
