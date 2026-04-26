@@ -2015,6 +2015,7 @@ Dashboard & Analytics <br>
 ### 4.6.2. Software Architecture Context Diagram
 
 *Diagrama de contexto*
+
 <img src="assets/img/d-contexto.png" alt="Dashboard & Analytics - Qullqa" width="500"/>
 
 ### 4.6.3. Software Architecture Container Diagrams
@@ -2054,9 +2055,15 @@ Dashboard & Analytics <br>
 
 ## 4.7. Software Object-Oriented Design
 
-
-
 ### 4.7.1. Class Diagrams
+
+<img src="assets/img/diagrams/class/Alerts_and_Supplier.png" alt="Class Diagram" width="1000"/> <br>
+<img src="assets/img/diagrams/class/Identity_and_Product.png" alt="Class Diagram" width="1000"/> <br>
+<img src="assets/img/diagrams/class/Product_and_Alerts.png" alt="Class Diagram" width="1000"/> <br>
+<img src="assets/img/diagrams/class/Product_and_Dashboard.png" alt="Class Diagram" width="1000"/> <br>
+<img src="assets/img/diagrams/class/Sales_and_Dashboard.png" alt="Class Diagram" width="1000"/> <br>
+<img src="assets/img/diagrams/class/subscription_and_delivery.png" alt="Class Diagram" width="1000"/> <br>
+<img src="assets/img/diagrams/class/Supplier_and_Replenishment.png" alt="Class Diagram" width="1000"/> <br>
 
 ## 4.8. Database Design
 <p align="justify">
