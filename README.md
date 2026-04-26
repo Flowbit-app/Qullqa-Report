@@ -1813,6 +1813,32 @@ Diseñada para el análisis detallado donde el usuario puede cruzar información
 * **Cronológico:** Las alertas de vencimiento y el historial de movimientos se organizan temporalmente para permitir una gestión proactiva de la merma.
 
 ### 4.2.2. Labeling Systems
+
+El sistema de etiquetado busca la máxima simplicidad, utilizando términos cotidianos para el comerciante peruano y eliminando tecnicismos innecesarios que puedan generar confusión.
+
+<a name="label-navigation"></a>
+**a) Etiquetas de navegación** </br>
+Estas etiquetas se encuentran en los menús principales y barras laterales para orientar al usuario sobre su ubicación actual:
+* **Landing Page:** Inicio, Servicios, Visión, Portafolio, Contacto, Iniciar Sesión, Registrarse.
+* **Web Application:** Dashboard, Productos, Venta POS, Movimientos, Almacenes, Alertas, Reportes, Proveedores.
+
+<a name="label-action"></a>
+**b) Etiquetas de acción** </br>
+Identifican las operaciones que el usuario puede ejecutar dentro de la plataforma:
+* **CTAs Principales:** "Comenzar gratis", "Ver demo", "Añadir Producto", "Finalizar Venta".
+* **Acciones Operativas:** "Editar", "Eliminar", "Filtrar", "Exportar Reporte".
+
+<a name="label-metadata"></a>
+**c) Etiquetas informativas y de estado** </br>
+Utilizadas para encabezados de métricas y estados del negocio:
+* **Indicadores de Inventario:** "Stock Bajo", "Por Vencer", "Valor Inventario", "Productos Totales".
+* **Atributos de Producto:** "SKU / Código", "Precio Unitario", "Stock Actual", "Fecha Expiración".
+
+<a name="label-system"></a>
+**d) Mensajes de sistema y ayuda** </br>
+Etiquetas diseñadas para retroalimentar al usuario sobre procesos internos:
+* **Notificaciones:** "Producto añadido con éxito", "Alerta: Stock insuficiente", "Venta registrada".
+
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
 ### 4.2.5. Navigation Systems
